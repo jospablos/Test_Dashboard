@@ -1,25 +1,31 @@
 ---
 convergence: |+
-  data: {"points":[{"x":68,"y":10},{"x":69,"y":19},{"x":70,"y":26},{"x":71,"y":1},{"x":72,"y":26},{"x":73,"y":37},{"x":74,"y":35},{"x":75,"y":15},{"x":76,"y":42},{"x":77,"y":4}],"id":"convergence","updatedAt":1425265434}
+  data: {"points":[{"x":40,"y":15},{"x":41,"y":0},{"x":42,"y":33},{"x":43,"y":6},{"x":44,"y":44},{"x":45,"y":19},{"x":46,"y":10},{"x":47,"y":49},{"x":48,"y":41},{"x":49,"y":22}],"id":"convergence","updatedAt":1425266572}
 
 valuation: |+
-  data: {"current":54,"last":18,"id":"valuation","updatedAt":1425265433}
+  data: {"current":83,"last":42,"id":"valuation","updatedAt":1425266573}
 
 karma: |+
-  data: {"current":3156,"last":62580,"id":"karma","updatedAt":1425265433}
+  data: {"current":195488,"last":20013,"id":"karma","updatedAt":1425266573}
 
 synergy: |+
-  data: {"value":7,"id":"synergy","updatedAt":1425265433}
+  data: {"value":7,"id":"synergy","updatedAt":1425266573}
 
 buzzwords: |+
-  data: {"items":[{"label":"Leverage","value":6},{"label":"Enterprise","value":8},{"label":"Streamlininess","value":5},{"label":"Web 2.0","value":13},{"label":"Paradigm shift","value":8},{"label":"Exit strategy","value":6},{"label":"Turn-key","value":8},{"label":"Pivoting","value":5},{"label":"Synergy","value":8}],"id":"buzzwords","updatedAt":1425265434}
+  data: {"items":[{"label":"Synergy","value":3},{"label":"Turn-key","value":5},{"label":"Exit strategy","value":11},{"label":"Leverage","value":4},{"label":"Pivoting","value":6},{"label":"Streamlininess","value":3},{"label":"Paradigm shift","value":4},{"label":"Web 2.0","value":3},{"label":"Enterprise","value":1}],"id":"buzzwords","updatedAt":1425266574}
 
 welcome: |+
-  data: {"title":"The amazing title","text":"The time is 2015-03-02 03:01:43 +0000","id":"welcome","updatedAt":1425265433}
+  data: {"title":"The amazing title","text":"The time is 2015-03-02 03:21:45 +0000","id":"welcome","updatedAt":1425266573}
 
-twitter_mentions: "data: {\"comments\":[{\"name\":\"Justin Hill\",\"body\":\"Never
-  stop learning! \\\"@LendLayer: Learn how to code via the @benhoffman_ @ProductHunt
-  collection http://t.co/i3m3GKGTPI #learntocode\\\"\",\"avatar\":\"https://pbs.twimg.com/profile_images/423139177455034368/lcR4ty5X_normal.jpeg\"},{\"name\":\"Steve
+twitter_mentions: "data: {\"comments\":[{\"name\":\"Jeff Ho\",\"body\":\"RT @technewgirl:
+  working hard on @edXOnline 's Intro to CS problem set... Implementing an RSS filter
+  is cool but difficult! #mit6001x #pyth…\",\"avatar\":\"https://pbs.twimg.com/profile_images/531720845459066880/7oWkIEAP_normal.jpeg\"},{\"name\":\"technewgirl\",\"body\":\"working
+  hard on @edXOnline 's Intro to CS problem set... Implementing an RSS filter is cool
+  but difficult! #mit6001x #python #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/571684829373026304/V74bI0jG_normal.jpeg\"},{\"name\":\"Underpaidnurse\",\"body\":\"I
+  just wrangled @FreeCodeCamp Bonfire: Check for Palindromes http://t.co/pi9B4ccEDW
+  #LearnToCode #JavaScript\",\"avatar\":\"https://pbs.twimg.com/profile_images/547874327400415233/L4uI5cwp_normal.jpeg\"},{\"name\":\"Justin
+  Hill\",\"body\":\"Never stop learning! \\\"@LendLayer: Learn how to code via the
+  @benhoffman_ @ProductHunt collection http://t.co/i3m3GKGTPI #learntocode\\\"\",\"avatar\":\"https://pbs.twimg.com/profile_images/423139177455034368/lcR4ty5X_normal.jpeg\"},{\"name\":\"Steve
   McGarry\",\"body\":\"RT @LendLayer: Learn how to code via the @benhoffman_ @ProductHunt
   collection http://t.co/Mpre7z8zZO #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/515930389651529728/4WFKCRxL_normal.jpeg\"},{\"name\":\"BootcampIQ\",\"body\":\"RT
   @LendLayer: Learn how to code via the @benhoffman_ @ProductHunt collection http://t.co/Mpre7z8zZO
@@ -1155,10 +1161,10 @@ twitter_mentions: "data: {\"comments\":[{\"name\":\"Justin Hill\",\"body\":\"Nev
   proud sponsors of @Barclays #kids #LearnToCode programme! #CodingFun #edtech #ukedchat
   Book a session now: http://t.co/5p1ZyrRRIk\",\"avatar\":\"https://pbs.twimg.com/profile_images/3694533757/c14e001dc370a989e185c59183774b0f_normal.png\"},{\"name\":\"The
   HTML500\",\"body\":\"RT @LoyaltyOneJobs: We're ready for the career fair @TheHTML500,
-  stop by to meet the team #learntocode #LoyaltyOne http://t.co/XidUU52wLc\",\"avatar\":\"https://pbs.twimg.com/profile_images/569776407056637952/wH_kG-gj_normal.jpeg\"}],\"id\":\"twitter_mentions\",\"updatedAt\":1425265310}\n\n"
+  stop by to meet the team #learntocode #LoyaltyOne http://t.co/XidUU52wLc\",\"avatar\":\"https://pbs.twimg.com/profile_images/569776407056637952/wH_kG-gj_normal.jpeg\"}],\"id\":\"twitter_mentions\",\"updatedAt\":1425266507}\n\n"
 recent_git_commitc: |+
   data: {"text":"one step closer to a git commit message","id":"recent_git_commitc","updatedAt":1397044067}
 
 recent_git_commit: |+
-  data: {"text":"One step closer to a git commit message","id":"recent_git_commit","updatedAt":1425265433}
+  data: {"text":"Added commit widget","id":"recent_git_commit","updatedAt":1425266566}
 

@@ -6,3 +6,5 @@ gem 'dashing'
 gem 'twitter', '>= 5.0.0'
 
 gem 'dotenv'
+
+gem "github_api"
