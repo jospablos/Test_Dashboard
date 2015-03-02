@@ -1,24 +1,37 @@
 ---
 convergence: |+
-  data: {"points":[{"x":143,"y":33},{"x":144,"y":22},{"x":145,"y":3},{"x":146,"y":26},{"x":147,"y":44},{"x":148,"y":44},{"x":149,"y":8},{"x":150,"y":26},{"x":151,"y":34},{"x":152,"y":1}],"id":"convergence","updatedAt":1425263504}
+  data: {"points":[{"x":68,"y":10},{"x":69,"y":19},{"x":70,"y":26},{"x":71,"y":1},{"x":72,"y":26},{"x":73,"y":37},{"x":74,"y":35},{"x":75,"y":15},{"x":76,"y":42},{"x":77,"y":4}],"id":"convergence","updatedAt":1425265434}
 
 valuation: |+
-  data: {"current":11,"last":79,"id":"valuation","updatedAt":1425263503}
+  data: {"current":54,"last":18,"id":"valuation","updatedAt":1425265433}
 
 karma: |+
-  data: {"current":69190,"last":42561,"id":"karma","updatedAt":1425263503}
+  data: {"current":3156,"last":62580,"id":"karma","updatedAt":1425265433}
 
 synergy: |+
-  data: {"value":7,"id":"synergy","updatedAt":1425263503}
+  data: {"value":7,"id":"synergy","updatedAt":1425265433}
 
 buzzwords: |+
-  data: {"items":[{"label":"Synergy","value":16},{"label":"Leverage","value":13},{"label":"Streamlininess","value":12},{"label":"Turn-key","value":17},{"label":"Web 2.0","value":14},{"label":"Paradigm shift","value":17},{"label":"Exit strategy","value":17},{"label":"Pivoting","value":17},{"label":"Enterprise","value":19}],"id":"buzzwords","updatedAt":1425263504}
+  data: {"items":[{"label":"Leverage","value":6},{"label":"Enterprise","value":8},{"label":"Streamlininess","value":5},{"label":"Web 2.0","value":13},{"label":"Paradigm shift","value":8},{"label":"Exit strategy","value":6},{"label":"Turn-key","value":8},{"label":"Pivoting","value":5},{"label":"Synergy","value":8}],"id":"buzzwords","updatedAt":1425265434}
 
 welcome: |+
-  data: {"title":"The amazing title","text":"The time is 2015-03-02 02:27:03 +0000","id":"welcome","updatedAt":1425263503}
+  data: {"title":"The amazing title","text":"The time is 2015-03-02 03:01:43 +0000","id":"welcome","updatedAt":1425265433}
 
-twitter_mentions: "data: {\"comments\":[{\"name\":\"olivia c u e v a\",\"body\":\"RT
-  @AlbreyPreston: Yo! #javascript #minoritiesintech #learntocode http://t.co/eDXQkoUkvZ\",\"avatar\":\"https://pbs.twimg.com/profile_images/570494363014270976/_tlbXvta_normal.jpeg\"},{\"name\":\"Michael
+twitter_mentions: "data: {\"comments\":[{\"name\":\"Justin Hill\",\"body\":\"Never
+  stop learning! \\\"@LendLayer: Learn how to code via the @benhoffman_ @ProductHunt
+  collection http://t.co/i3m3GKGTPI #learntocode\\\"\",\"avatar\":\"https://pbs.twimg.com/profile_images/423139177455034368/lcR4ty5X_normal.jpeg\"},{\"name\":\"Steve
+  McGarry\",\"body\":\"RT @LendLayer: Learn how to code via the @benhoffman_ @ProductHunt
+  collection http://t.co/Mpre7z8zZO #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/515930389651529728/4WFKCRxL_normal.jpeg\"},{\"name\":\"BootcampIQ\",\"body\":\"RT
+  @LendLayer: Learn how to code via the @benhoffman_ @ProductHunt collection http://t.co/Mpre7z8zZO
+  #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/521828306161639424/J--FsGTS_normal.png\"},{\"name\":\"LendLayer
+  Llama\",\"body\":\"RT @LendLayer: Learn how to code via the @benhoffman_ @ProductHunt
+  collection http://t.co/Mpre7z8zZO #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/558435701927063552/RauBNAb5_normal.jpeg\"},{\"name\":\"JobLayer\",\"body\":\"RT
+  @LendLayer: Learn how to code via the @benhoffman_ @ProductHunt collection http://t.co/Mpre7z8zZO
+  #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/572127225894273024/JK9UPaiU_normal.png\"},{\"name\":\"LendLayer\",\"body\":\"Learn
+  how to code via the @benhoffman_ @ProductHunt collection http://t.co/Mpre7z8zZO
+  #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/507989433044328448/1VyKBf3z_normal.png\"},{\"name\":\"olivia
+  c u e v a\",\"body\":\"RT @AlbreyPreston: Yo! #javascript #minoritiesintech #learntocode
+  http://t.co/eDXQkoUkvZ\",\"avatar\":\"https://pbs.twimg.com/profile_images/570494363014270976/_tlbXvta_normal.jpeg\"},{\"name\":\"Michael
   Donohue\",\"body\":\"The top 15 sites built with #Python http://t.co/REJcgZJTkC
   #learntocode #programming http://t.co/qEojDYSmz7\",\"avatar\":\"https://pbs.twimg.com/profile_images/541766293498519552/PRVy6V3-_normal.jpeg\"},{\"name\":\"Nivedh
   Mudaliar\",\"body\":\"RT @BootcampIQ: \\\"Hard work beats talent when talent doesn't
@@ -1142,10 +1155,10 @@ twitter_mentions: "data: {\"comments\":[{\"name\":\"olivia c u e v a\",\"body\":
   proud sponsors of @Barclays #kids #LearnToCode programme! #CodingFun #edtech #ukedchat
   Book a session now: http://t.co/5p1ZyrRRIk\",\"avatar\":\"https://pbs.twimg.com/profile_images/3694533757/c14e001dc370a989e185c59183774b0f_normal.png\"},{\"name\":\"The
   HTML500\",\"body\":\"RT @LoyaltyOneJobs: We're ready for the career fair @TheHTML500,
-  stop by to meet the team #learntocode #LoyaltyOne http://t.co/XidUU52wLc\",\"avatar\":\"https://pbs.twimg.com/profile_images/569776407056637952/wH_kG-gj_normal.jpeg\"}],\"id\":\"twitter_mentions\",\"updatedAt\":1425263230}\n\n"
+  stop by to meet the team #learntocode #LoyaltyOne http://t.co/XidUU52wLc\",\"avatar\":\"https://pbs.twimg.com/profile_images/569776407056637952/wH_kG-gj_normal.jpeg\"}],\"id\":\"twitter_mentions\",\"updatedAt\":1425265310}\n\n"
 recent_git_commitc: |+
   data: {"text":"one step closer to a git commit message","id":"recent_git_commitc","updatedAt":1397044067}
 
 recent_git_commit: |+
-  data: {"text":"Commit messages now show in dashboard","id":"recent_git_commit","updatedAt":1404148992}
+  data: {"text":"One step closer to a git commit message","id":"recent_git_commit","updatedAt":1425265433}
 

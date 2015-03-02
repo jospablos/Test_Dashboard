@@ -12,7 +12,7 @@ SCHEDULER.every '2s' do
   send_event('karma', { current: current_karma, last: last_karma })
   send_event('synergy',   { value: 7 })
   send_event('welcome', { title: "The amazing title", text: "The time is #{the_time}" })
-
+  send_event('recent_git_commit', {text:"One step closer to a git commit message"})
 end
 
 
