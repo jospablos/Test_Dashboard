@@ -1,0 +1,1151 @@
+---
+convergence: |+
+  data: {"points":[{"x":143,"y":33},{"x":144,"y":22},{"x":145,"y":3},{"x":146,"y":26},{"x":147,"y":44},{"x":148,"y":44},{"x":149,"y":8},{"x":150,"y":26},{"x":151,"y":34},{"x":152,"y":1}],"id":"convergence","updatedAt":1425263504}
+
+valuation: |+
+  data: {"current":11,"last":79,"id":"valuation","updatedAt":1425263503}
+
+karma: |+
+  data: {"current":69190,"last":42561,"id":"karma","updatedAt":1425263503}
+
+synergy: |+
+  data: {"value":7,"id":"synergy","updatedAt":1425263503}
+
+buzzwords: |+
+  data: {"items":[{"label":"Synergy","value":16},{"label":"Leverage","value":13},{"label":"Streamlininess","value":12},{"label":"Turn-key","value":17},{"label":"Web 2.0","value":14},{"label":"Paradigm shift","value":17},{"label":"Exit strategy","value":17},{"label":"Pivoting","value":17},{"label":"Enterprise","value":19}],"id":"buzzwords","updatedAt":1425263504}
+
+welcome: |+
+  data: {"title":"The amazing title","text":"The time is 2015-03-02 02:27:03 +0000","id":"welcome","updatedAt":1425263503}
+
+twitter_mentions: "data: {\"comments\":[{\"name\":\"olivia c u e v a\",\"body\":\"RT
+  @AlbreyPreston: Yo! #javascript #minoritiesintech #learntocode http://t.co/eDXQkoUkvZ\",\"avatar\":\"https://pbs.twimg.com/profile_images/570494363014270976/_tlbXvta_normal.jpeg\"},{\"name\":\"Michael
+  Donohue\",\"body\":\"The top 15 sites built with #Python http://t.co/REJcgZJTkC
+  #learntocode #programming http://t.co/qEojDYSmz7\",\"avatar\":\"https://pbs.twimg.com/profile_images/541766293498519552/PRVy6V3-_normal.jpeg\"},{\"name\":\"Nivedh
+  Mudaliar\",\"body\":\"RT @BootcampIQ: \\\"Hard work beats talent when talent doesn't
+  work hard.\\\" #motivationquotes #quoteoftheday #hardwork #learntocode http://t.co…\",\"avatar\":\"https://pbs.twimg.com/profile_images/506217695365566465/M0SyeHQv_normal.jpeg\"},{\"name\":\"Sol
+  Tran\",\"body\":\"RT @BootcampIQ: \\\"Hard work beats talent when talent doesn't
+  work hard.\\\" #motivationquotes #quoteoftheday #hardwork #learntocode http://t.co…\",\"avatar\":\"https://pbs.twimg.com/profile_images/516657769177284608/5uobvH2u_normal.jpeg\"},{\"name\":\"Code
+  Savvy\",\"body\":\"RT @dmlresearchhub: \\\"Every single student needs to #learntocode
+  as much as they need to read, write and count.\\\" http://t.co/COW318rx1y\",\"avatar\":\"https://pbs.twimg.com/profile_images/475112531418050560/j50pFEC0_normal.jpeg\"},{\"name\":\"Coder
+  Factory\",\"body\":\"Your Boarding Pass to the exciting world of tech - http://t.co/zCe5YHI0eI
+  - #tech #learntocode #programthefuture http://t.co/wcSWQTUs5U\",\"avatar\":\"https://pbs.twimg.com/profile_images/483772852391268354/keOYLvw2_normal.png\"},{\"name\":\"Jump
+  Magazine\",\"body\":\"Scholarships to a ‘green’ tech camp available for lucky #bristol
+  #kids #learntocode http://t.co/UB9Pb2CVqq\",\"avatar\":\"https://pbs.twimg.com/profile_images/458701961777278976/0dew9Q8I_normal.png\"},{\"name\":\"Holly
+  nesbitt\",\"body\":\"RT @limavadygs: Y10 engrossed in a great afternoon of game
+  design. #learntocode http://t.co/yuMqs9PTzD\",\"avatar\":\"https://pbs.twimg.com/profile_images/556115119621812225/diSDzcXY_normal.jpeg\"},{\"name\":\"Kristian
+  Erik Munk\",\"body\":\"RT @kidhasacamera: I just aced @FreeCodeCamp Challenge #15:
+  Tackle jQuery Exercises #LearnToCode #JavaScript\",\"avatar\":\"https://pbs.twimg.com/profile_images/1200971232/kristian_normal.jpg\"},{\"name\":\"Kristian
+  Erik Munk\",\"body\":\"RT @kidhasacamera: I just wrangled @FreeCodeCamp Bonfire:
+  Factorialize a Number http://t.co/3rCc0sfRTs #LearnToCode #javascript\",\"avatar\":\"https://pbs.twimg.com/profile_images/1200971232/kristian_normal.jpg\"},{\"name\":\"Liliana
+  Aide Monge\",\"body\":\"RT @WeSabio: Beats #code , #developers #hackathon @beatsbydre
+  #learntocode http://t.co/dek5EZ9eeR\",\"avatar\":\"https://pbs.twimg.com/profile_images/538957431712145408/nwQbooeV_normal.jpeg\"},{\"name\":\"Liliana
+  Aide Monge\",\"body\":\"RT @WeSabio: Sabio #hackers own the court #learntocode #la
+  http://t.co/LSkNFxmT06 http://t.co/ZFOswZAb79\",\"avatar\":\"https://pbs.twimg.com/profile_images/538957431712145408/nwQbooeV_normal.jpeg\"},{\"name\":\"Piyush
+  Aggarwal\",\"body\":\"Check out https://t.co/winlj1ttPw, interesting initiative
+  by @VikParuchuri to learn #DataScience while working with real data. #LearnToCode\",\"avatar\":\"https://pbs.twimg.com/profile_images/1215204767/Profile_normal.jpg\"},{\"name\":\"Ace
+  Green\",\"body\":\"4 Steps to Learn How to Code #Swift #Coding #LearntoCode #Apps
+  http://t.co/yRU6ee6wLi\",\"avatar\":\"https://pbs.twimg.com/profile_images/569567812901818368/fEWGFt0X_normal.jpeg\"},{\"name\":\"TCS\",\"body\":\"@HackIllinois.
+  Sportin our swag and killin it like a boss! #tcscampus #codekilla #learntocode #hackillinois
+  http://t.co/ixBWwdcBbP\",\"avatar\":\"https://pbs.twimg.com/profile_images/445637229046542337/ubdSgAJe_normal.jpeg\"},{\"name\":\"LISTA1\",\"body\":\"RT
+  @WeSabio: Sabio #hackers own the court #learntocode #la http://t.co/LSkNFxmT06 http://t.co/ZFOswZAb79\",\"avatar\":\"https://pbs.twimg.com/profile_images/541088254871629824/iiMlXOEM_normal.jpeg\"},{\"name\":\"Sabio.la\",\"body\":\"Sabio
+  #hackers own the court #learntocode #la http://t.co/LSkNFxmT06 http://t.co/ZFOswZAb79\",\"avatar\":\"https://pbs.twimg.com/profile_images/2873114153/51be67e26b2377a6ac8f7bb2eeb157bf_normal.png\"},{\"name\":\"Shibu\",\"body\":\"I'm
+  all for everyone learning to code.. But they should learn to debug too. ;) #learntocode
+  #coding #JustSaying\",\"avatar\":\"https://pbs.twimg.com/profile_images/485296505733926912/4KYbzf2S_normal.jpeg\"},{\"name\":\"-Primary
+  Solutions-\",\"body\":\"Great supplement in @thesundaytimes today #learntocode pt1
+  http://t.co/iksw9TCXTv\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000503844438/b51fb1505fedb8fac93d9bea738ba814_normal.jpeg\"},{\"name\":\"Pete
+  the Programmer\",\"body\":\"The top 15 sites built with #Python - @Rdio is on the
+  list - http://t.co/QDbttrF4FJ #learntocode #programming\",\"avatar\":\"https://pbs.twimg.com/profile_images/567095558649544704/KLKeP8Jb_normal.jpeg\"},{\"name\":\"Javascript
+  Digest\",\"body\":\"RT @JMCQ87: Time for the next update: @FreeCodeCamp with @Stanford
+  #CS101 on courseware. http://t.co/E2SrNfb7sQ #learntocode #javascript\",\"avatar\":\"https://pbs.twimg.com/profile_images/544034757730779136/-jOL7GnN_normal.jpeg\"},{\"name\":\"Johann
+  Q\",\"body\":\"Time for the next update: @FreeCodeCamp with @Stanford #CS101 on
+  courseware. http://t.co/E2SrNfb7sQ #learntocode #javascript\",\"avatar\":\"https://pbs.twimg.com/profile_images/560085457472475136/Auh2wEJ9_normal.jpeg\"},{\"name\":\"Sabio.la\",\"body\":\"Beats
+  #code , #developers #hackathon @beatsbydre #learntocode http://t.co/dek5EZ9eeR\",\"avatar\":\"https://pbs.twimg.com/profile_images/2873114153/51be67e26b2377a6ac8f7bb2eeb157bf_normal.png\"},{\"name\":\"Jonathan
+  Yeong\",\"body\":\"RT @1_life_2_livee: No matters how old you get, you never stop
+  learning #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/486474334802685952/6X3UiKOp_normal.jpeg\"},{\"name\":\"xxSM\",\"body\":\"\\\"@g8rojas:
+  #hackathon fundamentals #beer #jarritos #friends #learntocode http://t.co/6QopG5j8JH\\\"\",\"avatar\":\"https://pbs.twimg.com/profile_images/537784372137455616/_ZH0oPUW_normal.jpeg\"},{\"name\":\"Gregorio
+  Rojas\",\"body\":\"#hackathon fundamentals #beer #jarritos #friends #learntocode
+  http://t.co/ids7wakR8H\",\"avatar\":\"https://pbs.twimg.com/profile_images/1894938629/image_normal.jpg\"},{\"name\":\"Pernicious
+  Bovine\",\"body\":\"RT @WeSabio: Collaboration all night long while our fellows
+  #code #learntocode http://t.co/oVUSwCI76w http://t.co/RydYxiFAjC\",\"avatar\":\"https://pbs.twimg.com/profile_images/2165317112/dubstepcat_normal.gif\"},{\"name\":\"Sabio.la\",\"body\":\"Collaboration
+  all night long while our fellows #code #learntocode http://t.co/oVUSwCI76w http://t.co/RydYxiFAjC\",\"avatar\":\"https://pbs.twimg.com/profile_images/2873114153/51be67e26b2377a6ac8f7bb2eeb157bf_normal.png\"},{\"name\":\"Rajat
+  Maurya\",\"body\":\"RT @HackerEarth: A short code demonstrating simple ways to create
+  and color canvas.\\nhttp://t.co/wYgnK98nRw #HENotes #LearnToCode #TechEd #P…\",\"avatar\":\"https://pbs.twimg.com/profile_images/550560120833204224/HdLeX1Kp_normal.jpeg\"},{\"name\":\"HackerEarth\",\"body\":\"A
+  short code demonstrating simple ways to create and color canvas.\\nhttp://t.co/wYgnK98nRw
+  #HENotes #LearnToCode #TechEd #Programming\",\"avatar\":\"https://pbs.twimg.com/profile_images/546991611490484224/4TU0SsFZ_normal.png\"},{\"name\":\"GameMaker
+  Bot\",\"body\":\"RT @David_Mullich: Video: How to make a game with no experience,
+  using #GameMaker.\\nhttp://t.co/t30zr2LSbj @Pentadact #gamedev #learntocode …\",\"avatar\":\"https://pbs.twimg.com/profile_images/504262538381381632/17q3fL7Z_normal.png\"},{\"name\":\"Game
+  Dev Robot\",\"body\":\"RT @David_Mullich: Video: How to make a game with no experience,
+  using #GameMaker.\\nhttp://t.co/t30zr2LSbj @Pentadact #gamedev #learntocode …\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000117601016/8e8c417d314931ea74624454e843314e_normal.png\"},{\"name\":\"Indie
+  GameDev Bot\",\"body\":\"RT @David_Mullich: Video: How to make a game with no experience,
+  using #GameMaker.\\nhttp://t.co/t30zr2LSbj @Pentadact #gamedev #learntocode …\",\"avatar\":\"https://pbs.twimg.com/profile_images/522536769502195712/cG1yitHo_normal.jpeg\"},{\"name\":\"Indie
+  Games Devel\",\"body\":\"RT @David_Mullich: Video: How to make a game with no experience,
+  using #GameMaker.\\nhttp://t.co/t30zr2LSbj @Pentadact #gamedev #learntocode …\",\"avatar\":\"https://pbs.twimg.com/profile_images/502398379213598720/WWnfhQoC_normal.png\"},{\"name\":\"The
+  Indie Sloth\",\"body\":\"RT @David_Mullich: Video: How to make a game with no experience,
+  using #GameMaker.\\nhttp://t.co/t30zr2LSbj @Pentadact #gamedev #learntocode …\",\"avatar\":\"https://pbs.twimg.com/profile_images/484847788241334272/b0_px679_normal.jpeg\"},{\"name\":\"David
+  Mullich\",\"body\":\"Video: How to make a game with no experience, using #GameMaker.\\nhttp://t.co/t30zr2LSbj
+  @Pentadact #gamedev #learntocode #gameed\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000308410971/0c88e512613d3a46f6c7d21be5cfc75b_normal.jpeg\"},{\"name\":\"Quatereus
+  Macklin\",\"body\":\"No matters how old you get, you never stop learning #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000272898047/6a26469090ea536a827f3851059e3f8b_normal.jpeg\"},{\"name\":\"Javascript
+  Digest\",\"body\":\"RT @jennb: I just banished Bieber in a foot race! @FreeCodeCamp
+  Bonfire: Build an Adventure Game http://t.co/9kmj6492qb #LearnToCode #JavaS…\",\"avatar\":\"https://pbs.twimg.com/profile_images/544034757730779136/-jOL7GnN_normal.jpeg\"},{\"name\":\"~jen~\",\"body\":\"I
+  just banished Bieber in a foot race! @FreeCodeCamp Bonfire: Build an Adventure Game
+  http://t.co/9kmj6492qb #LearnToCode #JavaScript\",\"avatar\":\"https://pbs.twimg.com/profile_images/520257766363889664/qH7HSkLU_normal.jpeg\"},{\"name\":\"Consultingdienste.de\",\"body\":\"RT
+  @FreeCodeCamp: A Vision of Coding, Without Opening Your Eyes http://t.co/3cleC9Hfta
+  #LearnToCode #code #javascript #blindness http://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/2864931422/42719e27524e4facb02c5136282f237f_normal.jpeg\"},{\"name\":\"Jennifer
+  Ferguson\",\"body\":\"What do these two robots have in common?  They both speak
+  the same language. #learntocode and you can program both! \U0001F60A http://t.co/J91z190X1P\",\"avatar\":\"https://pbs.twimg.com/profile_images/553034506962087937/8FcLMIm__normal.jpeg\"},{\"name\":\"Coalition
+  for Queens\",\"body\":\"RT @PaolaNotPaolo: What an honor to speak to the amazing
+  #AccessCode 1.2 students. So excited for them to take this journey. @C4QNYC #Learn…\",\"avatar\":\"https://pbs.twimg.com/profile_images/2958550339/65bc11ac46a875db3cc57f44c4c29833_normal.png\"},{\"name\":\"Paola
+  Maldonado\",\"body\":\"What an honor to speak to the amazing #AccessCode 1.2 students.
+  So excited for them to take this journey. @C4QNYC #LearnToCode #Android\",\"avatar\":\"https://pbs.twimg.com/profile_images/554321063585533954/IGH9c7gM_normal.jpeg\"},{\"name\":\"HTML5
+  Digest\",\"body\":\"RT @codehance: Adding responsiveness LESSON 14 #webdesign #responsive
+  #html #bootstrap #css #coding #programming #learntocode #html5\\nhttp:/…\",\"avatar\":\"https://pbs.twimg.com/profile_images/471371508489547776/kEpgHiC9_normal.png\"},{\"name\":\"Sabio.la\",\"body\":\"US
+  Dept of Labor projects that by 2020 there'll be 1.4 million computer specialist
+  job openings #LearnToCode be part of the tech revolution\",\"avatar\":\"https://pbs.twimg.com/profile_images/2873114153/51be67e26b2377a6ac8f7bb2eeb157bf_normal.png\"},{\"name\":\"Jin
+  Wu\",\"body\":\"RT @LendLayer: Yes, that's our fireplace. #GetLent #learntocode
+  #firesafety #keepingwarm #art http://t.co/2eVvySGS4i http://t.co/Ja4AAVKceb\",\"avatar\":\"https://pbs.twimg.com/profile_images/921723681/image_normal.jpg\"},{\"name\":\"LendLayer\",\"body\":\"Yes,
+  that's our fireplace. #GetLent #learntocode #firesafety #keepingwarm #art http://t.co/2eVvySGS4i
+  http://t.co/Ja4AAVKceb\",\"avatar\":\"https://pbs.twimg.com/profile_images/507989433044328448/1VyKBf3z_normal.png\"},{\"name\":\"HTML5
+  Digest\",\"body\":\"RT @KingsleyIjomah: Adding responsiveness LESSON 14 #webdesign
+  #responsive #html #bootstrap #css #coding #programming #learntocode #html5\\nh…\",\"avatar\":\"https://pbs.twimg.com/profile_images/471371508489547776/kEpgHiC9_normal.png\"},{\"name\":\"codehance\",\"body\":\"Adding
+  responsiveness LESSON 14 #webdesign #responsive #html #bootstrap #css #coding #programming
+  #learntocode #html5\\nhttp://t.co/s6NybPm4t7\",\"avatar\":\"https://pbs.twimg.com/profile_images/560905804039983104/T-rYq-_d_normal.png\"},{\"name\":\"Kingsley
+  Ijomah\",\"body\":\"Adding responsiveness LESSON 14 #webdesign #responsive #html
+  #bootstrap #css #coding #programming #learntocode #html5\\nhttp://t.co/pwpBmlerel\",\"avatar\":\"https://pbs.twimg.com/profile_images/502064632379342848/aIqSK8sO_normal.jpeg\"},{\"name\":\"Jeroen
+  Augustinus\",\"body\":\"I just crushed @FreeCodeCamp Bonfire: Build a Cash Register
+  \ #LearnToCode #JavaScript\",\"avatar\":\"https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png\"},{\"name\":\"вяαηdση
+  м мαятιη\",\"body\":\"RT @TCSCampus: Sportin our swag and representing #tcscampus
+  like a boss! #HackIllinois #codekilla #learntocode http://t.co/sIYwqwvxVI\",\"avatar\":\"https://pbs.twimg.com/profile_images/490734572896657409/6MXRcUGk_normal.jpeg\"},{\"name\":\"¡ɹǝʍǝlq
+  ʎǝlɥs∀\",\"body\":\"@ImVaks @YouTube @Pamaj Aidan and this is crazy deal for people
+  wanting to boost their web skills, $11 for 8 #learntocode apps!\",\"avatar\":\"https://pbs.twimg.com/profile_images/478714717607698434/N0XB5MRI_normal.jpeg\"},{\"name\":\"Sue
+  Zoo\",\"body\":\"RT @FreeCodeCamp: A Vision of Coding, Without Opening Your Eyes
+  http://t.co/3cleC9Hfta #LearnToCode #code #javascript #blindness http://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000770511910/f2717d32a14082fef01983978a41d3be_normal.jpeg\"},{\"name\":\"Rocio\",\"body\":\"RT
+  @LendIQ: \\\"Hard work beats talent when talent doesn't work hard.\\\" #motivationquotes
+  #quoteoftheday #hardwork #learntocode http://t.co/lj7…\",\"avatar\":\"https://pbs.twimg.com/profile_images/461834444718882816/i7axk2pF_normal.png\"},{\"name\":\"LendIQ\",\"body\":\"\\\"Hard
+  work beats talent when talent doesn't work hard.\\\" #motivationquotes #quoteoftheday
+  #hardwork #learntocode http://t.co/lj70pLHcJv\",\"avatar\":\"https://pbs.twimg.com/profile_images/521827445205262336/tr9-Knr6_normal.jpeg\"},{\"name\":\"BootcampIQ\",\"body\":\"\\\"Hard
+  work beats talent when talent doesn't work hard.\\\" #motivationquotes #quoteoftheday
+  #hardwork #learntocode http://t.co/Lmt7HYjlrz”\",\"avatar\":\"https://pbs.twimg.com/profile_images/521828306161639424/J--FsGTS_normal.png\"},{\"name\":\"LendLayer\",\"body\":\"\\\"Hard
+  work beats talent when talent doesn't work hard.\\\" #motivationquotes #quoteoftheday
+  #hardwork #learntocode http://t.co/BLnp7qzJC6\",\"avatar\":\"https://pbs.twimg.com/profile_images/507989433044328448/1VyKBf3z_normal.png\"},{\"name\":\"Eureka
+  Ed\",\"body\":\"RT @edXOnline: Five edX Courses to be Tech-Savvy in 2015: http://t.co/Xa3Io28m2n
+  #learntocode #compsci http://t.co/k6yhXBmRDb\",\"avatar\":\"https://pbs.twimg.com/profile_images/552930590282883072/kwmO_705_normal.jpeg\"},{\"name\":\"HUB101\",\"body\":\"Are
+  you ready to learn to code? Head over to http://t.co/qTI1XIKnzf and use promo code
+  HUB101 for a $500 discount. #learntocode #startup\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000638836773/c3cc8c8811d6ec4627204c3b359649cc_normal.png\"},{\"name\":\"greg
+  beutler\",\"body\":\"Camera has motion detection in #scratched - what fun! #learntocode
+  http://t.co/APWgspxvtk\",\"avatar\":\"https://pbs.twimg.com/profile_images/526149909138120704/nK-Rptbh_normal.jpeg\"},{\"name\":\"TCS\",\"body\":\"Sportin
+  our swag and representing #tcscampus like a boss! #HackIllinois #codekilla #learntocode
+  http://t.co/sIYwqwvxVI\",\"avatar\":\"https://pbs.twimg.com/profile_images/445637229046542337/ubdSgAJe_normal.jpeg\"},{\"name\":\"Christine
+  Whone\",\"body\":\"RT @RMAaron: The best part of @learningcode are the amazing people
+  that teach it @gazheek @gabwhite @jeffandersen #learntocode http://t.co/…\",\"avatar\":\"https://pbs.twimg.com/profile_images/1766576943/christine_normal.jpg\"},{\"name\":\"Ginger
+  Zumaeta\",\"body\":\"Are you ready to learn to code? Head over to http://t.co/ba9IW8mxJs
+  and use promo code HUB101 for a $500 discount. #learntocode #startup\",\"avatar\":\"https://pbs.twimg.com/profile_images/136634318/GZnewsroom_copy_normal.jpg\"},{\"name\":\"Startup
+  York Region\",\"body\":\"RT @Lucas_Chang: This is fantastic, @MarkhamCoders! Definitely
+  coming back on March 28. #YorkRegion #LearnToCode http://t.co/tN3dscXAaM\",\"avatar\":\"https://pbs.twimg.com/profile_images/555166108383064064/5MhC5cBw_normal.png\"},{\"name\":\"Alahrie
+  Aziz-Sims\",\"body\":\"RT @FreeCodeCamp: Why learning to #code is so damn hard (for
+  everyone, not just you): http://t.co/rb3vNuF84x #LearnToCode http://t.co/CDoh3…\",\"avatar\":\"https://pbs.twimg.com/profile_images/454795389523079168/DqMjPyRx_normal.jpeg\"},{\"name\":\"CoderDojo
+  Markham\",\"body\":\"RT @Lucas_Chang: This is fantastic, @MarkhamCoders! Definitely
+  coming back on March 28. #YorkRegion #LearnToCode http://t.co/tN3dscXAaM\",\"avatar\":\"https://pbs.twimg.com/profile_images/545987343446851586/Fq9Djl08_normal.png\"},{\"name\":\"Lucas
+  Chang\",\"body\":\"This is fantastic, @MarkhamCoders! Definitely coming back on
+  March 28. #YorkRegion #LearnToCode http://t.co/tN3dscXAaM\",\"avatar\":\"https://pbs.twimg.com/profile_images/540341909609123841/MPBFp5pX_normal.jpeg\"},{\"name\":\"Sarah
+  MiliantaLaffin\",\"body\":\"My stylish new #binary bracelet from today's @codeorg
+  #coding class!  #LearnToCode #STEM http://t.co/vWufL1tphr\",\"avatar\":\"https://pbs.twimg.com/profile_images/497085758025379840/mFZcpcMn_normal.jpeg\"},{\"name\":\"greg
+  beutler\",\"body\":\"#learntoCode #techscool #scratch http://t.co/KhebKbvHZJ http://t.co/Au4N8tDluO\",\"avatar\":\"https://pbs.twimg.com/profile_images/526149909138120704/nK-Rptbh_normal.jpeg\"},{\"name\":\"Operation
+  Code\",\"body\":\"Workshop for #Veterans to #learntocode #inbend. Suggestions for
+  who should come? https://t.co/pLXIf7uJv0 /cc @VisitBendOR #bendoregon\",\"avatar\":\"https://pbs.twimg.com/profile_images/557334564251521025/AGBcslM1_normal.png\"},{\"name\":\"Javascript
+  Digest\",\"body\":\"RT @jennb: I just shredded @FreeCodeCamp Bonfire: Learn Computer
+  Security http://t.co/pRpeep0qez #LearnToCode #JavaScript\",\"avatar\":\"https://pbs.twimg.com/profile_images/544034757730779136/-jOL7GnN_normal.jpeg\"},{\"name\":\"Zanzibar
+  B. McFate\",\"body\":\"@hannahfurfaro Saw your story in the Bee, surprised you haven't
+  heard about http://t.co/x9ajYZOqiU Can we talk soon? #Fresno #LearnToCode\",\"avatar\":\"https://pbs.twimg.com/profile_images/507924190284881922/q642aIr5_normal.png\"},{\"name\":\"~jen~\",\"body\":\"I
+  just shredded @FreeCodeCamp Bonfire: Learn Computer Security http://t.co/pRpeep0qez
+  #LearnToCode #JavaScript\",\"avatar\":\"https://pbs.twimg.com/profile_images/520257766363889664/qH7HSkLU_normal.jpeg\"},{\"name\":\"cassie
+  scharber\",\"body\":\"RT @dmlresearchhub: \\\"Every single student needs to #learntocode
+  as much as they need to read, write and count.\\\" http://t.co/COW318rx1y\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000439051238/3f74fb570a27d706cb9e976d530b1f49_normal.jpeg\"},{\"name\":\"DML
+  Research Hub\",\"body\":\"\\\"Every single student needs to #learntocode as much
+  as they need to read, write and count.\\\" http://t.co/COW318rx1y\",\"avatar\":\"https://pbs.twimg.com/profile_images/455874777979162624/IGCLaTfR_normal.png\"},{\"name\":\"pmp.i.am\",\"body\":\"LearnToCode
+  thanks for following!\",\"avatar\":\"https://pbs.twimg.com/profile_images/527966935510966272/4bXdGMo6_normal.jpeg\"},{\"name\":\"Joey
+  Espinosa\",\"body\":\"RT @RMAaron: The best part of @learningcode are the amazing
+  people that teach it @gazheek @gabwhite @jeffandersen #learntocode http://t.co/…\",\"avatar\":\"https://pbs.twimg.com/profile_images/1775308989/me_sunglasses_normal.png\"},{\"name\":\"Ladies
+  Learning Code\",\"body\":\"RT @RMAaron: The best part of @learningcode are the amazing
+  people that teach it @gazheek @gabwhite @jeffandersen #learntocode http://t.co/…\",\"avatar\":\"https://pbs.twimg.com/profile_images/1443909378/ladieslearningcode-500x500_normal.png\"},{\"name\":\"Rachel
+  Aaron\",\"body\":\"The best part of @learningcode are the amazing people that teach
+  it @gazheek @gabwhite @jeffandersen #learntocode http://t.co/yPhEHXKRnJ\",\"avatar\":\"https://pbs.twimg.com/profile_images/494102642172260352/9MTluT2Z_normal.jpeg\"},{\"name\":\"Briana
+  Marie\",\"body\":\"Started @angularjs on @codeschool and LOVING it. Answering questions
+  I didn't know I had. #learntocode #selfmotivated #driven #weekendcoder\",\"avatar\":\"https://pbs.twimg.com/profile_images/535254477415010304/O6ASQASX_normal.jpeg\"},{\"name\":\"Tech
+  Week Ireland\",\"body\":\"RT @AILO_2015: #LearnToCode supplement in @SunTimesIreland
+  this Sunday. Looks really interesting! #ailo2015 @TechWeekIRL\",\"avatar\":\"https://pbs.twimg.com/profile_images/520140511076548609/QnfbSBI9_normal.png\"},{\"name\":\"dizajn.ninja\",\"body\":\"@ViableArt
+  I have a degree in Graphic design, so - #learnToCode, #forgetAdobe for site layout
+  and #designInBrowser ;)\",\"avatar\":\"https://pbs.twimg.com/profile_images/557544532145741824/8iq3AuVe_normal.png\"},{\"name\":\"codehance\",\"body\":\"Contact
+  page LESSON 13 #webdesign #responsive  #html #bootstrap #css #coding #programming
+  #learntocode #html5\\nhttp://t.co/Zp7yil77BP\",\"avatar\":\"https://pbs.twimg.com/profile_images/560905804039983104/T-rYq-_d_normal.png\"},{\"name\":\"Kingsley
+  Ijomah\",\"body\":\"Contact page LESSON 13 #webdesign #responsive  #html #bootstrap
+  #css #coding #programming #learntocode #html5\\nhttp://t.co/xfjjstmbqF\",\"avatar\":\"https://pbs.twimg.com/profile_images/502064632379342848/aIqSK8sO_normal.jpeg\"},{\"name\":\"Pete
+  the Programmer\",\"body\":\"#learntocode #tech - http://t.co/aM9cN0QDW5 http://t.co/5SgOvzBEtQ\",\"avatar\":\"https://pbs.twimg.com/profile_images/567095558649544704/KLKeP8Jb_normal.jpeg\"},{\"name\":\"Nanda
+  Kishore\",\"body\":\"RT @HackerEarth: How to get started with #OpenSource http://t.co/JtkzDXcVDj
+  #HENotes #LearnToCode #TechEd\",\"avatar\":\"https://pbs.twimg.com/profile_images/569433170345332736/O-ib9LpW_normal.jpeg\"},{\"name\":\"Marc
+  Grabanski\",\"body\":\"RT @devleaguehawaii: Jump in on the conversation from @switchorg
+  top 33 coding bootcamps in the world!! #learntocode #luckywecodehawaii htt…\",\"avatar\":\"https://pbs.twimg.com/profile_images/458823751417610241/8YSR2JGI_normal.jpeg\"},{\"name\":\"HackerEarth\",\"body\":\"How
+  to get started with #OpenSource http://t.co/JtkzDXcVDj #HENotes #LearnToCode #TechEd\",\"avatar\":\"https://pbs.twimg.com/profile_images/546991611490484224/4TU0SsFZ_normal.png\"},{\"name\":\"Jeff
+  Ho\",\"body\":\"RT @easyphp: #codekodo 15.1 alpha 1 out! Download : http://t.co/sdKqsbvCFg.\\nSend
+  us your feedback at codekodo@gmail.com.\\n#php #python #ruby…\",\"avatar\":\"https://pbs.twimg.com/profile_images/531720845459066880/7oWkIEAP_normal.jpeg\"},{\"name\":\"PHP
+  Retweet Bot\",\"body\":\"RT @easyphp: #codekodo 15.1 alpha 1 out! Download : http://t.co/sdKqsbvCFg.\\nSend
+  us your feedback at codekodo@gmail.com.\\n#php #python #ruby…\",\"avatar\":\"https://pbs.twimg.com/profile_images/545271873668280320/X6Tg_poL_normal.png\"},{\"name\":\"russelcheng
+  ラッセル チェン\",\"body\":\"RT @devleaguehawaii: Jump in on the conversation from @switchorg
+  top 33 coding bootcamps in the world!! #learntocode #luckywecodehawaii htt…\",\"avatar\":\"https://pbs.twimg.com/profile_images/477748738706788353/O2jFys6V_normal.jpeg\"},{\"name\":\"Data
+  Geek\",\"body\":\"RT @marcbolh: “@DanSiepen: The top 15 sites built with #Python
+  - @Etsy makes the list - http://t.co/BBIxjXJmsE #learntocode #programming” #…\",\"avatar\":\"https://pbs.twimg.com/profile_images/536381545682964480/dRHvM5Dr_normal.png\"},{\"name\":\"Coder
+  Factory\",\"body\":\"RT @marcbolh: “@DanSiepen: The top 15 sites built with #Python
+  - @Etsy makes the list - http://t.co/BBIxjXJmsE #learntocode #programming” #…\",\"avatar\":\"https://pbs.twimg.com/profile_images/483772852391268354/keOYLvw2_normal.png\"},{\"name\":\"Altamiro
+  julio gomes\",\"body\":\"RT @easyphp: #codekodo 15.1 alpha 1 out! Download : http://t.co/sdKqsbvCFg.\\nSend
+  us your feedback at codekodo@gmail.com.\\n#php #python #ruby…\",\"avatar\":\"https://pbs.twimg.com/profile_images/1368604690/Imagem_004_normal.jpg\"},{\"name\":\"Jeseekia
+  Vaughn\",\"body\":\"There are too many #programmers around to struggle alone. Get
+  your butt to a user group! #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/540209203994828800/WE1YihGE_normal.png\"},{\"name\":\"Michael
+  Donohue\",\"body\":\"RT @marcbolh: “@DanSiepen: The top 15 sites built with #Python
+  - @Etsy makes the list - http://t.co/BBIxjXJmsE #learntocode #programming” #…\",\"avatar\":\"https://pbs.twimg.com/profile_images/541766293498519552/PRVy6V3-_normal.jpeg\"},{\"name\":\"Dan
+  Siepen\",\"body\":\"RT @marcbolh: “@DanSiepen: The top 15 sites built with #Python
+  - @Etsy makes the list - http://t.co/BBIxjXJmsE #learntocode #programming” #…\",\"avatar\":\"https://pbs.twimg.com/profile_images/425470904122896384/2AvyoSwD_normal.jpeg\"},{\"name\":\"#التقنية
+  #TECH\",\"body\":\"Willson_Laura97: RT coderfactory: Top 15 sites built with Ruby
+  on Rails - Part 2 - http://t.co/ra4LEW4fMO - #tech #learntocode #ror\",\"avatar\":\"https://pbs.twimg.com/profile_images/521655267285409793/I5Y1XIQ4_normal.jpeg\"},{\"name\":\"Laura
+  Willson\",\"body\":\"RT @coderfactory: Top 15 sites built with Ruby on Rails - Part
+  2 - http://t.co/27i9fjTXGT - #tech #learntocode #ror\",\"avatar\":\"https://pbs.twimg.com/profile_images/567431498710536192/eZYwuHLQ_normal.jpeg\"},{\"name\":\"Coder
+  Factory\",\"body\":\"Top 15 sites built with Ruby on Rails - Part 2 - http://t.co/27i9fjTXGT
+  - #tech #learntocode #ror\",\"avatar\":\"https://pbs.twimg.com/profile_images/483772852391268354/keOYLvw2_normal.png\"},{\"name\":\"Clifford
+  Fajardo\",\"body\":\"RT @AlbreyPreston: Yo! #javascript #minoritiesintech #learntocode
+  http://t.co/eDXQkoUkvZ\",\"avatar\":\"https://pbs.twimg.com/profile_images/568843547730669568/WdpnpEOk_normal.jpeg\"},{\"name\":\"DevLeague\",\"body\":\"Jump
+  in on the conversation from @switchorg top 33 coding bootcamps in the world!! #learntocode
+  #luckywecodehawaii https://t.co/AEisT58Msu\",\"avatar\":\"https://pbs.twimg.com/profile_images/545675978190512129/XjM_z8_p_normal.jpeg\"},{\"name\":\"Unity
+  Strengthens\",\"body\":\"RT @FreeCodeCamp: A Vision of Coding, Without Opening Your
+  Eyes http://t.co/3cleC9Hfta #LearnToCode #code #javascript #blindness http://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/548853305959407616/qpMb1UA-_normal.jpeg\"},{\"name\":\"Omar
+  Butler\",\"body\":\"RT @CodeNowOrg: Hurry! #BayArea HS students who want to #learntocode,
+  apply by midnight tonight for FREE #SF #coding workshop! http://t.co/…\",\"avatar\":\"https://pbs.twimg.com/profile_images/445062043586928642/OmnpeMji_normal.jpeg\"},{\"name\":\"David
+  Molina\",\"body\":\"@cmonterroza Yes! @opcod3us a year ago didn't exist. Will be
+  counting on you as an #operationcode ambassador help #Veterans #learntocode...\",\"avatar\":\"https://pbs.twimg.com/profile_images/487618925266350080/gE6nmtOD_normal.jpeg\"},{\"name\":\"ChickTech\",\"body\":\"MT@CodeNowOrg:
+  Hurry! #BayArea HS students who want to #learntocode, apply by midnight tonight
+  FREE #SF #coding http://t.co/dJ3FSpRqYq\",\"avatar\":\"https://pbs.twimg.com/profile_images/2266463001/bntsgwxu124en7h8pmhz_normal.jpeg\"},{\"name\":\"CodeNow\",\"body\":\"Hurry!
+  #BayArea HS students who want to #learntocode, apply by midnight tonight for FREE
+  #SF #coding workshop! http://t.co/ddR04ekkiN\",\"avatar\":\"https://pbs.twimg.com/profile_images/3005163294/e4375bf12fd75cc0cfd82c955e03e187_normal.jpeg\"},{\"name\":\"salMan\",\"body\":\"RT
+  @FreeCodeCamp: A Vision of Coding, Without Opening Your Eyes http://t.co/3cleC9Hfta
+  #LearnToCode #code #javascript #blindness http://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/567839043723882496/bkO1cWBc_normal.jpeg\"},{\"name\":\"▼\",\"body\":\"RT
+  @FreeCodeCamp: A Vision of Coding, Without Opening Your Eyes http://t.co/3cleC9Hfta
+  #LearnToCode #code #javascript #blindness http://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/557562994532446208/OOkDPdqH_normal.jpeg\"},{\"name\":\"Bonnie
+  Bartel Latino\",\"body\":\"RT @WWCodeLA: Learning about #versioncontrol with @github
+  at @TeleSign! #wwcode #womenintech #learntocode #python #github http://t.co/wYQ0i…\",\"avatar\":\"https://pbs.twimg.com/profile_images/556315080087056384/pCYms14M_normal.jpeg\"},{\"name\":\"alba\",\"body\":\"RT
+  @capside: #Programación orientada a objetos (de verdad) https://t.co/ESriFNnCWX
+  de @ciberado en @barcelonapm #Perl #Workshop 2014 - #OOP…\",\"avatar\":\"https://pbs.twimg.com/profile_images/1467168687/div1900..._2_normal.jpg\"},{\"name\":\"Wesley
+  Gorman\",\"body\":\"RT @carangreene: #LearnToCode supplement in @SunTimesIreland
+  this Sunday. Looks really cool! #ailo2015 #techweek\",\"avatar\":\"https://pbs.twimg.com/profile_images/906829850/wesg_normal.jpg\"},{\"name\":\"Katherine
+  Gilhooley\",\"body\":\"RT @AlbreyPreston: Yo! #javascript #minoritiesintech #learntocode
+  http://t.co/eDXQkoUkvZ\",\"avatar\":\"https://pbs.twimg.com/profile_images/3087773501/7f358319fefdb0bc36eea0192dcab2f0_normal.jpeg\"},{\"name\":\"Cara
+  Tighe\",\"body\":\"#LearnToCode supplement in @SunTimesIreland this Sunday. Looks
+  cool! #ailo2015 @TechWeekIRL\",\"avatar\":\"https://pbs.twimg.com/profile_images/595106030/Image0001_normal.jpg\"},{\"name\":\"AILO\",\"body\":\"#LearnToCode
+  supplement in @SunTimesIreland this Sunday. Looks really interesting! #ailo2015
+  @TechWeekIRL\",\"avatar\":\"https://pbs.twimg.com/profile_images/438257339896823808/WDkqqKac_normal.png\"},{\"name\":\"Cara
+  Tighe\",\"body\":\"#LearnToCode supplement in @SunTimesIreland this Sunday. Looks
+  really cool! #ailo2015 #techweek\",\"avatar\":\"https://pbs.twimg.com/profile_images/595106030/Image0001_normal.jpg\"},{\"name\":\"AILO\",\"body\":\"#LearnToCode
+  supplement in @SunTimesIreland this Sunday. Looks really interesting! #ailo2015
+  #techweek\",\"avatar\":\"https://pbs.twimg.com/profile_images/438257339896823808/WDkqqKac_normal.png\"},{\"name\":\"Kingsley
+  Ijomah\",\"body\":\"About &amp; Archive page LESSON 12 #webdesign #responsive  #html
+  #bootstrap #css #coding #programming #learntocode #html5\\nhttp://t.co/Fp00Bd4tg3\",\"avatar\":\"https://pbs.twimg.com/profile_images/502064632379342848/aIqSK8sO_normal.jpeg\"},{\"name\":\"codehance\",\"body\":\"About
+  &amp; Archive page LESSON 12 #webdesign #responsive  #html #bootstrap #css #coding
+  #programming #learntocode #html5\\nhttp://t.co/epmtl7YlbO\",\"avatar\":\"https://pbs.twimg.com/profile_images/560905804039983104/T-rYq-_d_normal.png\"},{\"name\":\"Melissa
+  Cooper\",\"body\":\"RT @FreeCodeCamp: Check out this content-heavy podcast for learning
+  #WebDev: http://t.co/KlC6cDwuxG  #LearnToCode @startherefm http://t.co/…\",\"avatar\":\"https://pbs.twimg.com/profile_images/560242555536027649/nW0pxZ-o_normal.jpeg\"},{\"name\":\"Protegra\",\"body\":\"RT
+  @loewenchris: . @protegra's @terrybunio getting the room ready for #MineCraftCodeClub
+  at River West Park.\\n#LearnToCode http://t.co/9b0ja…\",\"avatar\":\"https://pbs.twimg.com/profile_images/535824045996908544/kDqUMEvz_normal.png\"},{\"name\":\"Limavady
+  Grammar Sch\",\"body\":\"Y10 engrossed in a great afternoon of game design. #learntocode
+  http://t.co/yuMqs9PTzD\",\"avatar\":\"https://pbs.twimg.com/profile_images/3419530606/194d09d2a2dcd3564143cfe1b3b5ddaf_normal.jpeg\"},{\"name\":\"We
+  Can Code IT\",\"body\":\"#CodeChallenge: What's the next number?\\n0, 4, 24, 124,
+  624... Apply to #bootcamp http://t.co/YmqQgMEbI4 #learntocode http://t.co/59g9NEsFxU\",\"avatar\":\"https://pbs.twimg.com/profile_images/502120200276168706/uw_Iz_rB_normal.png\"},{\"name\":\"Kingsley
+  Ijomah\",\"body\":\"Code read more #2 LESSON 11 #webdesign #responsive  #html #bootstrap
+  #css #coding #programming #learntocode #html5\\nhttp://t.co/7NAuHQ1ddQ\",\"avatar\":\"https://pbs.twimg.com/profile_images/502064632379342848/aIqSK8sO_normal.jpeg\"},{\"name\":\"codehance\",\"body\":\"Code
+  read more #2 LESSON 11 #webdesign #responsive  #html #bootstrap #css #coding #programming
+  #learntocode #html5\\nhttp://t.co/dbiTaqL02f\",\"avatar\":\"https://pbs.twimg.com/profile_images/560905804039983104/T-rYq-_d_normal.png\"},{\"name\":\"Bootcamps.in\",\"body\":\"Launch
+  Academy (@LaunchAcademy_ ) page has been updated    http://t.co/44BlClRx3Z #programmingbootcamp
+  #learntocode #rubyonrails #Boston\",\"avatar\":\"https://pbs.twimg.com/profile_images/3140922575/8905009a23ba5cd2410fcce83f7c98b8_normal.jpeg\"},{\"name\":\"CrowdTSchool\",\"body\":\"RT
+  @CodeNowOrg: DEADLINE EXTENDED: #NYC high school students who want to #learntocode,
+  apply by midnight tonight for FREE workshop! http://…\",\"avatar\":\"https://pbs.twimg.com/profile_images/459020431857438720/JzjcsgE5_normal.jpeg\"},{\"name\":\"Alysia
+  S. Christiani\",\"body\":\"RT @CodeNowOrg: DEADLINE EXTENDED: #NYC high school students
+  who want to #learntocode, apply by midnight tonight for FREE workshop! http://…\",\"avatar\":\"https://pbs.twimg.com/profile_images/565344906043219971/lduzbriF_normal.jpeg\"},{\"name\":\"CodeNow\",\"body\":\"DEADLINE
+  EXTENDED: #NYC high school students who want to #learntocode, apply by midnight
+  tonight for FREE workshop! http://t.co/ddR04ekkiN\",\"avatar\":\"https://pbs.twimg.com/profile_images/3005163294/e4375bf12fd75cc0cfd82c955e03e187_normal.jpeg\"},{\"name\":\"Chris
+  Loewen\",\"body\":\". @protegra's @terrybunio getting the room ready for #MineCraftCodeClub
+  at River West Park.\\n#LearnToCode http://t.co/9b0jaq2puj\",\"avatar\":\"https://pbs.twimg.com/profile_images/557609193692098560/hhoXJ29m_normal.png\"},{\"name\":\"refactorU\",\"body\":\"Our
+  next bootcamp starts on 3/27, with financing &amp; deferred tuition options avail.
+  Apply at http://t.co/Y4JFjr0Ram #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/462035375486033920/vZHYoWS3_normal.png\"},{\"name\":\"Sara
+  Inés Calderón\",\"body\":\"RT @WeSabio: US Dept of Labor projects that by 2020 there'll
+  be 1.4 million computer specialist job openings #LearnToCode be part of the te…\",\"avatar\":\"https://pbs.twimg.com/profile_images/487360329744007168/OX5YbZqM_normal.jpeg\"},{\"name\":\"Raedawn
+  Johnson\",\"body\":\"RT @InterfaceSchool: Yes, your kids should learn to code. Here's
+  why: http://t.co/yw6vFBkmVm (via @sturbot + @LinkedIn) #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/502566257783099392/xmStbV7T_normal.jpeg\"},{\"name\":\"MadMonkeyMall\",\"body\":\"RT
+  @edXOnline: Five edX Courses to be Tech-Savvy in 2015: http://t.co/Xa3Io28m2n #learntocode
+  #compsci http://t.co/k6yhXBmRDb\",\"avatar\":\"https://pbs.twimg.com/profile_images/552053751079399424/OZlxmxX1_normal.jpeg\"},{\"name\":\"Epicodus\",\"body\":\"RT
+  @opcod3us: Thank you @epicodus and Veteran students who we interviewed today! Story
+  of service to country to #learntocode is amazing. #o…\",\"avatar\":\"https://pbs.twimg.com/profile_images/3569411501/43db4f11aedbf62c430f3fdf092265de_normal.jpeg\"},{\"name\":\"Interface\",\"body\":\"Yes,
+  your kids should learn to code. Here's why: http://t.co/yw6vFBkmVm (via @sturbot
+  + @LinkedIn) #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/421128658145644545/D28bqwrr_normal.png\"},{\"name\":\"Jeff
+  Ho\",\"body\":\"RT @marcbolh: “@DanSiepen: The top 15 sites built with #Python -
+  @Etsy makes the list - http://t.co/BBIxjXJmsE #learntocode #programming” #…\",\"avatar\":\"https://pbs.twimg.com/profile_images/531720845459066880/7oWkIEAP_normal.jpeg\"},{\"name\":\"Marc
+  Bolh\",\"body\":\"“@DanSiepen: The top 15 sites built with #Python - @Etsy makes
+  the list - http://t.co/BBIxjXJmsE #learntocode #programming” #bootstrapping\",\"avatar\":\"https://pbs.twimg.com/profile_images/469575423127330816/QirUj8l4_normal.jpeg\"},{\"name\":\"Jim
+  Murphy\",\"body\":\"RT @CodeNowOrg: DEADLINE EXTENDED: #NYC HS students who want
+  to #learntocode, apply by Fri 2/27 midnight for FREE  #coding workshop! http:/…\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000515646157/3dcabbb53be5c6ed89d10fa2534ead5f_normal.jpeg\"},{\"name\":\"Melinda
+  Barlow\",\"body\":\"RT @CarriSchneider: #CompetencyEd And Why Everyone Should Learn
+  To Code @melindajbarlow http://t.co/bOn8Cdo1G7 via @Getting_Smart #learntoc…\",\"avatar\":\"https://pbs.twimg.com/profile_images/501115189354168320/VHM9DFPL_normal.png\"},{\"name\":\"We
+  Connect Thailand\",\"body\":\"RT @ChaNorMat: Digital skills on the top of the list
+  of @DIGITALEUROPE_ survey as John Higgins presented #Digital4EU #learntocode http://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/560370912608808961/5_fnNDbL_normal.png\"},{\"name\":\"Carri
+  Schneider\",\"body\":\"#CompetencyEd And Why Everyone Should Learn To Code @melindajbarlow
+  http://t.co/bOn8Cdo1G7 via @Getting_Smart #learntocode #stemchat\",\"avatar\":\"https://pbs.twimg.com/profile_images/542417377720160258/N1LJ9zcC_normal.jpeg\"},{\"name\":\"©
+  Indigenist™\",\"body\":\"RT @coderfactory: Learn to Code Weekend Workshop - Build
+  an #app in a weekend! http://t.co/eJdHgEDSkZ - #tech #learntocode http://t.co/zSJ8…\",\"avatar\":\"https://pbs.twimg.com/profile_images/567603712311300096/xHJRiT2V_normal.jpeg\"},{\"name\":\"Kiy\",\"body\":\"I
+  just nailed @FreeCodeCamp Bonfire: Learn how Node.js Modules Work #LearnToCode #JavaScript\",\"avatar\":\"https://pbs.twimg.com/profile_images/3098828083/08fe56814b5b4438c5287a3ff0671345_normal.png\"},{\"name\":\"Kiy\",\"body\":\"Challenge
+  38: Try Node.js Streams: Done #LearnToCode #JavaScript\",\"avatar\":\"https://pbs.twimg.com/profile_images/3098828083/08fe56814b5b4438c5287a3ff0671345_normal.png\"},{\"name\":\"Jon\",\"body\":\"RT
+  @tkh29: I just conquered @FreeCodeCamp Challenge 37: Try Node.js Events #LearnToCode
+  #JavaScript\",\"avatar\":\"https://pbs.twimg.com/profile_images/552476978905755648/dM_NpdKp_normal.jpeg\"},{\"name\":\"Kiy\",\"body\":\"I
+  just conquered @FreeCodeCamp Challenge 37: Try Node.js Events #LearnToCode #JavaScript\",\"avatar\":\"https://pbs.twimg.com/profile_images/3098828083/08fe56814b5b4438c5287a3ff0671345_normal.png\"},{\"name\":\"Ironhack\",\"body\":\"@anyuanay
+  we're glad you liked the blog and thanks for sharing it with others to read! #codingbootcamps
+  #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/466256995675160576/4L9u4Au__normal.png\"},{\"name\":\"CAPSiDE\",\"body\":\"#Programación
+  orientada a objetos (de verdad) https://t.co/ESriFNnCWX de @ciberado en @barcelonapm
+  #Perl #Workshop 2014 - #OOP #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/1542206685/twitter-squared-avatar_normal.png\"},{\"name\":\"Melinda
+  Barlow\",\"body\":\"Transcending GenDIY with competency education and tech literacy
+  http://t.co/ohQT2WmUO9 #GenDIY #learntocode @Getting_Smart\",\"avatar\":\"https://pbs.twimg.com/profile_images/501115189354168320/VHM9DFPL_normal.png\"},{\"name\":\"Dan
+  Siepen\",\"body\":\"The top 15 sites built with #Python - @Etsy makes the list -
+  http://t.co/2gr5ex6EBT #learntocode #programming\",\"avatar\":\"https://pbs.twimg.com/profile_images/425470904122896384/2AvyoSwD_normal.jpeg\"},{\"name\":\"Melinda
+  Barlow\",\"body\":\"@thejongardner @Getting_Smart @GA Thanks Jonathan! Glad you
+  enjoyed it. #learntocode #GenDIY\",\"avatar\":\"https://pbs.twimg.com/profile_images/501115189354168320/VHM9DFPL_normal.png\"},{\"name\":\"Inge
+  Gondwe\",\"body\":\"RT @ChaNorMat: Digital skills on the top of the list of @DIGITALEUROPE_
+  survey as John Higgins presented #Digital4EU #learntocode http://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/515063663690915840/y3P0luGT_normal.jpeg\"},{\"name\":\"BetterInternet4Kids\",\"body\":\"RT
+  @ChaNorMat: Digital skills on the top of the list of @DIGITALEUROPE_ survey as John
+  Higgins presented #Digital4EU #learntocode http://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/560786279403896833/72DCDE6q_normal.jpeg\"},{\"name\":\"European
+  Schoolnet\",\"body\":\"RT @ChaNorMat: Digital skills on the top of the list of @DIGITALEUROPE_
+  survey as John Higgins presented #Digital4EU #learntocode http://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/1878917831/EUN_300X300_normal.jpg\"},{\"name\":\"Pete
+  the Programmer\",\"body\":\"#learntocode https://t.co/xDu8IGAxWA\",\"avatar\":\"https://pbs.twimg.com/profile_images/567095558649544704/KLKeP8Jb_normal.jpeg\"},{\"name\":\"Jeroen
+  Augustinus\",\"body\":\"I just nailed @FreeCodeCamp Bonfire: Build an Address Book
+  #LearnToCode #JavaScript\",\"avatar\":\"https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png\"},{\"name\":\"Phyllis
+  Z. Miller\",\"body\":\"RT @WWCodeLA: Learning about #versioncontrol with @github
+  at @TeleSign! #wwcode #womenintech #learntocode #python #github http://t.co/wYQ0i…\",\"avatar\":\"https://pbs.twimg.com/profile_images/2308761963/7tt0w8d1yrzqmj3xmn34_normal.jpeg\"},{\"name\":\"HackerEarth\",\"body\":\"Here
+  is a note with must know things about \\\"Modular Arithmetic\\\"\\nhttp://t.co/NRODGpi3uL
+  #HENotes #LearnToCode #Programming #TechEd\",\"avatar\":\"https://pbs.twimg.com/profile_images/546991611490484224/4TU0SsFZ_normal.png\"},{\"name\":\"Women
+  Who Code LA\",\"body\":\"@Tr_h thanks for joining us tonight and helping with our
+  #github learning session! #wwcode #womenintech #learntocode #python\",\"avatar\":\"https://pbs.twimg.com/profile_images/532701180556615681/uDZrrMFB_normal.jpeg\"},{\"name\":\"Callie
+  Ferman\",\"body\":\"RT @WWCodeLA: Snapchat with us! Our @Snapchat handle is WWCodeLA,
+  lets see your #programming and #learntocode moments. http://t.co/zRkPbODq…\",\"avatar\":\"https://pbs.twimg.com/profile_images/553732164206878720/JX9ETIiA_normal.jpeg\"},{\"name\":\"Callie
+  Ferman\",\"body\":\"RT @WWCodeLA: Learning about #versioncontrol with @github at
+  @TeleSign! #wwcode #womenintech #learntocode #python #github http://t.co/wYQ0i…\",\"avatar\":\"https://pbs.twimg.com/profile_images/553732164206878720/JX9ETIiA_normal.jpeg\"},{\"name\":\"Women
+  Who Code LA\",\"body\":\"Learning about #versioncontrol with @github at @TeleSign!
+  #wwcode #womenintech #learntocode #python #github http://t.co/wYQ0i9mlkk\",\"avatar\":\"https://pbs.twimg.com/profile_images/532701180556615681/uDZrrMFB_normal.jpeg\"},{\"name\":\"Women
+  Who Code LA\",\"body\":\"Snapchat with us! Our @Snapchat handle is WWCodeLA, lets
+  see your #programming and #learntocode moments. http://t.co/zRkPbODqBu\",\"avatar\":\"https://pbs.twimg.com/profile_images/532701180556615681/uDZrrMFB_normal.jpeg\"},{\"name\":\"Sabio.la\",\"body\":\"#bootcamps
+  are collaborative #pairprogramming #learntocode with Friends http://t.co/bZsFIZ9Q3g\",\"avatar\":\"https://pbs.twimg.com/profile_images/2873114153/51be67e26b2377a6ac8f7bb2eeb157bf_normal.png\"},{\"name\":\"Chris
+  Court\",\"body\":\"14 lines of #code does a lot of work! #python #learntocode http://t.co/jPSggKkFWy\",\"avatar\":\"https://pbs.twimg.com/profile_images/483260429481672704/giywhZXk_normal.jpeg\"},{\"name\":\"BootcampIQ\",\"body\":\"RT
+  @LendLayer: Amazing presentations tonight from the SF @theMobileMakers class! #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/521828306161639424/J--FsGTS_normal.png\"},{\"name\":\"LendLayer\",\"body\":\"Amazing
+  presentations tonight from the SF @theMobileMakers class! #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/507989433044328448/1VyKBf3z_normal.png\"},{\"name\":\"Felipe\",\"body\":\"RT
+  @WeSabio: US Dept of Labor projects that by 2020 there'll be 1.4 million computer
+  specialist job openings #LearnToCode be part of the te…\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000573387458/2c660b6be0115f59e4a514d7ae9cbe69_normal.jpeg\"},{\"name\":\"User
+  Agent\",\"body\":\"RT @AlbreyPreston: Yo! #javascript #minoritiesintech #learntocode
+  http://t.co/eDXQkoUkvZ\",\"avatar\":\"https://pbs.twimg.com/profile_images/517855887063388162/GBT8nKQd_normal.png\"},{\"name\":\"Tess
+  Myers\",\"body\":\"RT @AlbreyPreston: Yo! #javascript #minoritiesintech #learntocode
+  http://t.co/eDXQkoUkvZ\",\"avatar\":\"https://pbs.twimg.com/profile_images/498928437373845504/yIMnEF_5_normal.jpeg\"},{\"name\":\"Sabio.la\",\"body\":\"US
+  Dept of Labor projects that by 2020 there'll be 1.4 million computer specialist
+  job openings #LearnToCode be part of the tech revolution\",\"avatar\":\"https://pbs.twimg.com/profile_images/2873114153/51be67e26b2377a6ac8f7bb2eeb157bf_normal.png\"},{\"name\":\"Uli
+  Kunkel\",\"body\":\"RT @WWCodeLA: Great overview from @vikingeducation: Your First
+  100 Hours of #Code: http://t.co/ieHYU1DbcD #LearnToCode #programming http://…\",\"avatar\":\"https://pbs.twimg.com/profile_images/521204187107831812/V17O0dMn_normal.jpeg\"},{\"name\":\"Albrey
+  Preston Brown\",\"body\":\"Yo! #javascript #minoritiesintech #learntocode http://t.co/eDXQkoUkvZ\",\"avatar\":\"https://pbs.twimg.com/profile_images/568110941842055168/fpRtvcx7_normal.jpeg\"},{\"name\":\"MakerBridge\",\"body\":\"Why
+  I Learned to Code by Ellie Day http://t.co/VbrN7Nji7H via @ModelViewMedia #learntocode
+  #techdiversity\",\"avatar\":\"https://pbs.twimg.com/profile_images/3624692886/2aae2af226cb4f48d0523d70856ffae2_normal.png\"},{\"name\":\"Jeroen
+  Augustinus\",\"body\":\"I just wrangled @FreeCodeCamp Bonfire: Build a Contact List
+  \ #LearnToCode #JavaScript\",\"avatar\":\"https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png\"},{\"name\":\"Callie
+  Ferman\",\"body\":\"RT @WWCodeLA: Great overview from @vikingeducation: Your First
+  100 Hours of #Code: http://t.co/ieHYU1DbcD #LearnToCode #programming http://…\",\"avatar\":\"https://pbs.twimg.com/profile_images/553732164206878720/JX9ETIiA_normal.jpeg\"},{\"name\":\"Loigica,
+  P.A.\",\"body\":\"RT @wyncode: Did you miss Wyncode's open house last night? Sign
+  up for the next #learntocode open house at http://t.co/I7nk322nzC http://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/3345962196/16ea27f3a0a365bcbc3083df8b6bcbd9_normal.png\"},{\"name\":\"Women
+  Who Code LA\",\"body\":\"Great overview from @vikingeducation: Your First 100 Hours
+  of #Code: http://t.co/ieHYU1DbcD #LearnToCode #programming http://t.co/LJJssbmjov\",\"avatar\":\"https://pbs.twimg.com/profile_images/532701180556615681/uDZrrMFB_normal.jpeg\"},{\"name\":\"Kristin
+  Toth Smith\",\"body\":\"RT @switchorg: \\\" @codefellowsorg is a great place to
+  get the help you...get off on the right foot.\\\" - James Lorence http://t.co/LcwaSTTvQq
+  …\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000859603907/LNYEKLP4_normal.jpeg\"},{\"name\":\"Mr.
+  Friel \",\"body\":\"There's nothing as satisfying as getting your code to work,
+  all by yourself! #NowWereGettingSomewhere #LearnToCode http://t.co/T61mH3vfYW\",\"avatar\":\"https://pbs.twimg.com/profile_images/560477629921259520/Wj5XQbvd_normal.png\"},{\"name\":\"Interface\",\"body\":\"By
+  2020, there will be 1 million unfulfilled software jobs in America. Be ahead of
+  the pack- #learntocode with us! http://t.co/bbSWnMfaoy\",\"avatar\":\"https://pbs.twimg.com/profile_images/421128658145644545/D28bqwrr_normal.png\"},{\"name\":\"Operation
+  Code\",\"body\":\"Thanks @PDXCodeSchool for the warm hospitality and sharing your
+  story for our #operationcode video! #learntocode #pdx http://t.co/qnoUtIvINr\",\"avatar\":\"https://pbs.twimg.com/profile_images/557334564251521025/AGBcslM1_normal.png\"},{\"name\":\"Alex_M\",\"body\":\"totally
+  addicted @SoloLearn ^^ \\ntry &amp; catch me #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/476837507477143552/iBA6HRvO_normal.jpeg\"},{\"name\":\"Kingsley
+  Ijomah\",\"body\":\"Code read more #1 LESSON 10 #webdesign #responsive  #html #bootstrap
+  #css #coding #programming #learntocode #html5\\nhttp://t.co/asZKSio7gy\",\"avatar\":\"https://pbs.twimg.com/profile_images/502064632379342848/aIqSK8sO_normal.jpeg\"},{\"name\":\"codehance\",\"body\":\"Code
+  read more #1 LESSON 10 #webdesign #responsive  #html #bootstrap #css #coding #programming
+  #learntocode #html5\\nhttp://t.co/CbuaMS89MB\",\"avatar\":\"https://pbs.twimg.com/profile_images/560905804039983104/T-rYq-_d_normal.png\"},{\"name\":\"Ironhack\",\"body\":\"@LiveandSocial
+  thanks for sharing our #infographic. We're glad you liked it! #learntocode #techtips
+  #programming\",\"avatar\":\"https://pbs.twimg.com/profile_images/466256995675160576/4L9u4Au__normal.png\"},{\"name\":\"MyStyleBlox\",\"body\":\"RT
+  @wyncode: Did you miss Wyncode's open house last night? Sign up for the next #learntocode
+  open house at http://t.co/I7nk322nzC http://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/503579637675331584/bZU0XEok_normal.png\"},{\"name\":\"CoderMania\",\"body\":\"How
+  to #learnToCode properly? http://t.co/Au1ezlAE5U\",\"avatar\":\"https://pbs.twimg.com/profile_images/554433515568132096/f1fUMD0l_normal.png\"},{\"name\":\"Codestarter\",\"body\":\"RT
+  @CodeNowOrg: DEADLINE EXTENDED: #NYC HS students who want to #learntocode, apply
+  by Fri 2/27 midnight for FREE  #coding workshop! http:/…\",\"avatar\":\"https://pbs.twimg.com/profile_images/474490148990636033/aOMwD0tT_normal.png\"},{\"name\":\"CodeNow\",\"body\":\"DEADLINE
+  EXTENDED: #NYC HS students who want to #learntocode, apply by Fri 2/27 midnight
+  for FREE  #coding workshop! http://t.co/ddR04ekkiN\",\"avatar\":\"https://pbs.twimg.com/profile_images/3005163294/e4375bf12fd75cc0cfd82c955e03e187_normal.jpeg\"},{\"name\":\"tracy\",\"body\":\"RT
+  @staffordmasie: ...if you're wondering which language... http://t.co/z6BYWEwQ46
+  #learntocode http://t.co/3uipl8MMW1\",\"avatar\":\"https://pbs.twimg.com/profile_images/522995452716003329/gJrYhLit_normal.jpeg\"},{\"name\":\"Javier
+  E. Gonzalez\",\"body\":\"RT @wyncode: Did you miss Wyncode's open house last night?
+  Sign up for the next #learntocode open house at http://t.co/I7nk322nzC http://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000801537249/6865c10c7ab59729da467adee09f057b_normal.jpeg\"},{\"name\":\"Elissa
+  Gelleny\",\"body\":\"@matteos_mom - check out my re-tweet from @jmedved about using
+  @codeorg with Grade 3s! #collaborative #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/509084732970131456/tDVtghAS_normal.jpeg\"},{\"name\":\"We
+  Can Code IT\",\"body\":\"Computer Programming used to be #WomensWork dating back
+  to #WWII. #Learntocode #womencode #http://tinyurl.com/qg2vdo6 http://t.co/44C77CbytA\",\"avatar\":\"https://pbs.twimg.com/profile_images/502120200276168706/uw_Iz_rB_normal.png\"},{\"name\":\"Wyncode
+  Academy\",\"body\":\"Did you miss Wyncode's open house last night? Sign up for the
+  next #learntocode open house at http://t.co/I7nk322nzC http://t.co/rrlTro433Y\",\"avatar\":\"https://pbs.twimg.com/profile_images/466757571374620672/tLDc8pXv_normal.jpeg\"},{\"name\":\"CodeNow\",\"body\":\"DEADLINE
+  EXTENDED: #BayArea HS students, apply by Fri 2/27 midnight to #learntocode in #SF
+  March workshop! http://t.co/ddR04ekkiN\",\"avatar\":\"https://pbs.twimg.com/profile_images/3005163294/e4375bf12fd75cc0cfd82c955e03e187_normal.jpeg\"},{\"name\":\"BootcampIQ\",\"body\":\"10
+  Must-Do's for an Amazing Online Learning Experience @CourseReport @SkillCrush http://t.co/0cGMIVz55Q
+  #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/521828306161639424/J--FsGTS_normal.png\"},{\"name\":\"Mohamed
+  Abdelaziz\",\"body\":\"RT @FreeCodeCamp: Check out this content-heavy podcast for
+  learning #WebDev: http://t.co/KlC6cDwuxG  #LearnToCode @startherefm http://t.co/…\",\"avatar\":\"https://pbs.twimg.com/profile_images/1391032573/me2_normal.jpg\"},{\"name\":\"RocketSpace\",\"body\":\"Fight
+  #coding burn out! http://t.co/eVb52NoXpN via @RocketUBootcamp #devbootcamp #codingbootcamp
+  #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/567843403220541440/jE9UwS1h_normal.png\"},{\"name\":\"greg
+  beutler\",\"body\":\"When asked to make Frogger game harder, she put it on steroids\\n#learntocode\\n@scratched\\n#techsCool.org
+  http://t.co/KTWTYgGUZ0\",\"avatar\":\"https://pbs.twimg.com/profile_images/420370795353735168/gDc-qujh_normal.jpeg\"},{\"name\":\"CourseReport\",\"body\":\"Starting
+  Soon: Hear from @martinramsin of @career_foundry in our live #webinar at 12pm EST!
+  http://t.co/DYaEszY9aP #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/423545698848489472/hl1slQfZ_normal.png\"},{\"name\":\"Jonathan
+  Berlingeri\",\"body\":\"@pauldhondt @timrobinsonj can we code mash?  What does Turing
+  + Pascal + Basic make? #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/532645145988984832/eCdrlFtI_normal.jpeg\"},{\"name\":\"Michele
+  Pistone\",\"body\":\"RT @ClassTechTips: CodeHS for Computer Science - resources
+  for teachers just getting started! #LearntoCode #edtech @CodeHS http://t.co/OXEh…\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000070230508/6da5909f9167e2bad70516a43c8cb85b_normal.jpeg\"},{\"name\":\"BootcampIQ\",\"body\":\"RT
+  @LendLayer: @CodeFellowsOrg \\\"technology isn’t just for tech companies anymore.
+  It’s transforming every industry.\\\" #awesome #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/521828306161639424/J--FsGTS_normal.png\"},{\"name\":\"LendLayer\",\"body\":\"@CodeFellowsOrg
+  \\\"technology isn’t just for tech companies anymore. It’s transforming every industry.\\\"
+  #awesome #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/507989433044328448/1VyKBf3z_normal.png\"},{\"name\":\"Haseeb
+  Younis\",\"body\":\"RT @Codecademy: We want to hear from our UK learners. What is
+  your coding story? #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/569288329838215168/JV0U-SPc_normal.jpeg\"},{\"name\":\"Mr
+  Esposito\",\"body\":\"7th Grade, complete this BEFORE NEXT CLASS! http://t.co/vn2oZOrsMS
+  #programming #scratch #learntocode #coding #RMSTechBasics\",\"avatar\":\"https://pbs.twimg.com/profile_images/3354444165/5e345f1ccd348b41b667596c0cc27e8b_normal.png\"},{\"name\":\"Petula
+  Ann Boland\",\"body\":\"RT @DanSiepen: Your Boarding Pass to the exciting world
+  of tech - http://t.co/4YlYFSms1z - #tech #learntocode #programthefuture http://t.co…\",\"avatar\":\"https://pbs.twimg.com/profile_images/562978990731042816/5U3pl5Cs_normal.jpeg\"},{\"name\":\"Extropian
+  University\",\"body\":\"RT @edXOnline: Five edX Courses to be Tech-Savvy in 2015:
+  http://t.co/Xa3Io28m2n #learntocode #compsci http://t.co/k6yhXBmRDb\",\"avatar\":\"https://pbs.twimg.com/profile_images/570980883776028672/dkBxnRCC_normal.png\"},{\"name\":\"Ironhack\",\"body\":\"@WebLoriKeam
+  glad you liked the blog and thanks for sharing it for others to read. #techtips
+  #learntocode #expertadvice\",\"avatar\":\"https://pbs.twimg.com/profile_images/466256995675160576/4L9u4Au__normal.png\"},{\"name\":\"Kingsley
+  Ijomah\",\"body\":\"Styling posts page LESSON 9 #webdesign #responsive  #html #bootstrap
+  #css #coding #programming #learntocode #html5\\nhttp://t.co/Z3WqacJ50V\",\"avatar\":\"https://pbs.twimg.com/profile_images/502064632379342848/aIqSK8sO_normal.jpeg\"},{\"name\":\"codehance\",\"body\":\"Styling
+  posts page LESSON 9 #webdesign #responsive  #html #bootstrap #css #coding #programming
+  #learntocode #html5\\nhttp://t.co/BiCffTO14r\",\"avatar\":\"https://pbs.twimg.com/profile_images/560905804039983104/T-rYq-_d_normal.png\"},{\"name\":\"France
+  Startups\",\"body\":\"RT @Lewagonparis: 22 projets d'alumni à suivre en 2015 http://t.co/SOTRJvbFYf
+  #promo5 #LeWagonAlumni #dev #ror #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/553644324261330944/SBxuM5QD_normal.png\"},{\"name\":\"Miss
+  Startup\",\"body\":\"RT @Lewagonparis: 22 projets d'alumni à suivre en 2015 http://t.co/SOTRJvbFYf
+  #promo5 #LeWagonAlumni #dev #ror #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/533927202711011331/55tg_FQU_normal.png\"},{\"name\":\"Le
+  Wagon\",\"body\":\"22 projets d'alumni à suivre en 2015 http://t.co/SOTRJvbFYf #promo5
+  #LeWagonAlumni #dev #ror #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000663985872/39f9c3690e17c5362e29c1e8c38d365a_normal.png\"},{\"name\":\"Kiy\",\"body\":\"I
+  just owned @FreeCodeCamp: Get Started with Node.js  #LearnToCode #JavaScript\",\"avatar\":\"https://pbs.twimg.com/profile_images/3098828083/08fe56814b5b4438c5287a3ff0671345_normal.png\"},{\"name\":\"NaimiRoaYusti\",\"body\":\"RT
+  @FreeCodeCamp: Why learning to #code is so damn hard (for everyone, not just you):
+  http://t.co/rb3vNuF84x #LearnToCode http://t.co/CDoh3…\",\"avatar\":\"https://pbs.twimg.com/profile_images/500431298234548224/vWjjErVz_normal.jpeg\"},{\"name\":\"Dan
+  Siepen\",\"body\":\"Your Boarding Pass to the exciting world of tech - http://t.co/4YlYFSms1z
+  - #tech #learntocode #programthefuture http://t.co/a6kc0uRh9d\",\"avatar\":\"https://pbs.twimg.com/profile_images/425470904122896384/2AvyoSwD_normal.jpeg\"},{\"name\":\"Luke
+  Dawson\",\"body\":\"RT @coderfactory: #learntocode #tech - http://t.co/gDOKgoobjW\",\"avatar\":\"https://pbs.twimg.com/profile_images/503044497840693249/uq84nu9I_normal.jpeg\"},{\"name\":\"Coder
+  Factory\",\"body\":\"#learntocode #tech - http://t.co/gDOKgoobjW\",\"avatar\":\"https://pbs.twimg.com/profile_images/483772852391268354/keOYLvw2_normal.png\"},{\"name\":\"Michael
+  Donohue\",\"body\":\"Learn to Code Weekend Workshop - Build an #app in a weekend!
+  http://t.co/G3uS5dKFvS - #tech #learntocode http://t.co/ESSMjXIhIo\",\"avatar\":\"https://pbs.twimg.com/profile_images/541766293498519552/PRVy6V3-_normal.jpeg\"},{\"name\":\"Pete
+  the Programmer\",\"body\":\"Your Boarding Pass to the exciting world of tech - http://t.co/YmACrMNr0Z
+  - #tech #learntocode #programthefuture http://t.co/xDHu7BCvif\",\"avatar\":\"https://pbs.twimg.com/profile_images/567095558649544704/KLKeP8Jb_normal.jpeg\"},{\"name\":\"Belgium
+  Startups\",\"body\":\"RT @LeWagonBrussels: #Rails #apps in the making. Impressed
+  by our #dev #bootcamp students. #BeTech(ie) #LearnToCode your #startup project!
+  …\",\"avatar\":\"https://pbs.twimg.com/profile_images/551470069188800512/sF4x6Xe7_normal.png\"},{\"name\":\"#BeTech\",\"body\":\"RT
+  @LeWagonBrussels: #Rails #apps in the making. Impressed by our #dev #bootcamp students.
+  #BeTech(ie) #LearnToCode your #startup project! …\",\"avatar\":\"https://pbs.twimg.com/profile_images/445478734095605760/0RMkeYhC_normal.png\"},{\"name\":\"jgderuvo\",\"body\":\"Thanks
+  LearnToCode for the follow! I´m very happy about it.\",\"avatar\":\"https://pbs.twimg.com/profile_images/571382443078512640/M9y5Pvvv_normal.jpeg\"},{\"name\":\"Emilio
+  Olías Ruiz\",\"body\":\"RT @edXOnline: Five edX Courses to be Tech-Savvy in 2015:
+  http://t.co/Xa3Io28m2n #learntocode #compsci http://t.co/k6yhXBmRDb\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000665458407/471206be41d2d1d971de7b1eb94e790b_normal.jpeg\"},{\"name\":\"LendIQ\",\"body\":\"@cmiller1225
+  @LendLayer finances students to learn software development. #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/521827445205262336/tr9-Knr6_normal.jpeg\"},{\"name\":\"Jeroen
+  Augustinus\",\"body\":\"I just aced @FreeCodeCamp Bonfire: Learn Control Flow  #LearnToCode
+  #JavaScript\",\"avatar\":\"https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png\"},{\"name\":\"HackerEarth\",\"body\":\"All
+  Permutation of a given String, explained with a graph and a short code http://t.co/rXJlnNDmnq
+  #HENotes #LearnToCode #TechEd #Programming\",\"avatar\":\"https://pbs.twimg.com/profile_images/546991611490484224/4TU0SsFZ_normal.png\"},{\"name\":\"htmlslicemate.com\",\"body\":\"7
+  places to #learn #HTML online for free http://t.co/xw9MqQH8UL #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/552693184258523136/_8cros36_normal.png\"},{\"name\":\"chris
+  hough\",\"body\":\"RT @opcod3us: Join us for our awesome #operationcode workshop
+  to get you coding in #BendOregon, Mar 7: https://t.co/pLXIf7uJv0 #veterans #l…\",\"avatar\":\"https://pbs.twimg.com/profile_images/567593530399289344/QEkJuQPL_normal.png\"},{\"name\":\"Debbie
+  Cravey\",\"body\":\"RT @opcod3us: Thank you @epicodus and Veteran students who we
+  interviewed today! Story of service to country to #learntocode is amazing. #o…\",\"avatar\":\"https://pbs.twimg.com/profile_images/517891536957079552/GSFZxq78_normal.jpeg\"},{\"name\":\"Edith
+  Molina\",\"body\":\"RT @davidcmolina: Thx Victor for sharing your story in the Marines,
+  Iraq-war, #learntocode transition. Congrats on @CodeFellowsOrg! http://…\",\"avatar\":\"https://pbs.twimg.com/profile_images/535564699140497408/0HAUQMHO_normal.jpeg\"},{\"name\":\"Randy
+  Leighton\",\"body\":\"RT @opcod3us: Join us for our awesome #operationcode workshop
+  to get you coding in #BendOregon, Mar 7: https://t.co/pLXIf7uJv0 #veterans #l…\",\"avatar\":\"https://pbs.twimg.com/profile_images/528778211316875264/pkel5jB0_normal.jpeg\"},{\"name\":\"Ryan
+  Williams\",\"body\":\"RT @opcod3us: Join us for our awesome #operationcode workshop
+  to get you coding in #BendOregon, Mar 7: https://t.co/pLXIf7uJv0 #veterans #l…\",\"avatar\":\"https://pbs.twimg.com/profile_images/554866964896571393/1h69-q3W_normal.jpeg\"},{\"name\":\"Bethany
+  Rentz\",\"body\":\"RT @opcod3us: Join us for our awesome #operationcode workshop
+  to get you coding in #BendOregon, Mar 7: https://t.co/pLXIf7uJv0 #veterans #l…\",\"avatar\":\"https://pbs.twimg.com/profile_images/3299659131/4e806bf400602581883896edcb18ea1c_normal.jpeg\"},{\"name\":\"Jonan
+  Scheffler\",\"body\":\"RT @opcod3us: Join us for our awesome #operationcode workshop
+  to get you coding in #BendOregon, Mar 7: https://t.co/pLXIf7uJv0 #veterans #l…\",\"avatar\":\"https://pbs.twimg.com/profile_images/3403660100/01a5732fb26d5cde7ca02e194f83997b_normal.png\"},{\"name\":\"David
+  Molina\",\"body\":\"RT @opcod3us: Join us for our awesome #operationcode workshop
+  to get you coding in #BendOregon, Mar 7: https://t.co/pLXIf7uJv0 #veterans #l…\",\"avatar\":\"https://pbs.twimg.com/profile_images/487618925266350080/gE6nmtOD_normal.jpeg\"},{\"name\":\"David
+  Molina\",\"body\":\"RT @opcod3us: Thank you @epicodus and Veteran students who we
+  interviewed today! Story of service to country to #learntocode is amazing. #o…\",\"avatar\":\"https://pbs.twimg.com/profile_images/487618925266350080/gE6nmtOD_normal.jpeg\"},{\"name\":\"Operation
+  Code\",\"body\":\"Join us for our awesome #operationcode workshop to get you coding
+  in #BendOregon, Mar 7: https://t.co/pLXIf7uJv0 #veterans #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/557334564251521025/AGBcslM1_normal.png\"},{\"name\":\"Jeroen
+  Augustinus\",\"body\":\"I just aced @FreeCodeCamp Bonfire: Learn JavaScript While
+  Loops  #LearnToCode #JavaScript\",\"avatar\":\"https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png\"},{\"name\":\"Operation
+  Code\",\"body\":\"Thank you @epicodus and Veteran students who we interviewed today!
+  Story of service to country to #learntocode is amazing. #operationcode\",\"avatar\":\"https://pbs.twimg.com/profile_images/557334564251521025/AGBcslM1_normal.png\"},{\"name\":\"MakerBridge\",\"body\":\"Interview
+  with Neil Fraser, Blockly development team http://t.co/HnmmHmTGEJ via @opensourceway
+  #learntocode #MakerEd #CodeYear\",\"avatar\":\"https://pbs.twimg.com/profile_images/3624692886/2aae2af226cb4f48d0523d70856ffae2_normal.png\"},{\"name\":\"Dominique
+  Devereaux\",\"body\":\"RT @FreeCodeCamp: A Vision of Coding, Without Opening Your
+  Eyes http://t.co/3cleC9Hfta #LearnToCode #code #javascript #blindness http://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/479825767493165057/Dgfz87os_normal.jpeg\"},{\"name\":\"LendLayer\",\"body\":\"Our
+  motto. #learntocode #coding #cardsagainsthumanity #darthvader http://t.co/BULM6galNj
+  http://t.co/ttm7iQFG6x\",\"avatar\":\"https://pbs.twimg.com/profile_images/507989433044328448/1VyKBf3z_normal.png\"},{\"name\":\"Kim
+  Wallmach\",\"body\":\"RT @edXOnline: Five edX Courses to be Tech-Savvy in 2015:
+  http://t.co/Xa3Io28m2n #learntocode #compsci http://t.co/k6yhXBmRDb\",\"avatar\":\"https://pbs.twimg.com/profile_images/551464876242386945/gB3zaLXS_normal.jpeg\"},{\"name\":\"Dilys\",\"body\":\"Just
+  blogged #summary #notes ( Q&amp;A today) about @udacity  #iOS #nanodegree a new
+  #learntocode resource starting Mar. http://t.co/Ucg28lEsxl\",\"avatar\":\"https://pbs.twimg.com/profile_images/569412508054585344/hibNTL8T_normal.png\"},{\"name\":\"Walter
+  Jameson \",\"body\":\"RT @i_stanford: Prove #code skills w/ experience projects
+  &amp; or beautiful codes the street cred of Silicon Valley. Degrees don't always
+  matt…\",\"avatar\":\"https://pbs.twimg.com/profile_images/3039995379/20d58a2eb1086e23699a02f30878fe05_normal.png\"},{\"name\":\"Imgur
+  Retweet\",\"body\":\"RT @i_stanford: Want my computer to b #colored #eink #epaper
+  so I can #learntocode and #MOOC and read #imgur forever w/out sore eyes http:/…\",\"avatar\":\"https://pbs.twimg.com/profile_images/563546837005508608/wii0x1AW_normal.png\"},{\"name\":\"Dilys\",\"body\":\"Prove
+  #code skills w/ experience projects &amp; or beautiful codes the street cred of
+  Silicon Valley. Degrees don't always matter. #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/569412508054585344/hibNTL8T_normal.png\"},{\"name\":\"Dilys\",\"body\":\"Want
+  my computer to b #colored #eink #epaper so I can #learntocode and #MOOC and read
+  #imgur forever w/out sore eyes http://t.co/aPW6y1bhQL\",\"avatar\":\"https://pbs.twimg.com/profile_images/569412508054585344/hibNTL8T_normal.png\"},{\"name\":\"Sabio.la\",\"body\":\"US
+  Dept of Labor projects that by 2020 there'll be 1.4 million computer specialist
+  job openings #LearnToCode be part of the tech revolution\",\"avatar\":\"https://pbs.twimg.com/profile_images/2873114153/51be67e26b2377a6ac8f7bb2eeb157bf_normal.png\"},{\"name\":\"Interface\",\"body\":\"Your
+  web design career will flourish if you learn to code. Here's why: http://t.co/r1IrQQMKgF
+  (via @CodeFellows) #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/421128658145644545/D28bqwrr_normal.png\"},{\"name\":\"Will
+  Nathan\",\"body\":\"RT @RRombom: Watch this because: 1) @karliekloss is wonderfully
+  poised &amp; thoughtful 2) @aviflombaum is in it #learntocode http://t.co/89kmv…\",\"avatar\":\"https://pbs.twimg.com/profile_images/549229863777738752/fXBKCyjG_normal.jpeg\"},{\"name\":\"asalaya
+  fasi susje\",\"body\":\"RT @FreeCodeCamp: Free Code Camp is now 100 days old! http://t.co/3KulY2vKQl
+  #LearnToCode #JavaScript http://t.co/09qtG3lH6b\",\"avatar\":\"https://pbs.twimg.com/profile_images/491611578098139136/tX3qsQOF_normal.png\"},{\"name\":\"Rebekah
+  Rombom\",\"body\":\"Watch this because: 1) @karliekloss is wonderfully poised &amp;
+  thoughtful 2) @aviflombaum is in it #learntocode http://t.co/89kmvElx4M\",\"avatar\":\"https://pbs.twimg.com/profile_images/551398916944433155/2SkY0H_H_normal.jpeg\"},{\"name\":\"Jay
+  Watson\",\"body\":\"Learning to code is the best thing you can do. #learntocode
+  #codecademy\\n\\nhttps://t.co/KiV9OJDred\",\"avatar\":\"https://pbs.twimg.com/profile_images/568058754470387712/BiAWIgRA_normal.jpeg\"},{\"name\":\"Bolnore
+  Web Design\",\"body\":\"We've ordered our Raspberries! have you? #LearnToCode @Raspberry_Pi
+  @guru\",\"avatar\":\"https://pbs.twimg.com/profile_images/562981725693693952/4wpl-Wgc_normal.png\"},{\"name\":\"RoboticsFun\",\"body\":\"RT
+  @edXOnline: @cybraryIT edX offers free #CompSci MOOCs from Harvard, MIT, Caltech,
+  Linux Found. &amp; more – enroll at http://t.co/GthDyMQZiH…\",\"avatar\":\"https://pbs.twimg.com/profile_images/475482202927407104/-Duun7_l_normal.jpeg\"},{\"name\":\"V.
+  Enriquez-Rios\",\"body\":\"RT @DanSiepen: Learn to Code Weekend Workshop - Build
+  an #app in a weekend! http://t.co/5AuIoelmkn - #tech #learntocode http://t.co/gNkCw65…\",\"avatar\":\"https://pbs.twimg.com/profile_images/562449670392528896/aH7gnHcH_normal.jpeg\"},{\"name\":\"Dan
+  Siepen\",\"body\":\"Learn to Code Weekend Workshop - Build an #app in a weekend!
+  http://t.co/5AuIoelmkn - #tech #learntocode http://t.co/gNkCw65b1Y\",\"avatar\":\"https://pbs.twimg.com/profile_images/425470904122896384/2AvyoSwD_normal.jpeg\"},{\"name\":\"HTML5
+  Digest\",\"body\":\"RT @codehance: Coding posts page LESSON 8 #webdesign #responsive
+  \ #html #bootstrap #css #coding #programming #learntocode #html5\\nhttp://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/471371508489547776/kEpgHiC9_normal.png\"},{\"name\":\"Kat
+  Slump\",\"body\":\"By 2020, there will be 1 million unfulfilled software jobs in
+  America--- #learntocode people!!!\",\"avatar\":\"https://pbs.twimg.com/profile_images/499303859626315776/kbGUNSpV_normal.jpeg\"},{\"name\":\"Automation
+  Tool\",\"body\":\"RT @codehance: Coding posts page LESSON 8 #webdesign #responsive
+  \ #html #bootstrap #css #coding #programming #learntocode #html5\\nhttp://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/559952855990153216/g-Xk91U1_normal.png\"},{\"name\":\"Automation
+  Tool\",\"body\":\"RT @KingsleyIjomah: Coding posts page LESSON 8 #webdesign #responsive
+  \ #html #bootstrap #css #coding #programming #learntocode #html5\\nhttp:…\",\"avatar\":\"https://pbs.twimg.com/profile_images/559952855990153216/g-Xk91U1_normal.png\"},{\"name\":\"Kingsley
+  Ijomah\",\"body\":\"Coding posts page LESSON 8 #webdesign #responsive  #html #bootstrap
+  #css #coding #programming #learntocode #html5\\nhttp://t.co/7yMf1dJwJY\",\"avatar\":\"https://pbs.twimg.com/profile_images/502064632379342848/aIqSK8sO_normal.jpeg\"},{\"name\":\"codehance\",\"body\":\"Coding
+  posts page LESSON 8 #webdesign #responsive  #html #bootstrap #css #coding #programming
+  #learntocode #html5\\nhttp://t.co/0qwyOEVhUQ\",\"avatar\":\"https://pbs.twimg.com/profile_images/560905804039983104/T-rYq-_d_normal.png\"},{\"name\":\"TechWeekEver\",\"body\":\"10
+  Must-Do's for an Amazing Online Learning Experience @CourseReport @SkillCrush http://t.co/8Pi3ufzYIN
+  #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/555511898133655552/b5n0vw0b_normal.png\"},{\"name\":\"lalemerc\",\"body\":\"RT
+  @Lewagonparis: Why #Programming is a Part-Time Job: Breaks Make You More Productive
+  http://t.co/7U8dvtNaS0 #dev #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/519476058236534785/CLoeNMfQ_normal.jpeg\"},{\"name\":\"lalemerc\",\"body\":\"RT
+  @Lewagonparis: Les 25 #gems à connaitre pour débuter une #app #rails http://t.co/Ug7gS3lpjw
+  #ror #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/519476058236534785/CLoeNMfQ_normal.jpeg\"},{\"name\":\"JavaScript
+  Digest\",\"body\":\"RT @FreeCodeCamp: A Vision of Coding, Without Opening Your Eyes
+  http://t.co/3cleC9Hfta #LearnToCode #code #javascript #blindness http://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/473662378869936129/2MgVAmMR_normal.png\"},{\"name\":\"lalemerc\",\"body\":\"RT
+  @LeWagonBrussels: Why #Programming is a Part-Time Job: Breaks Make You More Productive
+  http://t.co/j2SqmfIt4v #dev #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/519476058236534785/CLoeNMfQ_normal.jpeg\"},{\"name\":\"lalemerc\",\"body\":\"RT
+  @LeWagonBrussels: #Rails #apps in the making. Impressed by our #dev #bootcamp students.
+  #BeTech(ie) #LearnToCode your #startup project! …\",\"avatar\":\"https://pbs.twimg.com/profile_images/519476058236534785/CLoeNMfQ_normal.jpeg\"},{\"name\":\"James
+  Wroblewski\",\"body\":\"RT @FreeCodeCamp: A Vision of Coding, Without Opening Your
+  Eyes http://t.co/3cleC9Hfta #LearnToCode #code #javascript #blindness http://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/3676849436/4143b63732e59d48efc5165fa23f2e34_normal.jpeg\"},{\"name\":\"Jon\",\"body\":\"RT
+  @FreeCodeCamp: A Vision of Coding, Without Opening Your Eyes http://t.co/3cleC9Hfta
+  #LearnToCode #code #javascript #blindness http://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/552476978905755648/dM_NpdKp_normal.jpeg\"},{\"name\":\"E
+  L L W O R T H\",\"body\":\"RT @FreeCodeCamp: Free Code Camp is now 100 days old!
+  http://t.co/3KulY2vKQl #LearnToCode #JavaScript http://t.co/09qtG3lH6b\",\"avatar\":\"https://pbs.twimg.com/profile_images/553688232354119680/Nu5xAbuA_normal.jpeg\"},{\"name\":\"E
+  L L W O R T H\",\"body\":\"RT @FreeCodeCamp: A Vision of Coding, Without Opening
+  Your Eyes http://t.co/3cleC9Hfta #LearnToCode #code #javascript #blindness http://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/553688232354119680/Nu5xAbuA_normal.jpeg\"},{\"name\":\"Kingsley
+  Ijomah\",\"body\":\"Styling profile html LESSON 7 #webdesign #responsive  #html
+  #bootstrap #css #coding #programming #learntocode #html5\\nhttp://t.co/RXP6dvAEFS\",\"avatar\":\"https://pbs.twimg.com/profile_images/502064632379342848/aIqSK8sO_normal.jpeg\"},{\"name\":\"codehance\",\"body\":\"Styling
+  profile html LESSON 7 #webdesign #responsive  #html #bootstrap #css #coding #programming
+  #learntocode #html5\\nhttp://t.co/b2mGSsUNnI\",\"avatar\":\"https://pbs.twimg.com/profile_images/560905804039983104/T-rYq-_d_normal.png\"},{\"name\":\"Joshua
+  Adam\",\"body\":\"Shaking the rust off my brain, doing some simple #javascript problem
+  solving. #theodinproject #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/568971772457144320/8xuV9sSH_normal.jpeg\"},{\"name\":\"Kirsten
+  Read\",\"body\":\"10 Must-Do's for an Amazing Online Learning Experience @CourseReport
+  @SkillCrush http://t.co/4ISAsWYjRO #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/3340888220/1fbabc938ff1ef576b863b62d1fbf0c7_normal.jpeg\"},{\"name\":\"Agile\",\"body\":\"RT
+  @edXOnline: Five edX Courses to be Tech-Savvy in 2015: http://t.co/Xa3Io28m2n #learntocode
+  #compsci http://t.co/k6yhXBmRDb\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000397243865/de3a5fa593a79372a549d836e699c4b5_normal.jpeg\"},{\"name\":\"Janine
+  Rhyans\",\"body\":\"RT @edXOnline: Five edX Courses to be Tech-Savvy in 2015: http://t.co/Xa3Io28m2n
+  #learntocode #compsci http://t.co/k6yhXBmRDb\",\"avatar\":\"https://pbs.twimg.com/profile_images/442855979978203137/i0KGVYfm_normal.jpeg\"},{\"name\":\"bringemup.com\",\"body\":\"RT
+  @GurgleApps: Half term fun kids sneakily hacking their Dads computer using a @Raspberry_Pi
+  \\nhttp://t.co/OEgVM1lZqV #learntocode http://t…\",\"avatar\":\"https://pbs.twimg.com/profile_images/476176072535715840/Okw0tuUm_normal.jpeg\"},{\"name\":\"David
+  Mullich\",\"body\":\"Boost your kid's programming skills with Adventures in #Minecraft.http://t.co/7kPsrTVzS0
+  via @GeekMomBlog #learntocode #HourOfCode\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000308410971/0c88e512613d3a46f6c7d21be5cfc75b_normal.jpeg\"},{\"name\":\"Diego
+  J. Fdez.\",\"body\":\"RT @edXOnline: Five edX Courses to be Tech-Savvy in 2015:
+  http://t.co/Xa3Io28m2n #learntocode #compsci http://t.co/k6yhXBmRDb\",\"avatar\":\"https://pbs.twimg.com/profile_images/460148985953402881/acekwBoD_normal.jpeg\"},{\"name\":\"Le
+  Wagon\",\"body\":\"Les 25 #gems à connaitre pour débuter une #app #rails http://t.co/Ug7gS3lpjw
+  #ror #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000663985872/39f9c3690e17c5362e29c1e8c38d365a_normal.png\"},{\"name\":\"kitikrit\",\"body\":\"RT
+  @edXOnline: Five edX Courses to be Tech-Savvy in 2015: http://t.co/Xa3Io28m2n #learntocode
+  #compsci http://t.co/k6yhXBmRDb\",\"avatar\":\"https://pbs.twimg.com/profile_images/480746175503413248/ef2YU4sp_normal.jpeg\"},{\"name\":\"sandra
+  scalzavara\",\"body\":\"RT @edXOnline: Five edX Courses to be Tech-Savvy in 2015:
+  http://t.co/Xa3Io28m2n #learntocode #compsci http://t.co/k6yhXBmRDb\",\"avatar\":\"https://pbs.twimg.com/profile_images/1596822321/IMG_3169_normal.JPG\"},{\"name\":\"Digilent
+  Inc.\",\"body\":\"RT @edXOnline: Five edX Courses to be Tech-Savvy in 2015: http://t.co/Xa3Io28m2n
+  #learntocode #compsci http://t.co/k6yhXBmRDb\",\"avatar\":\"https://pbs.twimg.com/profile_images/555903903674281984/Qffob-7w_normal.jpeg\"},{\"name\":\"Belgium
+  Startups\",\"body\":\"RT @LeWagonBrussels: Why #Programming is a Part-Time Job:
+  Breaks Make You More Productive http://t.co/j2SqmfIt4v #dev #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/551470069188800512/sF4x6Xe7_normal.png\"},{\"name\":\"Mike
+  Phipps\",\"body\":\"RT @edXOnline: Five edX Courses to be Tech-Savvy in 2015: http://t.co/Xa3Io28m2n
+  #learntocode #compsci http://t.co/k6yhXBmRDb\",\"avatar\":\"https://pbs.twimg.com/profile_images/540654181623676928/HyHt5d-C_normal.jpeg\"},{\"name\":\"Fabíola\",\"body\":\"RT
+  @edXOnline: Five edX Courses to be Tech-Savvy in 2015: http://t.co/Xa3Io28m2n #learntocode
+  #compsci http://t.co/k6yhXBmRDb\",\"avatar\":\"https://pbs.twimg.com/profile_images/521615836306763776/OwM-S806_normal.jpeg\"},{\"name\":\"oıpnɐlɔ\",\"body\":\"RT
+  @edXOnline: Five edX Courses to be Tech-Savvy in 2015: http://t.co/Xa3Io28m2n #learntocode
+  #compsci http://t.co/k6yhXBmRDb\",\"avatar\":\"https://pbs.twimg.com/profile_images/3707546604/d3008544e0ea77e78dee87127341a9e9_normal.jpeg\"},{\"name\":\"Alexi
+  Pelletier\",\"body\":\"RT @edXOnline: Five edX Courses to be Tech-Savvy in 2015:
+  http://t.co/Xa3Io28m2n #learntocode #compsci http://t.co/k6yhXBmRDb\",\"avatar\":\"https://pbs.twimg.com/profile_images/563521777578815488/GXh2vLLp_normal.jpeg\"},{\"name\":\"Nikita
+  Joshi\",\"body\":\"RT @edXOnline: Five edX Courses to be Tech-Savvy in 2015: http://t.co/Xa3Io28m2n
+  #learntocode #compsci http://t.co/k6yhXBmRDb\",\"avatar\":\"https://pbs.twimg.com/profile_images/3074333568/099c703798bdf11025aabc7198f5b83d_normal.jpeg\"},{\"name\":\"xoan
+  enriquez vidal\",\"body\":\"RT @edXOnline: Five edX Courses to be Tech-Savvy in
+  2015: http://t.co/Xa3Io28m2n #learntocode #compsci http://t.co/k6yhXBmRDb\",\"avatar\":\"https://pbs.twimg.com/profile_images/3550764855/d0d3b85280380b60c028ef7cd5ed51e8_normal.jpeg\"},{\"name\":\"ŽenaUpokušaju\",\"body\":\"RT
+  @edXOnline: Five edX Courses to be Tech-Savvy in 2015: http://t.co/Xa3Io28m2n #learntocode
+  #compsci http://t.co/k6yhXBmRDb\",\"avatar\":\"https://pbs.twimg.com/profile_images/471749313513521152/18LqDNFm_normal.jpeg\"},{\"name\":\"Maria
+  Jose Coro\",\"body\":\"RT @edXOnline: Five edX Courses to be Tech-Savvy in 2015:
+  http://t.co/Xa3Io28m2n #learntocode #compsci http://t.co/k6yhXBmRDb\",\"avatar\":\"https://pbs.twimg.com/profile_images/532499474057531393/ZGqNI162_normal.jpeg\"},{\"name\":\"MIT
+  events\",\"body\":\"RT @edXOnline: Five edX Courses to be Tech-Savvy in 2015: http://t.co/Xa3Io28m2n
+  #learntocode #compsci http://t.co/k6yhXBmRDb\",\"avatar\":\"https://pbs.twimg.com/profile_images/2453043623/icon_normal.jpg\"},{\"name\":\"edX\",\"body\":\"Five
+  edX Courses to be Tech-Savvy in 2015: http://t.co/Xa3Io28m2n #learntocode #compsci
+  http://t.co/k6yhXBmRDb\",\"avatar\":\"https://pbs.twimg.com/profile_images/2184464082/edx_twitter_profile_FINAL_normal.gif\"},{\"name\":\"Rico\",\"body\":\"I
+  will try  RT“@Lewagonparis: Why #Programming is a Part-Time Job: Breaks Make You
+  More Productive http://t.co/6pl2hJFXqD #dev #learntocode”\",\"avatar\":\"https://pbs.twimg.com/profile_images/436283788797411329/44i_8ZdS_normal.jpeg\"},{\"name\":\"Le
+  Wagon\",\"body\":\"Why #Programming is a Part-Time Job: Breaks Make You More Productive
+  http://t.co/7U8dvtNaS0 #dev #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000663985872/39f9c3690e17c5362e29c1e8c38d365a_normal.png\"},{\"name\":\"Miruna
+  Mitranescu\",\"body\":\"Why #Programming is a Part-Time Job: Breaks Make You More
+  Productive http://t.co/xrDHARVqAD #dev #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/2528774844/coukofqcjj8ogep7ey3d_normal.jpeg\"},{\"name\":\"GurgleApps\",\"body\":\"Half
+  term fun kids sneakily hacking their Dads computer using a @Raspberry_Pi \\nhttp://t.co/OEgVM1lZqV
+  #learntocode http://t.co/FaZWTO8HDi\",\"avatar\":\"https://pbs.twimg.com/profile_images/2877359842/b7a01ee0a05c6f56dfc1ce237e86bd83_normal.png\"},{\"name\":\"Le
+  Wagon Brussels\",\"body\":\"Why #Programming is a Part-Time Job: Breaks Make You
+  More Productive http://t.co/j2SqmfIt4v #dev #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/497406533345349633/AOFeZKZs_normal.png\"},{\"name\":\"gnusaludrd\",\"body\":\"RT
+  @edXOnline: @cybraryIT edX offers free #CompSci MOOCs from Harvard, MIT, Caltech,
+  Linux Found. &amp; more – enroll at http://t.co/GthDyMQZiH…\",\"avatar\":\"https://pbs.twimg.com/profile_images/568753069475627008/DpnEt60d_normal.jpeg\"},{\"name\":\"Ridgehead
+  Software\",\"body\":\"#SteveJobs made a great point here on the importance of #programming
+  and the skills you gain when you #learntocode. http://t.co/p7E34LZICY\",\"avatar\":\"https://pbs.twimg.com/profile_images/481363452921802752/2rDbutlR_normal.png\"},{\"name\":\"Edgar
+  Villegas\",\"body\":\"RT @switchorg: .@ga #datascience alumni: We're compiling a
+  top list to help new #learntocode students, please share your reviews!: https://…\",\"avatar\":\"https://pbs.twimg.com/profile_images/202263913/Foto_El_Hijo_del_Santo_normal.jpg\"},{\"name\":\"Mithun
+  Sridharan\",\"body\":\"RT @switchorg: .@ga #datascience alumni: We're compiling
+  a top list to help new #learntocode students, please share your reviews!: https://…\",\"avatar\":\"https://pbs.twimg.com/profile_images/493767143431745537/7eFh9j_F_normal.jpeg\"},{\"name\":\"Data
+  Smart\",\"body\":\"RT @switchorg: .@ga #datascience alumni: We're compiling a top
+  list to help new #learntocode students, please share your reviews!: https://…\",\"avatar\":\"https://pbs.twimg.com/profile_images/536423134841143297/XGldjFtN_normal.jpeg\"},{\"name\":\"Switchup\",\"body\":\".@ga
+  #datascience alumni: We're compiling a top list to help new #learntocode students,
+  please share your reviews!: https://t.co/24LumXlAyk\",\"avatar\":\"https://pbs.twimg.com/profile_images/526823225548754945/JwK-APps_normal.png\"},{\"name\":\"Interface\",\"body\":\"Wanting
+  to #learntocode? Apps close Fri for: #Java &amp; Hybrid #WebDev + #Design. Apply
+  now! http://t.co/bbSWnMfaoy\",\"avatar\":\"https://pbs.twimg.com/profile_images/421128658145644545/D28bqwrr_normal.png\"},{\"name\":\"ARK
+  Priory\",\"body\":\"Beebot programming in year one #learntocode http://t.co/J0qhvTEEY8\",\"avatar\":\"https://pbs.twimg.com/profile_images/3785902699/5890e70b645572174059ad3f281d3ddd_normal.jpeg\"},{\"name\":\"Joanna
+  Rossi\",\"body\":\"“@techvibes: Teaching Kids to Code an Investment in Every Generation\\nhttp://t.co/QPOiiCirCi”
+  #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/967031858/Joanna_Rossi_normal.jpg\"},{\"name\":\"Jaco
+  van Wyk\",\"body\":\"RT @vulcanalia: Photos from our 1st #LearnToCode Meetup @codebridge
+  \\n http://t.co/98kGgmODDB http://t.co/2PoRzS8UCg\",\"avatar\":\"https://pbs.twimg.com/profile_images/526103406021062656/6LQkObH7_normal.jpeg\"},{\"name\":\"Cybrary\",\"body\":\"RT
+  @edXOnline: @cybraryIT edX offers free #CompSci MOOCs from Harvard, MIT, Caltech,
+  Linux Found. &amp; more – enroll at http://t.co/GthDyMQZiH…\",\"avatar\":\"https://pbs.twimg.com/profile_images/520286287467520000/iPdZOtqg_normal.png\"},{\"name\":\"edX\",\"body\":\"@cybraryIT
+  edX offers free #CompSci MOOCs from Harvard, MIT, Caltech, Linux Found. &amp; more
+  – enroll at http://t.co/GthDyMQZiH. #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/2184464082/edx_twitter_profile_FINAL_normal.gif\"},{\"name\":\"Boyan
+  Angelov\",\"body\":\"Learn Web Design - Code Loris http://t.co/6nOlEbat2Y #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/525367361583329280/ybfr_Dr1_normal.jpeg\"},{\"name\":\"e-Skills
+  4 EU Growth\",\"body\":\"RT @ChaNorMat: Digital skills on the top of the list of
+  @DIGITALEUROPE_ survey as John Higgins presented #Digital4EU #learntocode http://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/3231058541/798fbed0b574b275e4680f648bba0de5_normal.jpeg\"},{\"name\":\"myKidsy\",\"body\":\"We're
+  proud sponsors of @Barclays #kids #LearnToCode programme! #CodingFun #edtech #ukedchat
+  Book a session now: http://t.co/RkLP2Qymoi\",\"avatar\":\"https://pbs.twimg.com/profile_images/3694533757/c14e001dc370a989e185c59183774b0f_normal.png\"},{\"name\":\"Jeroen
+  Augustinus\",\"body\":\"I just destroyed @FreeCodeCamp Bonfire: Learn JavaScript
+  For Loops  #LearnToCode #JavaScript\",\"avatar\":\"https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png\"},{\"name\":\"Animesh
+  Shaw\",\"body\":\"RT @HackerEarth: This note explains \\\"Memory Layout for C programs\\\"
+  in simple terms http://t.co/idRdGto5EY #HENotes #LearnToCode #Programmin…\",\"avatar\":\"https://pbs.twimg.com/profile_images/482097849753034752/SVANRbpo_normal.jpeg\"},{\"name\":\"HackerEarth\",\"body\":\"This
+  note explains \\\"Memory Layout for C programs\\\" in simple terms http://t.co/idRdGto5EY
+  #HENotes #LearnToCode #Programming #TechEd\",\"avatar\":\"https://pbs.twimg.com/profile_images/546991611490484224/4TU0SsFZ_normal.png\"},{\"name\":\"Luke
+  Dawson\",\"body\":\"RT @pedrogrande: Learn to Code Weekend Workshop - Build an #app
+  in a weekend! http://t.co/7lB70haFre - #tech #learntocode http://t.co/9Fqp5…\",\"avatar\":\"https://pbs.twimg.com/profile_images/503044497840693249/uq84nu9I_normal.jpeg\"},{\"name\":\"Pete
+  the Programmer\",\"body\":\"Learn to Code Weekend Workshop - Build an #app in a
+  weekend! http://t.co/7lB70haFre - #tech #learntocode http://t.co/9Fqp5RO6X0\",\"avatar\":\"https://pbs.twimg.com/profile_images/567095558649544704/KLKeP8Jb_normal.jpeg\"},{\"name\":\"Stuart
+  Balcombe\",\"body\":\"Struggling through @MailChimp API integration for our new
+  site build with Bootstrap. It will all be worth it. #learntocode #startup\",\"avatar\":\"https://pbs.twimg.com/profile_images/553222516660244481/CR29e_ud_normal.jpeg\"},{\"name\":\"Code
+  Fellows\",\"body\":\"RT @davidcmolina: Thx Victor for sharing your story in the
+  Marines, Iraq-war, #learntocode transition. Congrats on @CodeFellowsOrg! http://…\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000444748483/f41d4dd5111de20d1c1265e538cee4a9_normal.png\"},{\"name\":\"Operation
+  Code\",\"body\":\"RT @davidcmolina: Thx Victor for sharing your story in the Marines,
+  Iraq-war, #learntocode transition. Congrats on @CodeFellowsOrg! http://…\",\"avatar\":\"https://pbs.twimg.com/profile_images/557334564251521025/AGBcslM1_normal.png\"},{\"name\":\"Stuart
+  O. Smith, Jr.\",\"body\":\"RT @WeCanCodeIT: 5 days left to apply to our #free #codingbootcamp
+  starting March 9th! http://t.co/9zsrCkYBcg  #learntocode #women http://t…\",\"avatar\":\"https://pbs.twimg.com/profile_images/478533634924613632/-UCfVMtP_normal.jpeg\"},{\"name\":\"David
+  Molina\",\"body\":\"Thx Victor for sharing your story in the Marines, Iraq-war,
+  #learntocode transition. Congrats on @CodeFellowsOrg! http://t.co/Y6qa2C31hO\",\"avatar\":\"https://pbs.twimg.com/profile_images/487618925266350080/gE6nmtOD_normal.jpeg\"},{\"name\":\"Leon'\",\"body\":\"RT
+  @FreeCodeCamp: A Vision of Coding, Without Opening Your Eyes http://t.co/3cleC9Hfta
+  #LearnToCode #code #javascript #blindness http://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/463700890742837248/_tNjCBNJ_normal.png\"},{\"name\":\"Roozbeh
+  K.Lali\",\"body\":\"RT @Codecademy: We want to hear from our UK learners. What is
+  your coding story? #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/538666655635607552/lzTa-Olw_normal.jpeg\"},{\"name\":\"Will
+  Little\",\"body\":\"RT @switchorg: \\\" @codefellowsorg is a great place to get
+  the help you...get off on the right foot.\\\" - James Lorence http://t.co/LcwaSTTvQq
+  …\",\"avatar\":\"https://pbs.twimg.com/profile_images/508300723545571328/Lp6GbneI_normal.jpeg\"},{\"name\":\"Jenny
+  Croth\",\"body\":\"RT @FlipGive: We will be at @TheHTML500, Canada’s largest free
+  learn-to-code event! 4 cities. 500 developers. 2000 open seats. #HTML500 #le…\",\"avatar\":\"https://abs.twimg.com/sticky/default_profile_images/default_profile_2_normal.png\"},{\"name\":\"Briana
+  Marie\",\"body\":\"Pumped to tune in to @FreeCodeCamp live stream. http://t.co/IHuvNxgTzd
+  #codenewbie #learntocode #opensourceeducation\",\"avatar\":\"https://pbs.twimg.com/profile_images/535254477415010304/O6ASQASX_normal.jpeg\"},{\"name\":\"Denise\",\"body\":\"RT
+  @WeCanCodeIT: These 50 women are getting things done in #SiliconValley! http://t.co/WSLqQHWA3q
+  #learntocode #womenintech #coding http://…\",\"avatar\":\"https://pbs.twimg.com/profile_images/571048625788338176/C0IXyedv_normal.jpeg\"},{\"name\":\"Denise\",\"body\":\"RT
+  @WeCanCodeIT: Want to #learntocode? We're offering a free #codingbootcamp March
+  9th! Here's how to apply: http://t.co/YmqQgMEbI4 http://…\",\"avatar\":\"https://pbs.twimg.com/profile_images/571048625788338176/C0IXyedv_normal.jpeg\"},{\"name\":\"Denise\",\"body\":\"RT
+  @WeCanCodeIT: 5 days left to apply to our #free #codingbootcamp starting March 9th!
+  http://t.co/9zsrCkYBcg  #learntocode #women http://t…\",\"avatar\":\"https://pbs.twimg.com/profile_images/571048625788338176/C0IXyedv_normal.jpeg\"},{\"name\":\"Jason
+  Wallis\",\"body\":\"Will have to show this to my kids. #DoctorWho game helps kids
+  #learntocode: http://t.co/srFzBAe6Bw via @arstechnica\",\"avatar\":\"https://pbs.twimg.com/profile_images/567390228311064576/px2wz09a_normal.jpeg\"},{\"name\":\"RocketSpace\",\"body\":\"Guide:
+  How to get into a #codingbootcamp via @RocketUBootcamp http://t.co/i2OlYh4cy3 #devbootcamp
+  #learntocode #interview\",\"avatar\":\"https://pbs.twimg.com/profile_images/567843403220541440/jE9UwS1h_normal.png\"},{\"name\":\"Valerio
+  Testa\",\"body\":\"Hello LearnToCode et merci pour ce #follow !\",\"avatar\":\"https://pbs.twimg.com/profile_images/570560614222974976/DNIUUK_i_normal.jpeg\"},{\"name\":\"KevinCroghan\",\"body\":\"Thanks
+  LearnToCode for the follow! I´m very happy about it.\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000547024943/518cfad139f099d2052344131b593e57_normal.jpeg\"},{\"name\":\"Ibiz-arabia
+  dot com\",\"body\":\"RT @FreeCodeCamp: Why learning to #code is so damn hard (for
+  everyone, not just you): http://t.co/rb3vNuF84x #LearnToCode http://t.co/CDoh3…\",\"avatar\":\"https://pbs.twimg.com/profile_images/531209045072302081/RP-D9_VO_normal.jpeg\"},{\"name\":\"Ibiz-arabia
+  dot com\",\"body\":\"RT @FreeCodeCamp: Live #PairProgramming starts now: http://t.co/RBSXPBhWTN
+  #LearnToCode #JavaScript http://t.co/iu3KPjodtx\",\"avatar\":\"https://pbs.twimg.com/profile_images/531209045072302081/RP-D9_VO_normal.jpeg\"},{\"name\":\"LearnToCode\",\"body\":\"RT
+  @millandrailway: @codecrawl Thanks for follow. I think my age excludes me from LearnToCode!\",\"avatar\":\"https://pbs.twimg.com/profile_images/550610673512628226/WoTTDCwa_normal.jpeg\"},{\"name\":\"Tony
+  Bettger\",\"body\":\"@codecrawl Thanks for follow. I think my age excludes me from
+  LearnToCode!\",\"avatar\":\"https://pbs.twimg.com/profile_images/458999703917428736/ivv1j7qZ_normal.jpeg\"},{\"name\":\"Anne
+  Collet\",\"body\":\"RT @LeWagonBrussels: #Rails #apps in the making. Impressed by
+  our #dev #bootcamp students. #BeTech(ie) #LearnToCode your #startup project! …\",\"avatar\":\"https://pbs.twimg.com/profile_images/432276058293821440/uh7H7mO1_normal.jpeg\"},{\"name\":\"Le
+  Wagon Brussels\",\"body\":\"#Rails #apps in the making. Impressed by our #dev #bootcamp
+  students. #BeTech(ie) #LearnToCode your #startup project! http://t.co/5vmu3Kwo8P\",\"avatar\":\"https://pbs.twimg.com/profile_images/497406533345349633/AOFeZKZs_normal.png\"},{\"name\":\"Nariscia_NattyDread\",\"body\":\"I
+  didn't even go gym this evening cuz I was too much in the zone lol #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/552566657571643393/_YfF5Rm8_normal.jpeg\"},{\"name\":\"Nariscia_NattyDread\",\"body\":\"Feeling
+  so much more confident about coding thanks to @Codecademy #learntocode #codinglikeaboss\",\"avatar\":\"https://pbs.twimg.com/profile_images/552566657571643393/_YfF5Rm8_normal.jpeg\"},{\"name\":\"Livia
+  Sarban\",\"body\":\"Part of my project for the next 3 years. #learntocode #todayicode
+  http://t.co/iVRFEtL1Ox\",\"avatar\":\"https://pbs.twimg.com/profile_images/536099820516032512/S88OR05Q_normal.jpeg\"},{\"name\":\"Kingsley
+  Ijomah\",\"body\":\"Coding profile page LESSON 6 #webdesign #responsive  #html #bootstrap
+  #css #coding #programming #learntocode #html5\\nhttp://t.co/xscTje9EBp\",\"avatar\":\"https://pbs.twimg.com/profile_images/502064632379342848/aIqSK8sO_normal.jpeg\"},{\"name\":\"codehance\",\"body\":\"Coding
+  profile page LESSON 6 #webdesign #responsive  #html #bootstrap #css #coding #programming
+  #learntocode #html5\\nhttp://t.co/KTKUB8ThgU\",\"avatar\":\"https://pbs.twimg.com/profile_images/560905804039983104/T-rYq-_d_normal.png\"},{\"name\":\"MSFT
+  Silicon Valley\",\"body\":\"MT @CodeNowOrg LearntoCode! SF high school students
+  apply to our March coding workshop by Feb 25! #CodeNow http://t.co/l7MB65XJ1K\",\"avatar\":\"https://pbs.twimg.com/profile_images/560148352512188416/HJlIpjDh_normal.png\"},{\"name\":\"JuliaVonKallenberg\",\"body\":\"Some
+  things are harder to do in code than you think as a novice but that’s ok. Challenge
+  accepted;) #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/443667611373830144/gAI2cOsb_normal.jpeg\"},{\"name\":\"CODE
+  Sprout +\",\"body\":\"RT @Codecademy: We want to hear from our UK learners. What
+  is your coding story? #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/565363193132756992/7V2BGVh6_normal.png\"},{\"name\":\"Alistair
+  Christie\",\"body\":\"Why you should #learntocode http://t.co/EYj8yOQPSj\",\"avatar\":\"https://pbs.twimg.com/profile_images/566707090366795777/3H7plBNS_normal.jpeg\"},{\"name\":\"Stephanie
+  Mathieu\",\"body\":\"RT @wyncode: #WomenOfWyncode lunch discussing women in #technology
+  &amp; building a diverse future! #learntocode @WITmiami @knightfdn http://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/518953508515905537/DO_NY5rJ_normal.jpeg\"},{\"name\":\"Betty
+  Lowrance - DMP\",\"body\":\"\\\"@mikepaul: The Codecademy iOS App - #LearntoCode
+  On Your iPad http://t.co/5uH5gtsIGv #csed #stem http://t.co/Az2n0oh6hj\\\"\",\"avatar\":\"https://pbs.twimg.com/profile_images/521725826/digital_media_star_2_normal.jpg\"},{\"name\":\"Coder
+  Factory\",\"body\":\"Your Boarding Pass to the exciting world of tech - http://t.co/zCe5YHI0eI
+  - #tech #learntocode #programthefuture http://t.co/JeX5WSeXvb\",\"avatar\":\"https://pbs.twimg.com/profile_images/483772852391268354/keOYLvw2_normal.png\"},{\"name\":\"CodeNow\",\"body\":\".@Aspire
+  excited for #SF wkshop in March! Pls cont to #spreadtheword: #HS students apply
+  by TOMORROW to #learntocode http://t.co/ddR04ekkiN\",\"avatar\":\"https://pbs.twimg.com/profile_images/3005163294/e4375bf12fd75cc0cfd82c955e03e187_normal.jpeg\"},{\"name\":\"David
+  Hsieh\",\"body\":\"RT @ironhack: 15 #tech experts share their best #advice for novice
+  #programmers http://t.co/gQMITJH0vf #learntocode #TechTips http://t.co/p…\",\"avatar\":\"https://pbs.twimg.com/profile_images/559102500918554624/BLjUQjCL_normal.jpeg\"},{\"name\":\"Kat
+  Slump\",\"body\":\"RT @InterfaceSchool: 8 tips to avoid coding burnout via @LendLayer:
+  http://t.co/fihsnljvsl #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/499303859626315776/kbGUNSpV_normal.jpeg\"},{\"name\":\"RocketSpace\",\"body\":\".@RocketUBootcamp
+  &lt;3 #opensource http://t.co/qASqdT4rHx #codingbootcamp #devbootcamp #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/567843403220541440/jE9UwS1h_normal.png\"},{\"name\":\"ComputerScience@LSSU\",\"body\":\"Many
+  of these resources are free! #LearnToCode http://t.co/ImetUYK5V3\",\"avatar\":\"https://pbs.twimg.com/profile_images/487626916795392001/Id82ZIXL_normal.jpeg\"},{\"name\":\"Metova\",\"body\":\"RT
+  @BrittJMartin: Favorite quote from @geekgirlweb on @CodeNewbies \\\"Life is version
+  control. You are always branching out.\\\" #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/491983303021301761/2LKfp9tr_normal.jpeg\"},{\"name\":\"Stylianos
+  Mystakidis\",\"body\":\"Digital skills = top factor in @DIGITALEUROPE_ survey 4
+  #Digital4EU vision #learntocode http://t.co/CsWqOCmIeF #EdDigEra #digskills #eskills\",\"avatar\":\"https://pbs.twimg.com/profile_images/2361088144/y3ena4b57kxo2oc38e6y_normal.jpeg\"},{\"name\":\"Chris
+  Hutchinson\",\"body\":\"RT @kidhasacamera: I just wrangled @FreeCodeCamp Bonfire:
+  Factorialize a Number http://t.co/3rCc0sfRTs #LearnToCode #JavaScript\",\"avatar\":\"https://pbs.twimg.com/profile_images/553771537182883840/6mz1Urc4_normal.jpeg\"},{\"name\":\"Chris
+  Hutchinson\",\"body\":\"RT @kidhasacamera: I just wrangled @FreeCodeCamp Bonfire:
+  Factorialize a Number http://t.co/3rCc0sfRTs #LearnToCode #javascript\",\"avatar\":\"https://pbs.twimg.com/profile_images/553771537182883840/6mz1Urc4_normal.jpeg\"},{\"name\":\"Julie
+  Guegan\",\"body\":\"RT @ChaNorMat: Digital skills on the top of the list of @DIGITALEUROPE_
+  survey as John Higgins presented #Digital4EU #learntocode http://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/529372956800331777/1sIZd22u_normal.jpeg\"},{\"name\":\"Pete
+  the Programmer\",\"body\":\"The best #programming languages every beginner should
+  learn - http://t.co/e28lR1CyeW - #learntocode #ror #js\",\"avatar\":\"https://pbs.twimg.com/profile_images/567095558649544704/KLKeP8Jb_normal.jpeg\"},{\"name\":\"CoderMania\",\"body\":\"Interacting
+  with students and see how they are completing exercises in real-time is fun. #LearnToCode
+  interactively on #CoderMania.\",\"avatar\":\"https://pbs.twimg.com/profile_images/554433515568132096/f1fUMD0l_normal.png\"},{\"name\":\"Javascript
+  Digest\",\"body\":\"RT @kidhasacamera: I just wrangled @FreeCodeCamp Bonfire: Factorialize
+  a Number http://t.co/3rCc0sfRTs #LearnToCode #javascript\",\"avatar\":\"https://pbs.twimg.com/profile_images/544034757730779136/-jOL7GnN_normal.jpeg\"},{\"name\":\"Operation
+  Code\",\"body\":\"@JBLM_PAO: meet @CodeFellowsOrg (http://t.co/yvOU4KfvlB) #veterans
+  #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/557334564251521025/AGBcslM1_normal.png\"},{\"name\":\"Jeff
+  Ho\",\"body\":\"RT @covertress: Python Programming\\n#python #programming #learntocode
+  #learning #code #video \\nin 48 videos\\nhttps://t.co/ZNNXo3iR2U http://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/531720845459066880/7oWkIEAP_normal.jpeg\"},{\"name\":\"Data
+  Geek\",\"body\":\"RT @covertress: Python Programming\\n#python #programming #learntocode
+  #learning #code #video \\nin 48 videos\\nhttps://t.co/ZNNXo3iR2U http://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/536381545682964480/dRHvM5Dr_normal.png\"},{\"name\":\"Pedro
+  Marrucho\",\"body\":\"RT @covertress: Python Programming\\n#python #programming
+  #learntocode #learning #code #video \\nin 48 videos\\nhttps://t.co/ZNNXo3iR2U http://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/553677042856628224/YNwMN4y0_normal.png\"},{\"name\":\"We
+  Can Code IT\",\"body\":\"5 days left to apply to our #free #codingbootcamp starting
+  March 9th! http://t.co/9zsrCkYBcg  #learntocode #women http://t.co/yKkB8JsdVP\",\"avatar\":\"https://pbs.twimg.com/profile_images/502120200276168706/uw_Iz_rB_normal.png\"},{\"name\":\"Tindall
+  Hutchinson\",\"body\":\"I just wrangled @FreeCodeCamp Bonfire: Factorialize a Number
+  http://t.co/3rCc0sfRTs #LearnToCode #javascript\",\"avatar\":\"https://pbs.twimg.com/profile_images/572040042732003329/y-wubfos_normal.jpeg\"},{\"name\":\"Tindall
+  Hutchinson\",\"body\":\"I just wrangled @FreeCodeCamp Bonfire: Factorialize a Number
+  http://t.co/3rCc0sfRTs #LearnToCode #JavaScript\",\"avatar\":\"https://pbs.twimg.com/profile_images/572040042732003329/y-wubfos_normal.jpeg\"},{\"name\":\"Lori
+  Wilson \",\"body\":\"RT @mirkin23: Kids prank their Dad using @Raspberry_Pi http://t.co/lpyZJeesWE
+  #RaspberrryPi #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/518531308138811394/8y83715O_normal.jpeg\"},{\"name\":\"OC1983\",\"body\":\"RT
+  @InterfaceSchool: 8 tips to avoid coding burnout via @LendLayer: http://t.co/fihsnljvsl
+  #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/3336038538/4d87f3fff97b05321ce04bc826ea1d02_normal.jpeg\"},{\"name\":\"covertress\",\"body\":\"Python
+  Programming\\n#python #programming #learntocode #learning #code #video \\nin 48
+  videos\\nhttps://t.co/ZNNXo3iR2U http://t.co/VaHlMQZknh\",\"avatar\":\"https://pbs.twimg.com/profile_images/531782798168690689/gP_MSV2h_normal.jpeg\"},{\"name\":\"Steve
+  McGarry\",\"body\":\"RT @InterfaceSchool: 8 tips to avoid coding burnout via @LendLayer:
+  http://t.co/fihsnljvsl #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/515930389651529728/4WFKCRxL_normal.jpeg\"},{\"name\":\"LendLayer
+  Llama\",\"body\":\"RT @InterfaceSchool: 8 tips to avoid coding burnout via @LendLayer:
+  http://t.co/fihsnljvsl #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/558435701927063552/RauBNAb5_normal.jpeg\"},{\"name\":\"BootcampIQ\",\"body\":\"RT
+  @InterfaceSchool: 8 tips to avoid coding burnout via @LendLayer: http://t.co/fihsnljvsl
+  #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/521828306161639424/J--FsGTS_normal.png\"},{\"name\":\"Mrs.
+  Plummer's Class\",\"body\":\"Rue Tech Club Ss really work together to help each
+  other learn how to code. #learntocode #cbcsd http://t.co/ePvnblyPbc\",\"avatar\":\"https://pbs.twimg.com/profile_images/502265122220285952/1xXu4JoQ_normal.jpeg\"},{\"name\":\"JUG
+  Ahmedabad\",\"body\":\"RT @CodeHS: We’re looking for beta testers for our upcoming
+  AP Java course! Interested? Let us know here: http://t.co/Ald93aZufZ  #Java #le…\",\"avatar\":\"https://pbs.twimg.com/profile_images/3044868939/53965e34ae5eb5a304c8b3effae3e922_normal.jpeg\"},{\"name\":\"Leslie
+  Scott\",\"body\":\"RT @CodeHS: We’re looking for beta testers for our upcoming AP
+  Java course! Interested? Let us know here: http://t.co/Ald93aZufZ  #Java #le…\",\"avatar\":\"https://pbs.twimg.com/profile_images/491931253147308032/3mP3dpWD_normal.jpeg\"},{\"name\":\"Mimir
+  LLC\",\"body\":\"10 Life-Changing Reasons You Should Learn to Code http://t.co/dDMZFda65k
+  #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/450840473393848320/SkCQ9uCs_normal.png\"},{\"name\":\"Interface\",\"body\":\"8
+  tips to avoid coding burnout via @LendLayer: http://t.co/fihsnljvsl #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/421128658145644545/D28bqwrr_normal.png\"},{\"name\":\"FINTECHNA\",\"body\":\"RT
+  ByteAcademyCo: Join us for a #ByteAcademy info session + student demo on 3/5! http://t.co/Z5ewUJkobn;
+  #learntocode #fintech #codingboot…\",\"avatar\":\"https://pbs.twimg.com/profile_images/548469729191411712/s_ab78eS_normal.jpeg\"},{\"name\":\"Byte
+  Academy\",\"body\":\"Join us for a #ByteAcademy info session + student demo on 3/5!
+  http://t.co/BI2xjFfKGO #learntocode #fintech #codingbootcamp\",\"avatar\":\"https://pbs.twimg.com/profile_images/480091880747577345/jYWELhwK_normal.png\"},{\"name\":\"CodeHS\",\"body\":\"We’re
+  looking for beta testers for our upcoming AP Java course! Interested? Let us know
+  here: http://t.co/Ald93aZufZ  #Java #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/3390002725/93ab7351c9a6611b0a4be10a3c847dfd_normal.png\"},{\"name\":\"Abdul
+  Hannan Ali\",\"body\":\"RT @FreeCodeCamp: A Vision of Coding, Without Opening Your
+  Eyes http://t.co/3cleC9Hfta #LearnToCode #code #javascript #blindness http://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/565113189000417280/Do9HzNj5_normal.jpeg\"},{\"name\":\"Space
+  Escape\",\"body\":\"RT @dmp_gctc: \\\"@HawkinsRhianna: 1st girl to win @BAFTAGames
+  Young Games Designer #learntocode http://t.co/sOPyQHAiP0 #GameMaker\\\" #csed #gam…\",\"avatar\":\"https://pbs.twimg.com/profile_images/561605661000089600/saHU5YrO_normal.jpeg\"},{\"name\":\"Rhys\",\"body\":\"@PhraktureMusic
+  you're missing out on our second big Bitmaker visit! We need help eating all these
+  sub sandwiches #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/2583790767/tfy0ig578j13wxvqiarz_normal.jpeg\"},{\"name\":\"GameMaker
+  Bot\",\"body\":\"RT @dmp_gctc: \\\"@HawkinsRhianna: 1st girl to win @BAFTAGames
+  Young Games Designer #learntocode http://t.co/sOPyQHAiP0 #GameMaker\\\" #csed #gam…\",\"avatar\":\"https://pbs.twimg.com/profile_images/504262538381381632/17q3fL7Z_normal.png\"},{\"name\":\"Indie
+  Games Devel\",\"body\":\"RT @dmp_gctc: \\\"@HawkinsRhianna: 1st girl to win @BAFTAGames
+  Young Games Designer #learntocode http://t.co/sOPyQHAiP0 #GameMaker\\\" #csed #gam…\",\"avatar\":\"https://pbs.twimg.com/profile_images/502398379213598720/WWnfhQoC_normal.png\"},{\"name\":\"Game
+  Dev Robot\",\"body\":\"RT @dmp_gctc: \\\"@HawkinsRhianna: 1st girl to win @BAFTAGames
+  Young Games Designer #learntocode http://t.co/sOPyQHAiP0 #GameMaker\\\" #csed #gam…\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000117601016/8e8c417d314931ea74624454e843314e_normal.png\"},{\"name\":\"Parodossy\",\"body\":\"dmp_gctc:
+  \\\"HawkinsRhianna: 1st girl to win BAFTAGames Young Games Designer #learntocode
+  http://t.co/IdFZxJ4p5m #GameMaker\\\" #csed #gamedev\",\"avatar\":\"https://pbs.twimg.com/profile_images/507039042308153344/ZQTo_0Gs_normal.jpeg\"},{\"name\":\"The
+  Indie Sloth\",\"body\":\"RT @dmp_gctc: \\\"@HawkinsRhianna: 1st girl to win @BAFTAGames
+  Young Games Designer #learntocode http://t.co/sOPyQHAiP0 #GameMaker\\\" #csed #gam…\",\"avatar\":\"https://pbs.twimg.com/profile_images/484847788241334272/b0_px679_normal.jpeg\"},{\"name\":\"Betty
+  Lowrance - DMP\",\"body\":\"\\\"@HawkinsRhianna: 1st girl to win @BAFTAGames Young
+  Games Designer #learntocode http://t.co/sOPyQHAiP0 #GameMaker\\\" #csed #gamedev\",\"avatar\":\"https://pbs.twimg.com/profile_images/521725826/digital_media_star_2_normal.jpg\"},{\"name\":\"Jennifer
+  Rebecca\",\"body\":\"Today's lectures consist of #advertising and society and then
+  possibly more #Python. Yay #learning!! #selfimprovement #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/551570843243778049/ydR1YJrT_normal.jpeg\"},{\"name\":\"greg
+  beutler\",\"body\":\"Did you get creative today? #learntocode #scratched #techsCool
+  http://t.co/mW2EFIFYaQ\",\"avatar\":\"https://pbs.twimg.com/profile_images/526149909138120704/nK-Rptbh_normal.jpeg\"},{\"name\":\"MSFT
+  Silicon Valley\",\"body\":\"RT @CodeNowOrg: #BayArea HSers don’t miss out! Our March
+  #learntocode workshop is open for apps! Apply by Wed, Feb 25! #SF #SanFran http://…\",\"avatar\":\"https://pbs.twimg.com/profile_images/560148352512188416/HJlIpjDh_normal.png\"},{\"name\":\"Joshua
+  Adam\",\"body\":\"Sick as a dog, and still going to find time to study. #learntocode
+  #javascript #theodinproject\",\"avatar\":\"https://pbs.twimg.com/profile_images/568971772457144320/8xuV9sSH_normal.jpeg\"},{\"name\":\"greg
+  beutler\",\"body\":\"Have you #scratched today ( codes a fun, creative scratch project??\\n#learntocode
+  http://t.co/N909qkXL0e\",\"avatar\":\"https://pbs.twimg.com/profile_images/526149909138120704/nK-Rptbh_normal.jpeg\"},{\"name\":\"just_chris\",\"body\":\"RT
+  @Codecademy: We want to hear from our UK learners. What is your coding story? #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/2559393225/image_normal.jpg\"},{\"name\":\"Ronald
+  \",\"body\":\"Today i received my @Raspberry_Pi 2 can't wait to get going. #learntocode
+  http://t.co/F6uErJMk8h\",\"avatar\":\"https://pbs.twimg.com/profile_images/570989821625278464/aJIdDDdn_normal.jpeg\"},{\"name\":\"Taslim
+  OKUNOLA\",\"body\":\"RT @Codecademy: We want to hear from our UK learners. What
+  is your coding story? #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/550888292548624385/pKTbnTKp_normal.jpeg\"},{\"name\":\"Ironhack\",\"body\":\"@RavenKateD
+  glad you liked the blog and thanks for sharing it with others! #learntocode #lifedecisions\",\"avatar\":\"https://pbs.twimg.com/profile_images/466256995675160576/4L9u4Au__normal.png\"},{\"name\":\"PHP
+  Retweet Bot\",\"body\":\"RT @nyphp: tmrw @nyphp Talmudic Maxims to Maximize Your
+  Growth as a Dev with @coderabbi and @fleurchild on @MHPrompt #php #learntocode #men…\",\"avatar\":\"https://pbs.twimg.com/profile_images/545271873668280320/X6Tg_poL_normal.png\"},{\"name\":\"Ironhack\",\"body\":\"@DigitallyGenius
+  have you tried any of them yet? Which did you like the best? #codingfun #codepractice
+  #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/466256995675160576/4L9u4Au__normal.png\"},{\"name\":\"Ed
+  Finkler\",\"body\":\"RT @nyphp: tmrw @nyphp Talmudic Maxims to Maximize Your Growth
+  as a Dev with @coderabbi and @fleurchild on @MHPrompt #php #learntocode #men…\",\"avatar\":\"https://pbs.twimg.com/profile_images/498316701499281410/buBCGTka_normal.jpeg\"},{\"name\":\"Lewis
+  Cowles\",\"body\":\"RT @Codecademy: We want to hear from our UK learners. What is
+  your coding story? #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/2135640438/me-head-cartoon_normal.png\"},{\"name\":\"Chris
+  Fayers\",\"body\":\"RT @Codecademy: We want to hear from our UK learners. What is
+  your coding story? #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/1844429252/P8260333_normal.jpg\"},{\"name\":\"Bonnie
+  Eisenman\",\"body\":\"RT @Codecademy: We want to hear from our UK learners. What
+  is your coding story? #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/451786673416708096/6NzaV4Er_normal.png\"},{\"name\":\"Alexander
+  Johnson\",\"body\":\"“@Codecademy: We want to hear from our UK learners. What is
+  your coding story? #learntocode”despite it being well paid\",\"avatar\":\"https://pbs.twimg.com/profile_images/564488153180811265/XVCDKoAe_normal.jpeg\"},{\"name\":\"Alexander
+  Johnson\",\"body\":\"“@Codecademy: We want to hear from our UK learners. What is
+  your coding story? #learntocode” however I won't pursue a career in it\",\"avatar\":\"https://pbs.twimg.com/profile_images/564488153180811265/XVCDKoAe_normal.jpeg\"},{\"name\":\"Alexander
+  Johnson\",\"body\":\"“@Codecademy: We want to hear from our UK learners. What is
+  your coding story? #learntocode” learning to code to broaden my cv\",\"avatar\":\"https://pbs.twimg.com/profile_images/564488153180811265/XVCDKoAe_normal.jpeg\"},{\"name\":\"#EdTech\",\"body\":\"RT
+  @ClassTechTips: CodeHS for Computer Science - resources for teachers just getting
+  started! #LearntoCode #edtech @CodeHS http://t.co/OXEh…\",\"avatar\":\"https://pbs.twimg.com/profile_images/481527893747453952/8JanY_UP_normal.jpeg\"},{\"name\":\"Alexander
+  Johnson\",\"body\":\"“@Codecademy: We want to hear from our UK learners. What is
+  your coding story? #learntocode” it's fun but gets frustrating \U0001F61E Can u
+  help?\",\"avatar\":\"https://pbs.twimg.com/profile_images/564488153180811265/XVCDKoAe_normal.jpeg\"},{\"name\":\"Samantha
+  Smith\",\"body\":\"RT @ClassTechTips: CodeHS for Computer Science - resources for
+  teachers just getting started! #LearntoCode #edtech @CodeHS http://t.co/OXEh…\",\"avatar\":\"https://pbs.twimg.com/profile_images/1112810744/Photo_1_normal.jpg\"},{\"name\":\"Alexander
+  Johnson\",\"body\":\"“@Codecademy: We want to hear from our UK learners. What is
+  your coding story? #learntocode” are their any solutions in the help section?\",\"avatar\":\"https://pbs.twimg.com/profile_images/564488153180811265/XVCDKoAe_normal.jpeg\"},{\"name\":\"Codecademy\",\"body\":\"We
+  want to hear from our UK learners. What is your coding story? #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/499697083398381568/ih2vOpDt_normal.png\"},{\"name\":\"Prompt\",\"body\":\"RT
+  @nyphp: tmrw @nyphp Talmudic Maxims to Maximize Your Growth as a Dev with @coderabbi
+  and @fleurchild on @MHPrompt #php #learntocode #men…\",\"avatar\":\"https://pbs.twimg.com/profile_images/508991457898676224/lpJ6xtSa_normal.png\"},{\"name\":\"Daniel
+  Krook\",\"body\":\"RT @nyphp: tmrw @nyphp Talmudic Maxims to Maximize Your Growth
+  as a Dev with @coderabbi and @fleurchild on @MHPrompt #php #learntocode #men…\",\"avatar\":\"https://pbs.twimg.com/profile_images/2430888722/ygtb6ad5gri08gze55gi_normal.png\"},{\"name\":\"
+  \  frankie smart\",\"body\":\"RT @ClassTechTips: CodeHS for Computer Science - resources
+  for teachers just getting started! #LearntoCode #edtech @CodeHS http://t.co/OXEh…\",\"avatar\":\"https://pbs.twimg.com/profile_images/562449960206364673/UnKvtHuw_normal.jpeg\"},{\"name\":\"Edheads\",\"body\":\"RT
+  @ClassTechTips: CodeHS for Computer Science - resources for teachers just getting
+  started! #LearntoCode #edtech @CodeHS http://t.co/OXEh…\",\"avatar\":\"https://pbs.twimg.com/profile_images/519855009391861760/FhJps8mT_normal.jpeg\"},{\"name\":\"Jodi
+  Matties Wilton\",\"body\":\"RT @ClassTechTips: CodeHS for Computer Science - resources
+  for teachers just getting started! #LearntoCode #edtech @CodeHS http://t.co/OXEh…\",\"avatar\":\"https://pbs.twimg.com/profile_images/559906213278666753/iHNzCLZG_normal.jpeg\"},{\"name\":\"Monica
+  Burns\",\"body\":\"CodeHS for Computer Science - resources for teachers just getting
+  started! #LearntoCode #edtech @CodeHS http://t.co/OXEhrSIW6P\",\"avatar\":\"https://pbs.twimg.com/profile_images/438084077803941888/SHo91C0-_normal.png\"},{\"name\":\"Luke\",\"body\":\"#LearnToCode!
+  14 Best Online Coding Courses - http://t.co/jYHVXm9EZz\",\"avatar\":\"https://pbs.twimg.com/profile_images/569132899039850496/4G5RpTYj_normal.png\"},{\"name\":\"Andrew
+  Davidson\",\"body\":\"Great to see this kind of thing on the side of a bus in #HongKong
+  #cyberport #learntocode http://t.co/iZak9S3x5L\",\"avatar\":\"https://pbs.twimg.com/profile_images/480958872123744256/EpDcOE2y_normal.jpeg\"},{\"name\":\"EasyPHP\",\"body\":\"#codekodo
+  15.1 alpha 1 out! Download : http://t.co/sdKqsbvCFg.\\nSend us your feedback at
+  codekodo@gmail.com.\\n#php #python #ruby #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/3606491539/4675e18495b51c86d93ffa2bdca54eef_normal.png\"},{\"name\":\"Danielle
+  Neale\",\"body\":\"RT @coderfactory: Learn to Code Weekend Workshop - Build an #app
+  in a weekend! http://t.co/eJdHgEDSkZ - #tech #learntocode http://t.co/zSJ8…\",\"avatar\":\"https://pbs.twimg.com/profile_images/539346253742473216/4KcRPxwW_normal.jpeg\"},{\"name\":\"Coder
+  Factory\",\"body\":\"Learn to Code Weekend Workshop - Build an #app in a weekend!
+  http://t.co/eJdHgEDSkZ - #tech #learntocode http://t.co/zSJ8wLjSky\",\"avatar\":\"https://pbs.twimg.com/profile_images/483772852391268354/keOYLvw2_normal.png\"},{\"name\":\"Comunicare
+  Digitale\",\"body\":\"RT @ChaNorMat: Digital skills on the top of the list of @DIGITALEUROPE_
+  survey as John Higgins presented #Digital4EU #learntocode http://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/570909576413728768/ciUB1HQb_normal.jpeg\"},{\"name\":\"Guy
+  MAMOU-MANI\",\"body\":\"RT @ChaNorMat: Digital skills on the top of the list of
+  @DIGITALEUROPE_ survey as John Higgins presented #Digital4EU #learntocode http://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/2243999285/G-Mamou-Mani-20_normal.jpg\"},{\"name\":\"Helén
+  Palm\",\"body\":\"RT @ChaNorMat: Digital skills on the top of the list of @DIGITALEUROPE_
+  survey as John Higgins presented #Digital4EU #learntocode http://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000749011571/dfab995b9f8e3d9b61fd0e608b6c3cf6_normal.jpeg\"},{\"name\":\"DIGITALEUROPE\",\"body\":\"RT
+  @ChaNorMat: Digital skills on the top of the list of @DIGITALEUROPE_ survey as John
+  Higgins presented #Digital4EU #learntocode http://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/468369310964916225/ckwfZ6Mh_normal.jpeg\"},{\"name\":\"C
+  NørlundMatthiessen\",\"body\":\"Digital skills on the top of the list of @DIGITALEUROPE_
+  survey as John Higgins presented #Digital4EU #learntocode http://t.co/MGPREmklqb\",\"avatar\":\"https://pbs.twimg.com/profile_images/549259301358170112/zNa1YTim_normal.jpeg\"},{\"name\":\"Royd
+  Brayshay\",\"body\":\"RT @switchorg: \\\"The dev world doesn’t care about degrees
+  or certificates\\\" Jordon Poulton of @MakersAcademy http://t.co/IPBQBqiFEM #learntoc…\",\"avatar\":\"https://pbs.twimg.com/profile_images/426705859670839296/YDSB4mIp_normal.jpeg\"},{\"name\":\"James
+  Higgins\",\"body\":\"RT @switchorg: \\\"The dev world doesn’t care about degrees
+  or certificates\\\" Jordon Poulton of @MakersAcademy http://t.co/IPBQBqiFEM #learntoc…\",\"avatar\":\"https://pbs.twimg.com/profile_images/518796177626517505/dbz1570U_normal.jpeg\"},{\"name\":\"Gemma
+  Cameron\",\"body\":\"RT @switchorg: \\\"The dev world doesn’t care about degrees
+  or certificates\\\" Jordon Poulton of @MakersAcademy http://t.co/IPBQBqiFEM #learntoc…\",\"avatar\":\"https://pbs.twimg.com/profile_images/529898595450122240/-ipV0mgr_normal.jpeg\"},{\"name\":\"Andreea\",\"body\":\"Do
+  you know if you're a good programmer? Check this out:  http://t.co/X5Mp2HFUzS #learntocode
+  #goodprogramming #programmers\",\"avatar\":\"https://pbs.twimg.com/profile_images/534313895167414272/fjSpPd9V_normal.jpeg\"},{\"name\":\"JuliaVonKallenberg\",\"body\":\"The
+  Apple iBook on #Swift is really helpful to get the basics! #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/443667611373830144/gAI2cOsb_normal.jpeg\"},{\"name\":\"Code
+  Collective\",\"body\":\"RT @opcod3us: SITREP 006 is outbound. #veterans #operationcode
+  #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/440879581889720320/1Jfvkt8z_normal.png\"},{\"name\":\"Jeroen
+  Augustinus\",\"body\":\"I just crushed @FreeCodeCamp Bonfire: Build Rock Paper Scissors
+  #LearnToCode #JavaScript\",\"avatar\":\"https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png\"},{\"name\":\"HackerEarth\",\"body\":\"C++
+  STL's: When to use which STL. Read this to understand\\nhttp://t.co/yGHERRIVTi #Programming
+  #HENotes #LearnToCode #TechEd\",\"avatar\":\"https://pbs.twimg.com/profile_images/546991611490484224/4TU0SsFZ_normal.png\"},{\"name\":\"Frank
+  La Vigne\",\"body\":\"RT @opcod3us: SITREP 006 is outbound. #veterans #operationcode
+  #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/3257946320/1bcb7ebbe846b186565743533fe39bf9_normal.png\"},{\"name\":\"David
+  Molina\",\"body\":\"RT @opcod3us: SITREP 006 is outbound. #veterans #operationcode
+  #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/487618925266350080/gE6nmtOD_normal.jpeg\"},{\"name\":\"Operation
+  Code\",\"body\":\"SITREP 006 is outbound. #veterans #operationcode #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/557334564251521025/AGBcslM1_normal.png\"},{\"name\":\"Code
+  Fellows\",\"body\":\"RT @switchorg: \\\" @codefellowsorg is a great place to get
+  the help you...get off on the right foot.\\\" - James Lorence http://t.co/LcwaSTTvQq
+  …\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000444748483/f41d4dd5111de20d1c1265e538cee4a9_normal.png\"},{\"name\":\"greg
+  beutler\",\"body\":\"Unleash their genius!  #learntocode #techsCool  #scratch http://t.co/dHQOJtMWwI\",\"avatar\":\"https://pbs.twimg.com/profile_images/526149909138120704/nK-Rptbh_normal.jpeg\"},{\"name\":\"jacob
+  lewis \",\"body\":\"Excellent article on setting up a useful Gruntfile. http://t.co/z1ATFHtzNx\\n#Grunt
+  #javascript #LearnToCode\",\"avatar\":\"https://pbs.twimg.com/profile_images/558026623530721280/QCZ3G8hW_normal.jpeg\"},{\"name\":\"Jeroen
+  Augustinus\",\"body\":\"I just nailed @FreeCodeCamp Bonfire: Build an Adventure
+  Game #LearnToCode #JavaScript\",\"avatar\":\"https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png\"},{\"name\":\"ayumi
+  fukuda bennett\",\"body\":\"New Post: “Relearning what you thought you already knew”
+  #learntocode http://t.co/vqCJl9uPvw learnin' at @NashSoftware\",\"avatar\":\"https://pbs.twimg.com/profile_images/568527921120157696/7FRuRiy1_normal.jpeg\"},{\"name\":\"Erin
+  M Page\",\"body\":\"RT @LendLayer: The age-old question: How to avoid burnout at
+  a #coding bootcamp. #learntocode http://t.co/wKgd1QaYtr\",\"avatar\":\"https://pbs.twimg.com/profile_images/1865684703/Slave_Leia_normal.jpg\"},{\"name\":\"Hipster
+  Hackers LV\",\"body\":\"Class in full-swing! @cloudsplitter leading in building
+  a flower shop website. #LearnToCode http://t.co/LWc0zEev1K\",\"avatar\":\"https://pbs.twimg.com/profile_images/564928432736186369/1YVIdDek_normal.png\"},{\"name\":\"Switchup\",\"body\":\"ATTN
+  @FirehoseProject alumni: Tell us about your #learntocode experience! We want to
+  hear from you: http://t.co/ba2siopg9D\",\"avatar\":\"https://pbs.twimg.com/profile_images/526823225548754945/JwK-APps_normal.png\"},{\"name\":\"Laura
+  Willson\",\"body\":\"RT @CodeNowOrg: #NYC HSers, our March #learntocode workshop
+  is quickly approaching! Apply by Wed, Feb 25! http://t.co/8CVOxOoJEp\",\"avatar\":\"https://pbs.twimg.com/profile_images/567431498710536192/eZYwuHLQ_normal.jpeg\"},{\"name\":\"Jolina
+  K Clément \",\"body\":\"Love this! RT@WeAreWCC: We Invite Everyone at Etsy to Do
+  an Engineering Rotation: https://t.co/tN1B7VTePr #coding #programming #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/553230275652509696/6ezEqx1l_normal.png\"},{\"name\":\"Las
+  Vegas USEAC\",\"body\":\"RT @hipsterhackers: It's that time again! Come and learn
+  the basics of web development. Starting at 6:30 at @WorkInProgress tonight! #learn…\",\"avatar\":\"https://pbs.twimg.com/profile_images/527184431031656448/aCrPmMfl_normal.jpeg\"},{\"name\":\"Julia
+  Nguyen\",\"body\":\"RT @nyphp: tmrw @nyphp Talmudic Maxims to Maximize Your Growth
+  as a Dev with @coderabbi and @fleurchild on @MHPrompt #php #learntocode #men…\",\"avatar\":\"https://pbs.twimg.com/profile_images/547883358219292672/9KN1EF7g_normal.png\"},{\"name\":\"VegasTech\",\"body\":\"RT
+  @hipsterhackers: It's that time again! Come and learn the basics of web development.
+  Starting at 6:30 at @WorkInProgress tonight! #learn…\",\"avatar\":\"https://pbs.twimg.com/profile_images/3181694649/c885bcd259d669f8925370c9abd8871c_normal.png\"},{\"name\":\"AppsFresh.com\",\"body\":\"#tutorial
+  #learning #learntocode iOS &amp; Xcode Developer Training: Lifetime Subscription
+  https://t.co/NuvMCke5iG http://t.co/CWOd9pg93M\",\"avatar\":\"https://pbs.twimg.com/profile_images/457305980561145856/SgyWTXoc_normal.png\"},{\"name\":\"Hipster
+  Hackers LV\",\"body\":\"It's that time again! Come and learn the basics of web development.
+  Starting at 6:30 at @WorkInProgress tonight! #learntocode #VegasTech\",\"avatar\":\"https://pbs.twimg.com/profile_images/564928432736186369/1YVIdDek_normal.png\"},{\"name\":\"Andrea
+  Bedini\",\"body\":\"\\\"If you are an inexperienced programmer, I recommend to write
+  everything into one file, say work.cpp\\\" — shit academics say #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/3552253173/7f20f77d3d2f72f8113bf5e7904ebebf_normal.jpeg\"},{\"name\":\"The
+  WCC\",\"body\":\"We Invite Everyone at Etsy to Do an Engineering Rotation: Here’s
+  why: https://t.co/pfM98PTqQ5 #coding #programming #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000778637297/976775ca2109071801aa618b9c8e63e6_normal.png\"},{\"name\":\"New
+  York PHP Group\",\"body\":\"tmrw @nyphp Talmudic Maxims to Maximize Your Growth
+  as a Dev with @coderabbi and @fleurchild on @MHPrompt #php #learntocode #mentalhealth\",\"avatar\":\"https://pbs.twimg.com/profile_images/521686361544224768/lZ9IGQn1_normal.png\"},{\"name\":\"Tommy
+  Janszen\",\"body\":\"RT @LendLayer: The age-old question: How to avoid burnout at
+  a #coding bootcamp. #learntocode http://t.co/wKgd1QaYtr\",\"avatar\":\"https://pbs.twimg.com/profile_images/560170035935580160/QMqViDYS_normal.jpeg\"},{\"name\":\"UK
+  Startups\",\"body\":\"RT @switchorg: \\\"The dev world doesn’t care about degrees
+  or certificates\\\" Jordon Poulton of @MakersAcademy http://t.co/IPBQBqiFEM #learntoc…\",\"avatar\":\"https://pbs.twimg.com/profile_images/556563512177090561/vK3JG36U_normal.png\"},{\"name\":\"Makers
+  Academy\",\"body\":\"RT @switchorg: \\\"The dev world doesn’t care about degrees
+  or certificates\\\" Jordon Poulton of @MakersAcademy http://t.co/IPBQBqiFEM #learntoc…\",\"avatar\":\"https://pbs.twimg.com/profile_images/3087236754/91e379b7e0006d38ee0526946a38a1ea_normal.png\"},{\"name\":\"Switchup\",\"body\":\"\\\"The
+  dev world doesn’t care about degrees or certificates\\\" Jordon Poulton of @MakersAcademy
+  http://t.co/IPBQBqiFEM #learntocode #coding\",\"avatar\":\"https://pbs.twimg.com/profile_images/526823225548754945/JwK-APps_normal.png\"},{\"name\":\"CodeNow\",\"body\":\"#NYC
+  HSers, our March #learntocode workshop is quickly approaching! Apply by Wed, Feb
+  25! http://t.co/8CVOxOoJEp\",\"avatar\":\"https://pbs.twimg.com/profile_images/3005163294/e4375bf12fd75cc0cfd82c955e03e187_normal.jpeg\"},{\"name\":\"MSFT
+  Silicon Valley\",\"body\":\"RT @CodeNowOrg Bay Area HS students we're excited to
+  teach you how to #code! Apply by 2/25 to #learntocode with us! http://t.co/p3zpDiQ3UK\",\"avatar\":\"https://pbs.twimg.com/profile_images/560148352512188416/HJlIpjDh_normal.png\"},{\"name\":\"refactorU\",\"body\":\"Brand
+  new to code? Identify common #HTML #elements with our latest blog post http://t.co/bCgPCuIDuf
+  #learntocode #codingbasics #javascript\",\"avatar\":\"https://pbs.twimg.com/profile_images/462035375486033920/vZHYoWS3_normal.png\"},{\"name\":\"CODE
+  Sprout +\",\"body\":\"RT @WeCanCodeIT: These 50 women are getting things done in
+  #SiliconValley! http://t.co/WSLqQHWA3q #learntocode #womenintech #coding http://…\",\"avatar\":\"https://pbs.twimg.com/profile_images/565363193132756992/7V2BGVh6_normal.png\"},{\"name\":\"Not-quite-librarian\",\"body\":\"Also
+  going to check out Scratch, if I can. #learntocode #erl15\",\"avatar\":\"https://pbs.twimg.com/profile_images/569376201404190720/yu_mO-hi_normal.jpeg\"},{\"name\":\"SmithAndBrooks\",\"body\":\"Doom
+  maker’s weapon of choice for teaching coding? Apple IIc\\nGoing old School makes
+  a difference :)\\n\\n#LearnToCode http://t.co/jAZS4kPzak\",\"avatar\":\"https://pbs.twimg.com/profile_images/2236365290/SmithAndBrooks_normal.jpg\"},{\"name\":\"DevPoint
+  Labs\",\"body\":\"Web Design. #Mondays #LearnToCode #Humor https://t.co/roxOzYJZDx\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000665606204/d5f43ea264681be02d30221606e4f84f_normal.jpeg\"},{\"name\":\"Coding
+  House\",\"body\":\"RT @LendLayer: The age-old question: How to avoid burnout at
+  a #coding bootcamp. #learntocode http://t.co/wKgd1QaYtr\",\"avatar\":\"https://pbs.twimg.com/profile_images/477157394850385920/ZGyWlzlu_normal.png\"},{\"name\":\"MikeK
+  aka ¨Scoop¨\",\"body\":\"RT @FreeCodeCamp: Free Code Camp is now 100 days old! http://t.co/3KulY2vKQl
+  #LearnToCode #JavaScript http://t.co/09qtG3lH6b\",\"avatar\":\"https://pbs.twimg.com/profile_images/1524987191/187b5e003d67__1270725941000_normal.jpg\"},{\"name\":\"We
+  Can Code IT\",\"body\":\"What you need to know about punctuation: http://t.co/cKPmK0od50
+  #learntocode #codingbootcamp #codehints #coding http://t.co/Gip1GAUILW\",\"avatar\":\"https://pbs.twimg.com/profile_images/502120200276168706/uw_Iz_rB_normal.png\"},{\"name\":\"Javascript
+  Digest\",\"body\":\"RT @BoiseCodeWorks: Are Coding Bootcamps a College Alternative?
+  by @ironhack http://t.co/2wYc1Z6h8q via @B2Community #code #javascript #dev…\",\"avatar\":\"https://pbs.twimg.com/profile_images/544034757730779136/-jOL7GnN_normal.jpeg\"},{\"name\":\"BoiseCodeWorks\",\"body\":\"Are
+  Coding Bootcamps a College Alternative? by @ironhack http://t.co/2wYc1Z6h8q via
+  @B2Community #code #javascript #development #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/567209236648562688/3UaroBFn_normal.jpeg\"},{\"name\":\"CodeNow\",\"body\":\"#BayArea
+  HSers don’t miss out! Our March #learntocode workshop is open for apps! Apply by
+  Wed, Feb 25! #SF #SanFran http://t.co/8CVOxOoJEp\",\"avatar\":\"https://pbs.twimg.com/profile_images/3005163294/e4375bf12fd75cc0cfd82c955e03e187_normal.jpeg\"},{\"name\":\"Dojo\",\"body\":\"RT
+  @LendLayer: The age-old question: How to avoid burnout at a #coding bootcamp. #learntocode
+  http://t.co/wKgd1QaYtr\",\"avatar\":\"https://pbs.twimg.com/profile_images/1653451442/Avatar_X360_normal.png\"},{\"name\":\"Rosie
+  Jane Pinchen\",\"body\":\"RT @WeCanCodeIT: Want to #learntocode? We're offering
+  a free #codingbootcamp March 9th! Here's how to apply: http://t.co/YmqQgMEbI4 http://…\",\"avatar\":\"https://pbs.twimg.com/profile_images/570668659280117760/_VurjoR2_normal.jpeg\"},{\"name\":\"Catalina
+  Valenzuela\",\"body\":\"RT @wyncode: @phingers of @MDLIVEInc getting ready to meet
+  our students. Biz dev at Wyncode. @thelabmiami #learntocode http://t.co/SR3opZGs…\",\"avatar\":\"https://pbs.twimg.com/profile_images/474184948404854784/IHytfK02_normal.png\"},{\"name\":\"Slingshot
+  Ventures \",\"body\":\"RT @wyncode: @phingers of @MDLIVEInc getting ready to meet
+  our students. Biz dev at Wyncode. @thelabmiami #learntocode http://t.co/SR3opZGs…\",\"avatar\":\"https://pbs.twimg.com/profile_images/539893159275147264/19gAxdCO_normal.jpeg\"},{\"name\":\"The
+  LAB Miami\",\"body\":\"RT @wyncode: @phingers of @MDLIVEInc getting ready to meet
+  our students. Biz dev at Wyncode. @thelabmiami #learntocode http://t.co/SR3opZGs…\",\"avatar\":\"https://pbs.twimg.com/profile_images/563763185073664000/D36XasWX_normal.png\"},{\"name\":\"V.
+  Enriquez-Rios\",\"body\":\"RT @WeCanCodeIT: Want to #learntocode? We're offering
+  a free #codingbootcamp March 9th! Here's how to apply: http://t.co/YmqQgMEbI4 http://…\",\"avatar\":\"https://pbs.twimg.com/profile_images/562449670392528896/aH7gnHcH_normal.jpeg\"},{\"name\":\"We
+  Can Code IT\",\"body\":\"Want to #learntocode? We're offering a free #codingbootcamp
+  March 9th! Here's how to apply: http://t.co/YmqQgMEbI4 http://t.co/jZfSwJ9bOC\",\"avatar\":\"https://pbs.twimg.com/profile_images/502120200276168706/uw_Iz_rB_normal.png\"},{\"name\":\"Switchup\",\"body\":\"\\\"
+  @codefellowsorg is a great place to get the help you...get off on the right foot.\\\"
+  - James Lorence http://t.co/LcwaSTTvQq #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/526823225548754945/JwK-APps_normal.png\"},{\"name\":\"Steve
+  McGarry\",\"body\":\"RT @LendLayer: The age-old question: How to avoid burnout at
+  a #coding bootcamp. #learntocode http://t.co/wKgd1QaYtr\",\"avatar\":\"https://pbs.twimg.com/profile_images/515930389651529728/4WFKCRxL_normal.jpeg\"},{\"name\":\"LendLayer
+  Llama\",\"body\":\"RT @LendLayer: The age-old question: How to avoid burnout at
+  a #coding bootcamp. #learntocode http://t.co/wKgd1QaYtr\",\"avatar\":\"https://pbs.twimg.com/profile_images/558435701927063552/RauBNAb5_normal.jpeg\"},{\"name\":\"NYCode+DesignAcademy\",\"body\":\"RT
+  @LendLayer: The age-old question: How to avoid burnout at a #coding bootcamp. #learntocode
+  http://t.co/wKgd1QaYtr\",\"avatar\":\"https://pbs.twimg.com/profile_images/2352991466/rlc8ysokffcsnalr5jav_normal.gif\"},{\"name\":\"BootcampIQ\",\"body\":\"RT
+  @LendLayer: The age-old question: How to avoid burnout at a #coding bootcamp. #learntocode
+  http://t.co/wKgd1QaYtr\",\"avatar\":\"https://pbs.twimg.com/profile_images/521828306161639424/J--FsGTS_normal.png\"},{\"name\":\"LendLayer\",\"body\":\"The
+  age-old question: How to avoid burnout at a #coding bootcamp. #learntocode http://t.co/wKgd1QaYtr\",\"avatar\":\"https://pbs.twimg.com/profile_images/507989433044328448/1VyKBf3z_normal.png\"},{\"name\":\"Wyncode
+  Academy\",\"body\":\"@phingers of @MDLIVEInc getting ready to meet our students.
+  Biz dev at Wyncode. @thelabmiami #learntocode http://t.co/SR3opZGsLX\",\"avatar\":\"https://pbs.twimg.com/profile_images/466757571374620672/tLDc8pXv_normal.jpeg\"},{\"name\":\"Margarettes
+  Fashions\",\"body\":\"RT @FreeCodeCamp: A Vision of Coding, Without Opening Your
+  Eyes http://t.co/3cleC9Hfta #LearnToCode #code #javascript #blindness http://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/516055211400380416/XIJiSllj_normal.jpeg\"},{\"name\":\"Gregorio
+  Rojas\",\"body\":\"RT @WeSabio: It is time for the #dailyStandup #meeting with the
+  weekday #SabioFellows #learntocode #womencode #javascript #.net http://t.co…\",\"avatar\":\"https://pbs.twimg.com/profile_images/1894938629/image_normal.jpg\"},{\"name\":\"Pernicious
+  Bovine\",\"body\":\"RT @WeSabio: It is time for the #dailyStandup #meeting with
+  the weekday #SabioFellows #learntocode #womencode #javascript #.net http://t.co…\",\"avatar\":\"https://pbs.twimg.com/profile_images/2165317112/dubstepcat_normal.gif\"},{\"name\":\"Sabio.la\",\"body\":\"It
+  is time for the #dailyStandup #meeting with the weekday #SabioFellows #learntocode
+  #womencode #javascript #.net http://t.co/XOuwi0Yk1k\",\"avatar\":\"https://pbs.twimg.com/profile_images/2873114153/51be67e26b2377a6ac8f7bb2eeb157bf_normal.png\"},{\"name\":\"David
+  Molina\",\"body\":\"RT @opcod3us: So far, 1 @usairforce, @USNavy, @USArmy #Veteran
+  have shared their story and path to #learntocode. We are #operationcode. Mor…\",\"avatar\":\"https://pbs.twimg.com/profile_images/487618925266350080/gE6nmtOD_normal.jpeg\"},{\"name\":\"Operation
+  Code\",\"body\":\"So far, 1 @usairforce, @USNavy, @USArmy #Veteran have shared their
+  story and path to #learntocode. We are #operationcode. More \U0001F3AC this week.\",\"avatar\":\"https://pbs.twimg.com/profile_images/557334564251521025/AGBcslM1_normal.png\"},{\"name\":\"LendLayer\",\"body\":\"10
+  Must-Do's for an Amazing Online Learning Experience @CourseReport @SkillCrush http://t.co/BNxIkp7CvD
+  #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/507989433044328448/1VyKBf3z_normal.png\"},{\"name\":\"Downtown
+  Residents  \",\"body\":\"RT @WeCanCodeIT: These 50 women are getting things done
+  in #SiliconValley! http://t.co/WSLqQHWA3q #learntocode #womenintech #coding http://…\",\"avatar\":\"https://pbs.twimg.com/profile_images/430437589166743552/lEzDqIVr_normal.jpeg\"},{\"name\":\"ladycollective\",\"body\":\"RT
+  @WeCanCodeIT: These 50 women are getting things done in #SiliconValley! http://t.co/WSLqQHWA3q
+  #learntocode #womenintech #coding http://…\",\"avatar\":\"https://pbs.twimg.com/profile_images/538799431890391041/Biig2620_normal.png\"},{\"name\":\"We
+  Can Code IT\",\"body\":\"These 50 women are getting things done in #SiliconValley!
+  http://t.co/WSLqQHWA3q #learntocode #womenintech #coding http://t.co/LUC2lAyRNU\",\"avatar\":\"https://pbs.twimg.com/profile_images/502120200276168706/uw_Iz_rB_normal.png\"},{\"name\":\"CoderFoundry\",\"body\":\"Our
+  next #codingbootcamp begins March 30th. #LearnToCode #GetAJob #teched #programming
+  #webdevelopers… http://t.co/VmvBc0oPig\",\"avatar\":\"https://pbs.twimg.com/profile_images/444485116421623808/GmofgeA8_normal.jpeg\"},{\"name\":\"Alex
+  Aylesbury\",\"body\":\"Kids prank their Dad using @Raspberry_Pi http://t.co/lpyZJeesWE
+  #RaspberrryPi #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/556192295650099202/vMaksLgg_normal.jpeg\"},{\"name\":\"Dennis
+  Patel\",\"body\":\"The prisoners trying to code their way to a better life http://t.co/OOw6OiaG1e
+  #coding #programming #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/561556200077004800/Kt3niTjW_normal.jpeg\"},{\"name\":\"Switchup\",\"body\":\"\\\"Enjoy
+  the process of becoming great.\\\" Read more great advice from @codingdojodotco
+  grad, Ted Whang http://t.co/NpFXug1Ayl #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/526823225548754945/JwK-APps_normal.png\"},{\"name\":\"geekgirlbeta\",\"body\":\"Can
+  I really get an education with this? https://t.co/0gZViknNRn #learntocode #geekgirlbeta
+  #techjobs #tech\",\"avatar\":\"https://pbs.twimg.com/profile_images/569916896854540288/jWrewNS9_normal.jpeg\"},{\"name\":\"Petr
+  Palan\",\"body\":\"6 Inspiring Websites That Teach You To #Code http://t.co/PkAR5aRySF
+  #learntocode with #codeacademy http://t.co/zrNVfYjoWy\",\"avatar\":\"https://pbs.twimg.com/profile_images/516847167378829312/HEh7Vq-4_normal.jpeg\"},{\"name\":\"Belgium
+  Startups\",\"body\":\"RT @LeWagonBrussels: Why founders should know how to #code
+  by @sgblank http://t.co/fq7v4fEiqK #learntocode #startup #lean\",\"avatar\":\"https://pbs.twimg.com/profile_images/551470069188800512/sF4x6Xe7_normal.png\"},{\"name\":\"Le
+  Wagon Brussels\",\"body\":\"Why founders should know how to #code by @sgblank http://t.co/fq7v4fEiqK
+  #learntocode #startup #lean\",\"avatar\":\"https://pbs.twimg.com/profile_images/497406533345349633/AOFeZKZs_normal.png\"},{\"name\":\"EasyPHP\",\"body\":\"First
+  beta of #codekodo lauched tomorrow. Beta testers needed! Website: http://t.co/sdKqsbvCFg
+  \\n#php #pyhton #ruby #code #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/3606491539/4675e18495b51c86d93ffa2bdca54eef_normal.png\"},{\"name\":\"N
+  A S H Y\",\"body\":\"RT @HackerEarth: Best practices for writing spring configuration
+  files #HETips #Developers #Programming #LearnToCode http://t.co/mGsI09TWJv\",\"avatar\":\"https://pbs.twimg.com/profile_images/569980848154628096/zUyiC__A_normal.jpeg\"},{\"name\":\"HackerEarth\",\"body\":\"Best
+  practices for writing spring configuration files #HETips #Developers #Programming
+  #LearnToCode http://t.co/mGsI09TWJv\",\"avatar\":\"https://pbs.twimg.com/profile_images/546991611490484224/4TU0SsFZ_normal.png\"},{\"name\":\"Ironhack\",\"body\":\"@v_vashishta
+  glad you liked the blog and thanks for sharing it with others! #happycoding #learntocode
+  #techtips\",\"avatar\":\"https://pbs.twimg.com/profile_images/466256995675160576/4L9u4Au__normal.png\"},{\"name\":\"Hugues
+  Marier\",\"body\":\"RT @Lewagonparis: Why founders should know how to #code by @sgblank
+  http://t.co/18vUQOTW8F #learntocode #startup #lean\",\"avatar\":\"https://pbs.twimg.com/profile_images/563007368338751488/JJ2lEKs4_normal.jpeg\"},{\"name\":\"André
+  Bastié\",\"body\":\"RT @Lewagonparis: Why founders should know how to #code by @sgblank
+  http://t.co/18vUQOTW8F #learntocode #startup #lean\",\"avatar\":\"https://pbs.twimg.com/profile_images/566014531261181952/8BrMFGC8_normal.jpeg\"},{\"name\":\"Belgium
+  Startups\",\"body\":\"RT @Lewagonparis: Why founders should know how to #code by
+  @sgblank http://t.co/18vUQOTW8F #learntocode #startup #lean\",\"avatar\":\"https://pbs.twimg.com/profile_images/551470069188800512/sF4x6Xe7_normal.png\"},{\"name\":\"Le
+  Wagon Brussels\",\"body\":\"RT @Lewagonparis: Why founders should know how to #code
+  by @sgblank http://t.co/18vUQOTW8F #learntocode #startup #lean\",\"avatar\":\"https://pbs.twimg.com/profile_images/497406533345349633/AOFeZKZs_normal.png\"},{\"name\":\"Le
+  Wagon\",\"body\":\"Why founders should know how to #code by @sgblank http://t.co/18vUQOTW8F
+  #learntocode #startup #lean\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000663985872/39f9c3690e17c5362e29c1e8c38d365a_normal.png\"},{\"name\":\"José
+  M Voces García\",\"body\":\"RT @FreeCodeCamp: A Vision of Coding, Without Opening
+  Your Eyes http://t.co/3cleC9Hfta #LearnToCode #code #javascript #blindness http://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/568863835331633152/4bKv0Pg0_normal.jpeg\"},{\"name\":\"Amulya
+  Kumar Sahoo\",\"body\":\"RT @HackerEarth: Edge Detection? What? Why? Read-on to
+  get the answers\\nhttp://t.co/KTy8oxByJz #HENotes #TechEd #LearnToCode #Programming\",\"avatar\":\"https://pbs.twimg.com/profile_images/489479667041046528/tZkdvp8S_normal.jpeg\"},{\"name\":\"HackerEarth\",\"body\":\"Tricky
+  and fun programming in C++ http://t.co/PYc6Rvg87o #HENotes #TechEd #LearnToCode
+  #Programming\",\"avatar\":\"https://pbs.twimg.com/profile_images/546991611490484224/4TU0SsFZ_normal.png\"},{\"name\":\"Linda
+  Chapman\",\"body\":\"RT @jasonogle: My 13yo son is learning code thru @lynda His
+  excitement of HTML for first time brought me back to mine circa 1996 #passtheto…\",\"avatar\":\"https://pbs.twimg.com/profile_images/496791235508854785/tMaJaL3Q_normal.jpeg\"},{\"name\":\"Valdes
+  Nzalli\",\"body\":\"RT @WeGotCoders: The training arm of our #webdev consultancy
+  was featured in @idgconnect today - read the article here http://t.co/NGY2O6Gn…\",\"avatar\":\"https://pbs.twimg.com/profile_images/2922359031/c47d44760a8c30cda9fd982a6a53db55_normal.jpeg\"},{\"name\":\"IDG
+  Connect\",\"body\":\"RT @WeGotCoders: The training arm of our #webdev consultancy
+  was featured in @idgconnect today - read the article here http://t.co/NGY2O6Gn…\",\"avatar\":\"https://pbs.twimg.com/profile_images/2050326606/Small_logo_for_social_media__version_2__copy_normal.jpg\"},{\"name\":\"liz
+  flanagan\",\"body\":\"RT @FreeCodeCamp: Check out this content-heavy podcast for
+  learning #WebDev: http://t.co/KlC6cDwuxG  #LearnToCode @startherefm http://t.co/…\",\"avatar\":\"https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png\"},{\"name\":\"liz
+  flanagan\",\"body\":\"RT @FreeCodeCamp: Free Code Camp is now 100 days old! http://t.co/3KulY2vKQl
+  #LearnToCode #JavaScript http://t.co/09qtG3lH6b\",\"avatar\":\"https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png\"},{\"name\":\"liz
+  flanagan\",\"body\":\"RT @FreeCodeCamp: A Vision of Coding, Without Opening Your
+  Eyes http://t.co/3cleC9Hfta #LearnToCode #code #javascript #blindness http://t.c…\",\"avatar\":\"https://abs.twimg.com/sticky/default_profile_images/default_profile_3_normal.png\"},{\"name\":\"Joshua
+  Greene\",\"body\":\"Notes from my intro programming course: http://t.co/Eep9M7QXLv.
+  Constructive criticism welcome! #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/545787457287905280/vAu2vHRK_normal.jpeg\"},{\"name\":\"Jeroen
+  Augustinus\",\"body\":\"I just wrangled @FreeCodeCamp Bonfire: Learn Computer Security
+  #LearnToCode #JavaScript\",\"avatar\":\"https://abs.twimg.com/sticky/default_profile_images/default_profile_4_normal.png\"},{\"name\":\"eduscopi\",\"body\":\"¡Buenos
+  días! Juegos para programadores. Resuelve problemas, mejora tus habilidades. http://t.co/hnFKOROEXi
+  @CodinGame #gbl #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/558367676502773760/PXXV63ih_normal.jpeg\"},{\"name\":\"John
+  Torres\",\"body\":\"RT @FreeCodeCamp: Bonfire's out now. Read about its development
+  process here: http://t.co/fcll6xGgfg #LearnToCode #JavaScript http://t.co/X…\",\"avatar\":\"https://pbs.twimg.com/profile_images/569476211764510720/whXTPawX_normal.jpeg\"},{\"name\":\"John
+  Torres\",\"body\":\"RT @FreeCodeCamp: Why learning to #code is so damn hard (for
+  everyone, not just you): http://t.co/rb3vNuF84x #LearnToCode http://t.co/CDoh3…\",\"avatar\":\"https://pbs.twimg.com/profile_images/569476211764510720/whXTPawX_normal.jpeg\"},{\"name\":\"John
+  Torres\",\"body\":\"RT @FreeCodeCamp: A Vision of Coding, Without Opening Your Eyes
+  http://t.co/3cleC9Hfta #LearnToCode #code #javascript #blindness http://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/569476211764510720/whXTPawX_normal.jpeg\"},{\"name\":\"HackerEarth\",\"body\":\"Edge
+  Detection? What? Why? Read-on to get the answers\\nhttp://t.co/KTy8oxByJz #HENotes
+  #TechEd #LearnToCode #Programming\",\"avatar\":\"https://pbs.twimg.com/profile_images/546991611490484224/4TU0SsFZ_normal.png\"},{\"name\":\"DevLikeAPro\",\"body\":\"RT
+  @FreeCodeCamp: Bonfire's out now. Read about its development process here: http://t.co/fcll6xGgfg
+  #LearnToCode #JavaScript http://t.co/X…\",\"avatar\":\"https://pbs.twimg.com/profile_images/500388956324655105/-SIvImDX_normal.jpeg\"},{\"name\":\"Mrs.Sarah
+  Gibson\",\"body\":\"RT @FreeCodeCamp: Bonfire's out now. Read about its development
+  process here: http://t.co/fcll6xGgfg #LearnToCode #JavaScript http://t.co/X…\",\"avatar\":\"https://pbs.twimg.com/profile_images/550870256294445056/mnwCCEmF_normal.png\"},{\"name\":\"Mrs.Sarah
+  Gibson\",\"body\":\"RT @FreeCodeCamp: Why learning to #code is so damn hard (for
+  everyone, not just you): http://t.co/rb3vNuF84x #LearnToCode http://t.co/CDoh3…\",\"avatar\":\"https://pbs.twimg.com/profile_images/550870256294445056/mnwCCEmF_normal.png\"},{\"name\":\"Mrs.Sarah
+  Gibson\",\"body\":\"RT @FreeCodeCamp: A Vision of Coding, Without Opening Your Eyes
+  http://t.co/3cleC9Hfta #LearnToCode #code #javascript #blindness http://t.c…\",\"avatar\":\"https://pbs.twimg.com/profile_images/550870256294445056/mnwCCEmF_normal.png\"},{\"name\":\"Math
+  Exerciser\",\"body\":\"RT @Kimba_67: Why You Should #LearnToCode (And How To Actually
+  Do It!) http://t.co/sjJs2TReEF via @diygeniusEDU #coding #tech http://t.co/w…\",\"avatar\":\"https://pbs.twimg.com/profile_images/567012868760301569/7BL97YDq_normal.jpeg\"},{\"name\":\"Kimberlee
+  Lockhart\",\"body\":\"10 Places Where Anyone Can Learn To Code http://t.co/d1UZEEZ32N||
+  #coding #learntocode http://t.co/Ca5YfjgZZw\",\"avatar\":\"https://pbs.twimg.com/profile_images/557059138593644545/wbN6m1Xo_normal.jpeg\"},{\"name\":\"Henry
+  Lockhart\",\"body\":\"RT @Kimba_67: Why You Should #LearnToCode (And How To Actually
+  Do It!) http://t.co/sjJs2TReEF via @diygeniusEDU #coding #tech http://t.co/w…\",\"avatar\":\"https://pbs.twimg.com/profile_images/571188677633667072/pJzHUIDg_normal.jpeg\"},{\"name\":\"GaltSquirrel\",\"body\":\"RT
+  @Kimba_67: Why You Should #LearnToCode (And How To Actually Do It!) http://t.co/sjJs2TReEF
+  via @diygeniusEDU #coding #tech http://t.co/w…\",\"avatar\":\"https://pbs.twimg.com/profile_images/539116390892838913/-rgYbJR7_normal.jpeg\"},{\"name\":\"Kimberlee
+  Lockhart\",\"body\":\"Why You Should #LearnToCode (And How To Actually Do It!) http://t.co/sjJs2TReEF
+  via @diygeniusEDU #coding #tech http://t.co/whdl3Qzv30\",\"avatar\":\"https://pbs.twimg.com/profile_images/557059138593644545/wbN6m1Xo_normal.jpeg\"},{\"name\":\"Chris
+  Hutchinson\",\"body\":\"RT @kidhasacamera: I just aced @FreeCodeCamp Challenge #15:
+  Tackle jQuery Exercises #LearnToCode #JavaScript\",\"avatar\":\"https://pbs.twimg.com/profile_images/553771537182883840/6mz1Urc4_normal.jpeg\"},{\"name\":\"Tindall
+  Hutchinson\",\"body\":\"I just aced @FreeCodeCamp Challenge #15: Tackle jQuery Exercises
+  #LearnToCode #JavaScript\",\"avatar\":\"https://pbs.twimg.com/profile_images/572040042732003329/y-wubfos_normal.jpeg\"},{\"name\":\"Brian
+  Barkowski\",\"body\":\"5 lucrative tech careers to pursue in 2015 http://t.co/zsOgkbVui3
+  #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/552452922077114368/3hJlyXi2_normal.jpeg\"},{\"name\":\"Jay
+  Watson\",\"body\":\"Tech skills you should know and how to learn them: http://t.co/SfIjSyUDEe
+  #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/568058754470387712/BiAWIgRA_normal.jpeg\"},{\"name\":\"David
+  R Hopkins\",\"body\":\"RT @CodeNowOrg: Know any #BayArea students who want to #learntocode?
+  Applications for our next training are due on 2/25 http://t.co/ddR04ek…\",\"avatar\":\"https://pbs.twimg.com/profile_images/438541283770920960/A6Uq3hon_normal.jpeg\"},{\"name\":\"Sabio.la\",\"body\":\"JOIN
+  US! Sabio Open House - March 7 - RSVP here: http://t.co/3EzUQfYNlc  #LearnToCode
+  #Startups #Coding #LA\",\"avatar\":\"https://pbs.twimg.com/profile_images/2873114153/51be67e26b2377a6ac8f7bb2eeb157bf_normal.png\"},{\"name\":\"CodeNow\",\"body\":\"Know
+  any #BayArea students who want to #learntocode? Applications for our next training
+  are due on 2/25 http://t.co/ddR04ekkiN  #SF #Oakland\",\"avatar\":\"https://pbs.twimg.com/profile_images/3005163294/e4375bf12fd75cc0cfd82c955e03e187_normal.jpeg\"},{\"name\":\"Gaming
+  Mushroom\",\"body\":\"RT @dmp_gctc: \\\"@PixelPressGame: Making games at the #sitconference
+  #Gamedev http://t.co/biTTjAj28m\\\" #edtech #stem #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/505712469843517440/XptrP6vU_normal.png\"},{\"name\":\"ECbotOfficial\",\"body\":\"RT
+  : \\\"PixelPressGame: Making games at the #sitconference #Gamedev http://t.co/szsor7TUhy\\\"
+  #edtech #stem #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/466150081142333440/79kpNmzY_normal.png\"},{\"name\":\"ALL
+  GAME Bot\",\"body\":\"RT @dmp_gctc: \\\"@PixelPressGame: Making games at the #sitconference
+  #Gamedev http://t.co/biTTjAj28m\\\" #edtech #stem #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/536309320128794624/xNhIoMXv_normal.png\"},{\"name\":\"Indie
+  Games Devel\",\"body\":\"RT @dmp_gctc: \\\"@PixelPressGame: Making games at the
+  #sitconference #Gamedev http://t.co/biTTjAj28m\\\" #edtech #stem #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/502398379213598720/WWnfhQoC_normal.png\"},{\"name\":\"Betty
+  Lowrance - DMP\",\"body\":\"\\\"@PixelPressGame: Making games at the #sitconference
+  #Gamedev http://t.co/biTTjAj28m\\\" #edtech #stem #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/521725826/digital_media_star_2_normal.jpg\"},{\"name\":\"Tom
+  Leskin\",\"body\":\"Why am I having such a hard time with linked lists? I understand
+  the concept, but the implementation is tough. Ugh... #ruby #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/566083885771915265/TJ7JOrrg_normal.jpeg\"},{\"name\":\"RobCampbell\",\"body\":\"Jennifer
+  from @lighthouse_labs at #HTML500 at @MaRSDD in Toronto on Sunday Feb 22nd, #payitforward,
+  #learntocode http://t.co/qJIn2A7PZH\",\"avatar\":\"https://pbs.twimg.com/profile_images/458729903093870592/40J4vqZS_normal.jpeg\"},{\"name\":\"Damon
+  Davison\",\"body\":\"RT @wyncode: #WomenOfWyncode lunch discussing women in #technology
+  &amp; building a diverse future! #learntocode @WITmiami @knightfdn http://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/568787964461719553/-AR3nvs9_normal.jpeg\"},{\"name\":\"Damon
+  Davison\",\"body\":\"RT @wyncode: Rockstars @walterlatimer &amp; @BonzoESC presenting
+  their work at #CodeAcross @miamiadschool #learntocode #codeforchange http://t.…\",\"avatar\":\"https://pbs.twimg.com/profile_images/568787964461719553/-AR3nvs9_normal.jpeg\"},{\"name\":\"Denise
+  Smith\",\"body\":\"RT @KyleVanPelt: A huge partnership between @ohubatl and @TheIronYard
+  was just announced at #10000Entrepreneurs conference!!! #learntocode\",\"avatar\":\"https://pbs.twimg.com/profile_images/378800000825800802/af7264d1faaaf810cb661cd1a53313f0_normal.jpeg\"},{\"name\":\"Damon
+  Davison\",\"body\":\"RT @wyncode: Wyncoders representing at #CodeAcross civic hackathon!
+  #CODE2015 #OpenDataDay @miamiadschool #learntocode http://t.co/xza2M8Cv…\",\"avatar\":\"https://pbs.twimg.com/profile_images/568787964461719553/-AR3nvs9_normal.jpeg\"},{\"name\":\"Pilar\",\"body\":\"HUGE
+  thanks to the @Shopify mentors who helped me at #learntocode Sunday! Bravo to @lighthouse_labs
+  &amp; @TheHTML500 \U0001F44F!!\",\"avatar\":\"https://pbs.twimg.com/profile_images/460838924579901440/AWMlJhWb_normal.jpeg\"},{\"name\":\"Chris
+  Hutchinson\",\"body\":\"RT @kidhasacamera: I just nailed @FreeCodeCamp Challenge
+  #14: Discover Chrome's DevTools  #LearnToCode #JavaScript\",\"avatar\":\"https://pbs.twimg.com/profile_images/553771537182883840/6mz1Urc4_normal.jpeg\"},{\"name\":\"The
+  HTML500\",\"body\":\"Hey #Toronto, have you thanked your #HTML500 mentor for helping
+  you #learntocode today? Snap a picture with 'em! #payitforward\",\"avatar\":\"https://pbs.twimg.com/profile_images/569776407056637952/wH_kG-gj_normal.jpeg\"},{\"name\":\"Tindall
+  Hutchinson\",\"body\":\"I just nailed @FreeCodeCamp Challenge #14: Discover Chrome's
+  DevTools  #LearnToCode #JavaScript\",\"avatar\":\"https://pbs.twimg.com/profile_images/572040042732003329/y-wubfos_normal.jpeg\"},{\"name\":\"Makey
+  Makey\",\"body\":\"RT @ungreg: Whats more conductive? Celery or red whips?? #makeymakey
+  #scratch. #learntocode #techsCOOL http://t.co/NxWtd8ETU5\",\"avatar\":\"https://pbs.twimg.com/profile_images/567020316929425408/jXIJeA6C_normal.jpeg\"},{\"name\":\"Sarah
+  Bennett\",\"body\":\"Mums and Dads - Don't be scared of technology. Your kids need
+  you! - http://t.co/FSUiHHZsw8 #parenting #learntocode http://t.co/PdbBH8oj0c\",\"avatar\":\"https://pbs.twimg.com/profile_images/568173992159506432/QdLIQlwq_normal.jpeg\"},{\"name\":\"Harriet
+  South\",\"body\":\"Table 11, still hard at work, with our @LoyaltyOne mentor, Sukhdeep
+  Samra. #HTML500 #learntocode http://t.co/RgB1yXDUEl\",\"avatar\":\"https://pbs.twimg.com/profile_images/569245532250324992/SVz0AP54_normal.jpeg\"},{\"name\":\"myKidsy\",\"body\":\"We're
+  proud sponsors of @Barclays #kids #LearnToCode programme! #CodingFun #edtech #ukedchat
+  Book a session now: http://t.co/5p1ZyrRRIk\",\"avatar\":\"https://pbs.twimg.com/profile_images/3694533757/c14e001dc370a989e185c59183774b0f_normal.png\"},{\"name\":\"The
+  HTML500\",\"body\":\"RT @LoyaltyOneJobs: We're ready for the career fair @TheHTML500,
+  stop by to meet the team #learntocode #LoyaltyOne http://t.co/XidUU52wLc\",\"avatar\":\"https://pbs.twimg.com/profile_images/569776407056637952/wH_kG-gj_normal.jpeg\"}],\"id\":\"twitter_mentions\",\"updatedAt\":1425263230}\n\n"
+recent_git_commitc: |+
+  data: {"text":"one step closer to a git commit message","id":"recent_git_commitc","updatedAt":1397044067}
+
+recent_git_commit: |+
+  data: {"text":"Commit messages now show in dashboard","id":"recent_git_commit","updatedAt":1404148992}
+
